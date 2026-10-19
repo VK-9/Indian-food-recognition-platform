@@ -42,12 +42,12 @@ A task is not `DONE` simply because its report or code has been submitted.
 
 | ID | Task | Owner | Priority | Status |
 |---|---|---|---|---|
-| SVL-01 | Investigate reference app and map user journey | Student A - Shyam | P0 | NOT STARTED |
-| SVL-02 | Investigate development approach and technical feasibility | Student A - Shyam | P0 | NOT STARTED |
-| SVL-03 | Build initial food-image input and result flow | Student A - Shyam | P0 | NOT STARTED |
-| SVL-04 | Create initial Indian food dataset | Student B - Khushi | P0 | NOT STARTED |
-| SVL-05 | Research nutrition sources and serving assumptions | Student B - Khushi | P0 | NOT STARTED |
-| SVL-06 | Research Tasir classifications for a small food set | Student B - Khushi | P1 | NOT STARTED |
+| SVL-01 | Investigate reference app and map user journey | Shyam | P0 | NOT STARTED |
+| SVL-02 | Investigate development approach and technical feasibility | Shyam | P0 | NOT STARTED |
+| SVL-03 | Build initial food-image input and result flow | Shyam | P0 | NOT STARTED |
+| SVL-04 | Create initial Indian food dataset | Khushi | P0 | NOT STARTED |
+| SVL-05 | Research nutrition sources and serving assumptions | Khushi | P0 | NOT STARTED |
+| SVL-06 | Research Tasir classifications for a small food set | Khushi | P1 | NOT STARTED |
 | SVL-07 | Design food correction and optional Tasir feedback flow | Shared - A leads implementation; B leads data requirements | P1 | NOT STARTED |
 | SVL-08 | Integrate prototype with initial food data | Shared | P0 | NOT STARTED |
 | SVL-09 | Test prototype and document findings | Shared | P0 | NOT STARTED |
@@ -61,7 +61,7 @@ The owner assignments are initial working assignments. They may be adjusted base
 
 ### SVL-01 - Investigate the Reference App and Map Its User Journey
 
-**Owner:** Student A - Shyam  
+**Owner:** Shyam  
 **Priority:** P0
 
 #### Objective
@@ -95,7 +95,7 @@ Understand how the reference food-scanning app works from a user's perspective.
 
 ### SVL-02 - Investigate the Technical Approach
 
-**Owner:** Student A - Shyam  
+**Owner:** Shyam  
 **Priority:** P0
 
 #### Objective
@@ -127,7 +127,7 @@ Determine a realistic way to implement the first prototype with the tools and re
 
 ### SVL-03 - Build the Initial Food-Image Input and Result Flow
 
-**Owner:** Student A - Shyam  
+**Owner:** Shyam  
 **Priority:** P0
 
 #### Objective
@@ -162,7 +162,7 @@ If live recognition is not feasible with available resources, first build the in
 
 ### SVL-04 - Create the Initial Indian Food Dataset
 
-**Owner:** Student B - Khushi  
+**Owner:** Khushi  
 **Priority:** P0
 
 #### Objective
@@ -209,7 +209,7 @@ Nutrition fields may be added when values and sources are available. Do not inve
 
 ### SVL-05 - Research Nutrition Sources and Serving Assumptions
 
-**Owner:** Student B - Khushi  
+**Owner:** Khushi  
 **Priority:** P0
 
 #### Objective
@@ -241,7 +241,7 @@ Determine how the prototype can present nutrition information responsibly for In
 
 ### SVL-06 - Research Tasir Classifications
 
-**Owner:** Student B - Khushi  
+**Owner:** Khushi  
 **Priority:** P1
 
 #### Objective
@@ -284,8 +284,8 @@ Investigate how a small set of foods are traditionally classified as *garam* or 
 
 ### SVL-07 - Design Food Correction and Tasir Feedback
 
-**Lead:** Student A - Shyam, for implementation  
-**Lead:** Student B - Khushi, for data requirements  
+**Lead:** Shyam, for implementation  
+**Lead:** Khushi, for data requirements  
 **Priority:** P1
 
 #### Objective
