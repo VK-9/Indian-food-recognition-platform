@@ -26,7 +26,10 @@ Ingredients and oil quantity vary by recipe.
 - The source does not specify the exact recipe or preparation basis for this entry.
 - The reported fat content may differ from typical homemade Poha depending on the quantity of oil used.
 - These values represent the selected database entry and may not reflect every homemade preparation.
-
+- The listed kcal and kJ values do not match the standard conversion exactly.
+- Confirm the recipe and serving basis before treating these values as final.
+- Do not assume every homemade Poha recipe has the same nutrition values.
+ 
 # Idli — Food Dataset Research Notes
 
 ## Food identification
@@ -165,7 +168,6 @@ Kidney beans are cooked and prepared with spices and gravy.
 - Actual serving and bowl weights have not been independently verified.
 - Oil, spices and cooking methods may affect nutritional values.
 - Some energy values show differences when compared with standard kcal-to-kJ conversion.
-- The dataset contains only five selected Indian food records and does not represent all Indian food varieties.
+- The dataset contains 50 selected Indian food records and does not represent every Indian food variety.
 - Missing or unavailable nutrition details should not be treated as zero.
 - Nutrition values represent the selected database entries and may not represent every homemade or regional variation.
-
