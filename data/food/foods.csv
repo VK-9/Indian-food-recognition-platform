@@ -1,0 +1,2 @@
+food_id,food_name,regional_names,food_category,common_ingredients,preparation_notes,serving_size,serving_unit,nutrition_source,confidence_or_notes
+F001,Poha,"Poha; Kanda Poha",Breakfast/Snack,"Flattened rice; onion; oil; mustard seeds; curry leaves; spices","Ingredients and oil quantity vary by recipe",,g,"Anuvaad Indian Nutrient Databank (INDB)","Nutrition values pending recipe and serving-size verification"
