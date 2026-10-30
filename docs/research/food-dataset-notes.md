@@ -28,3 +28,35 @@ Ingredients and oil quantity vary by recipe.
 - Do not assume every homemade Poha recipe has the same nutrition values.
 
 - The source provides both per-100-g and per-serving values. This record uses the per-100-g reference values; the bowl serving weight has not been confirmed.
+
+
+# Idli — Food Dataset Research Notes
+
+## Food identification
+- Food name: Idli
+- Regional name: Idli
+- Category: Breakfast
+
+## Common ingredients
+Rice, urad dal (black gram), water and salt.
+
+## Preparation notes
+The batter is fermented and steamed.
+
+## Nutrition source
+- Source: Anuvaad Indian Nutrient Databank (INDB)
+- Record: Idli
+- Reference basis: Per 100 g option selected on the source page.
+
+## Values observed per 100 g
+- Energy: 137.54 kcal
+- Energy: 575.46 kJ
+- Carbohydrates: 28.18 g
+- Protein: 4.64 g
+- Fat: 0.33 g
+- Fibre: 2.31 g
+
+## Verification notes
+- Values are recorded for plain Idli.
+- Suji Idli is a separate preparation and is not included in this record.
+- Nutritional values may vary depending on ingredients and preparation methods.
