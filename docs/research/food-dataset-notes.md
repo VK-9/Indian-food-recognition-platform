@@ -127,6 +127,14 @@ Dal is prepared by cooking moong dal with water and seasonings. Consistency and 
 - The source does not specify the exact recipe or preparation basis for this entry.
 - The energy and protein values are lower than those commonly expected for typical cooked Moong Dal.
 - The values may represent a more diluted preparation and should not be assumed to represent every homemade version.
+## Verification notes
+- The source does not specify the exact recipe or preparation basis for this entry.
+- The energy and protein values are lower than those commonly expected for typical cooked Moong Dal.
+- The values may represent a more diluted preparation and should not be assumed to represent every homemade version.
+- Values are recorded from the Dal moong entry in INDB.
+- The listed kcal and kJ values show a small conversion difference.
+- Ingredients and preparation methods may affect nutritional values.
+- The record uses the per-100-g reference values; serving weight has not been confirmed.
 
 # Rajma Curry — Food Dataset Research Notes
 
@@ -173,3 +181,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 - The dataset contains 50 selected Indian food records and does not represent every Indian food variety.
 - Missing or unavailable nutrition details should not be treated as zero.
 - Nutrition values represent the selected database entries and may not represent every homemade or regional variation.
+- Values are recorded from the Dal moong entry in INDB.
+- The listed kcal and kJ values show a small conversion difference.
+- Ingredients and preparation methods may affect nutritional values.
+- The record uses the per-100-g reference values; serving weight has not been confirmed.
