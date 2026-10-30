@@ -92,10 +92,7 @@ Official documentation supports Gemini as a candidate for this workflow. Its rec
 
 **Next action:** run the eight cases, add actual outputs and screenshots, then decide whether the results justify building an API-connected prototype. Until then, this is a technical-feasibility draft, not a completed tested experiment.
 
-## Sources
+## 8. Sources
 
-1. [Gemini 3.5 Flash-Lite: supported inputs and outputs](https://ai.google.dev/gemini-api/docs/models/gemini-3.5-flash-lite)
+1. [Gemini 3.8 Flash-Lite: supported inputs and outputs](https://ai.google.dev/gemini-api/docs/models/gemini-3.5-flash-lite)
 2. [Gemini API: getting started and API keys](https://ai.google.dev/gemini-api/docs/get-started)
-3. [Gemini API pricing and free-tier availability](https://ai.google.dev/gemini-api/docs/pricing)
-4. [Google AI Studio quickstart](https://ai.google.dev/gemini-api/docs/ai-studio-quickstart)
-5. [Project task requirements](https://github.com/VK-9/Indian-food-recognition-platform/blob/main/TASKS.md)
