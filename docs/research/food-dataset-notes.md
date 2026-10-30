@@ -92,3 +92,37 @@ The dough is rolled into a flat shape and cooked on a flat griddle. Preparation 
 - Values are recorded for Roti / Chapati.
 - Ingredients and preparation methods may affect nutritional values.
 - The kcal and kJ values show a small conversion difference and should be retained as listed by the source until verified.
+
+
+# Moong Dal — Food Dataset Research Notes
+
+## Food identification
+- Food name: Moong Dal
+- Regional names: Moong Dal; Dal Moong
+- Category: Dal
+
+## Common ingredients
+Moong dal, water, salt and spices.
+Ingredients and preparation methods may vary by recipe.
+
+## Preparation notes
+Dal is prepared by cooking moong dal with water and seasonings. Consistency and ingredients may vary.
+
+## Nutrition source
+- Source: Anuvaad Indian Nutrient Databank (INDB)
+- Record: https://www.anuvaad.org.in/nutrition-fact/dal-moong/
+- Reference basis: Per 100 g option selected on the source page.
+
+## Values observed per 100 g
+- Energy: 43.69 kcal
+- Energy: 181.89 kJ
+- Carbohydrates: 4.92 g
+- Protein: 2.20 g
+- Fat: 1.62 g
+- Fibre: 1.08 g
+
+## Verification notes
+- Values are recorded from the Dal moong entry in INDB.
+- The listed kcal and kJ values show a small conversion difference.
+- Ingredients and preparation methods may affect nutritional values.
+- The record uses the per-100-g reference values; serving weight has not been confirmed.
