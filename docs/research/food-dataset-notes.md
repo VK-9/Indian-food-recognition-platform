@@ -45,7 +45,7 @@ The batter is fermented and steamed.
 
 ## Nutrition source
 - Source: Anuvaad Indian Nutrient Databank (INDB)
-- Record: Idli
+- Record: https://www.anuvaad.org.in/nutrition-fact/idli/
 - Reference basis: Per 100 g option selected on the source page.
 
 ## Values observed per 100 g
@@ -77,7 +77,7 @@ The dough is rolled into a flat shape and cooked on a flat griddle. Preparation 
 
 ## Nutrition source
 - Source: Anuvaad Indian Nutrient Databank (INDB)
-- Record: Roti / Chapati
+- Record: https://www.anuvaad.org.in/nutrition-fact/chapati-roti/
 - Reference basis: Per 100 g.
 
 ## Values observed per 100 g
@@ -172,4 +172,5 @@ Kidney beans are cooked and prepared with spices and gravy.
 - Some energy values show differences when compared with standard kcal-to-kJ conversion.
 - The dataset contains only five selected Indian food records and does not represent all Indian food varieties.
 - Missing or unavailable nutrition details should not be treated as zero.
+- Nutrition values represent the selected database entries and may not represent every homemade or regional variation.
 
