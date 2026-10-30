@@ -231,4 +231,5 @@ Kidney beans are cooked and prepared with spices and gravy.
 - Some energy values show differences when compared with standard kcal-to-kJ conversion.
 - The dataset contains only five selected Indian food records and does not represent all Indian food varieties.
 - Missing or unavailable nutrition details should not be treated as zero.
+- Nutrition values represent the selected database entries and may not represent every homemade or regional variation.
 
