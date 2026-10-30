@@ -60,3 +60,35 @@ The batter is fermented and steamed.
 - Values are recorded for plain Idli.
 - Suji Idli is a separate preparation and is not included in this record.
 - Nutritional values may vary depending on ingredients and preparation methods.
+
+
+# Roti / Chapati — Food Dataset Research Notes
+
+## Food identification
+- Food name: Roti / Chapati
+- Regional names: Roti; Chapati
+- Category: Bread / Flatbread
+
+## Common ingredients
+Whole wheat flour, water and salt.
+
+## Preparation notes
+The dough is rolled into a flat shape and cooked on a flat griddle. Preparation methods and optional oil or ghee may vary.
+
+## Nutrition source
+- Source: Anuvaad Indian Nutrient Databank (INDB)
+- Record: Roti / Chapati
+- Reference basis: Per 100 g.
+
+## Values observed per 100 g
+- Energy: 202.31 kcal
+- Energy: 844.75 kJ
+- Carbohydrates: 35.65 g
+- Protein: 5.88 g
+- Fat: 3.56 g
+- Fibre: 6.31 g
+
+## Verification notes
+- Values are recorded for Roti / Chapati.
+- Ingredients and preparation methods may affect nutritional values.
+- The kcal and kJ values show a small conversion difference and should be retained as listed by the source until verified.
