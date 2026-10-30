@@ -126,3 +126,39 @@ Dal is prepared by cooking moong dal with water and seasonings. Consistency and 
 - The listed kcal and kJ values show a small conversion difference.
 - Ingredients and preparation methods may affect nutritional values.
 - The record uses the per-100-g reference values; serving weight has not been confirmed.
+
+
+# Rajma Curry — Food Dataset Research Notes
+
+## Food identification
+- Food name: Rajma Curry
+- Regional names: Rajma; Rajmah Curry
+- Category: Main Course
+
+## Common ingredients
+Kidney beans, onion, tomato, oil and spices.
+Ingredients and quantities may vary by recipe.
+
+## Preparation notes
+Kidney beans are cooked and prepared with spices and gravy.
+
+## Nutrition source
+- Source: Anuvaad Indian Nutrient Databank (INDB)
+- Record: https://www.anuvaad.org.in/
+- Record name: Kidney bean curry (Rajmah curry)
+- Reference basis: Per 100 g option selected on the source page.
+
+## Values observed per 100 g
+- Energy: 143.73 kcal
+- Energy: 598.11 kJ
+- Carbohydrates: 16.38 g
+- Protein: 5.95 g
+- Fat: 5.77 g
+- Fibre: 5.83 g
+
+## Verification notes
+- Values are recorded for Kidney bean curry (Rajmah curry).
+- The listed kcal and kJ values do not match the standard conversion exactly.
+- Ingredients and preparation methods may affect nutritional values.
+- The record uses the per-100-g reference values.
+
