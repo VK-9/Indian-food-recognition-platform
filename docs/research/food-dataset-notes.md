@@ -144,7 +144,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 
 ## Nutrition source
 - Source: Anuvaad Indian Nutrient Databank (INDB)
-- Record: https://www.anuvaad.org.in/
+- Record: https://www.anuvaad.org.in/nutrition-fact/kidney-bean-curry-rajmah-curry/
 - Record name: Kidney bean curry (Rajmah curry)
 - Reference basis: Per 100 g option selected on the source page.
 
@@ -161,4 +161,15 @@ Kidney beans are cooked and prepared with spices and gravy.
 - The listed kcal and kJ values do not match the standard conversion exactly.
 - Ingredients and preparation methods may affect nutritional values.
 - The record uses the per-100-g reference values.
+
+
+# Overall Dataset Limitations
+
+- Nutrition values are based on the selected Anuvaad INDB records.
+- Homemade recipes may have different ingredients and quantities.
+- Actual serving and bowl weights have not been independently verified.
+- Oil, spices and cooking methods may affect nutritional values.
+- Some energy values show differences when compared with standard kcal-to-kJ conversion.
+- The dataset contains only five selected Indian food records and does not represent all Indian food varieties.
+- Missing or unavailable nutrition details should not be treated as zero.
 
