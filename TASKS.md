@@ -45,7 +45,7 @@ A task is not `DONE` simply because its report or code has been submitted.
 | SVL-01 | Investigate reference app and map user journey | Shyam | P0 | NOT STARTED |
 | SVL-02 | Investigate development approach and technical feasibility | Shyam | P0 | NOT STARTED |
 | SVL-03 | Build initial food-image input and result flow | Shyam | P0 | NOT STARTED |
-| SVL-04 | Create initial Indian food dataset | Khushi | P0 | NOT STARTED |
+| SVL-04 | Create initial Indian food dataset | Khushi | P0 | IN PROGRESS |
 | SVL-05 | Research nutrition sources and serving assumptions | Khushi | P0 | NOT STARTED |
 | SVL-06 | Research Tasir classifications for a small food set | Khushi | P1 | NOT STARTED |
 | SVL-07 | Design food correction and optional Tasir feedback flow | Shared - A leads implementation; B leads data requirements | P1 | NOT STARTED |
