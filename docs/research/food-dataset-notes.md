@@ -119,11 +119,9 @@ Dal is prepared by cooking moong dal with water and seasonings. Consistency and 
 - Fibre: 1.08 g
 
 ## Verification notes
-- Values are recorded from the Dal moong entry in INDB.
-- The listed kcal and kJ values show a small conversion difference.
-- Ingredients and preparation methods may affect nutritional values.
-- The record uses the per-100-g reference values; serving weight has not been confirmed.
-
+- The source does not specify the exact recipe or preparation basis for this entry.
+- The energy and protein values are lower than those commonly expected for typical cooked Moong Dal.
+- The values may represent a more diluted preparation and should not be assumed to represent every homemade version.
 
 # Rajma Curry — Food Dataset Research Notes
 
