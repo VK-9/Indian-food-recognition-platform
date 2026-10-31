@@ -235,3 +235,37 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 - **Source URL:** https://www.anuvaad.org.in/nutrition-fact/plain-dosa/
 - **Confidence and limitations:** A matching plain dosa record is available. Masala Dosa is a different preparation because it includes a filling. Confirm the reference quantity before treating values as per 100 g.
+
+
+## Data Dictionary – foods.csv
+
+The following table explains each field used in `data/food/foods.csv`.
+
+| Field name | Description |
+|---|---|
+| `food_id` | Unique identification code assigned to each food entry, such as F001 or F002. |
+| `food_name` | Common name of the food or dish. |
+| `regional_names` | Alternative names or regional names used for the same food. |
+| `food_category` | Category of the food, such as Breakfast, Snack, Bread or Rice dish. |
+| `common_ingredients` | Main ingredients commonly used to prepare the dish. |
+| `preparation_notes` | Brief description of the preparation method and important variations. |
+| `serving_size` | Reference quantity or serving quantity associated with the record. Its meaning must be checked against the source. |
+| `serving_unit` | Unit used for the quantity, such as g or ml. |
+| `nutrition_source` | Name of the database or reference used for nutrition information. |
+| `nutrition_source_url` | Direct URL of the nutrition record or source. |
+| `energy_kcal_per_100g` | Energy value in kilocalories per 100 g, when available. |
+| `energy_kj_per_100g` | Energy value in kilojoules per 100 g, when available. |
+| `carbohydrates_g_per_100g` | Carbohydrate content in grams per 100 g. |
+| `protein_g_per_100g` | Protein content in grams per 100 g. |
+| `fat_g_per_100g` | Fat content in grams per 100 g. |
+| `fibre_g_per_100g` | Fibre content in grams per 100 g. |
+| `confidence_or_notes` | Records confidence, source limitations, recipe variations and other important observations. |
+
+### Data Handling Rules
+
+- Each food entry must have a unique `food_id`.
+- Nutrition values must be supported by a traceable source.
+- Nutrition fields may remain blank when values are unavailable or not verified.
+- Blank values must not be treated as zero.
+- Nutrition values with a per-100-g basis must not be confused with actual serving sizes.
+- Source limitations and recipe variations should be recorded in `confidence_or_notes`.
