@@ -231,7 +231,6 @@ IMPORTANT:
 The final test status is determined by comparing the model response with the actual image contents.
 
 ---
-
 ## 5. Test Results
 
 **Testing Status:** Initial Manual Testing Completed
@@ -249,6 +248,19 @@ The following table records the results of eight food-recognition test cases.
 | 07 | Regional Litti Chokha | Identify regional dish and visible accompaniments | Correctly identified Litti Chokha; expressed uncertainty about yellow gravy | PASS |
 | 08 | Spoon Without Food | Report no food detected | Returned "No food detected" | PASS |
 
+### Screenshot
+
+| ID | Screenshot |
+|---|---|
+| 01 | [Samosa Test](evidence/01_samosa.jpg) |
+| 02 | [Dosa Test](evidence/02-Dosa.jpg) |
+| 03 | [Mixed Indian Thali](evidence/03-%20Mixed-%20Indian%20Thali.jpg) |
+| 04 | [Poori Test](evidence/04-%20poori.jpg) |
+| 05 | [Bhatura Test](evidence/05-%20Bhatura.jpg) |
+| 06 | [Ambiguous Novelty Food Test](evidence/06%20-%20ambiguous%20Novelty%20Food.jpg) |
+| 07 | [Regional Litti Chokha Test](evidence/07-%20Regional%20Litti%20Chokha.jpg) |
+| 08 | [Spoon Without Food Test](evidence/08-%20Spoon%20Without%20Food.jpg) |
+| 09 | [Gemini 3.8 Flash Model Picker](evidence/model_picker.jpg) |
 ### Test Summary
 
 | Metric | Recorded Result |
