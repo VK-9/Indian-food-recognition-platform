@@ -23,12 +23,9 @@ Ingredients and oil quantity vary by recipe.
 - Fibre: 3.72 g
 
 ## Verification notes
-- The listed kcal and kJ values do not match the standard conversion exactly.
-- Confirm the recipe and serving basis before treating these values as final.
-- Do not assume every homemade Poha recipe has the same nutrition values.
-
-- The source provides both per-100-g and per-serving values. This record uses the per-100-g reference values; the bowl serving weight has not been confirmed.
-
+- The source does not specify the exact recipe or preparation basis for this entry.
+- The reported fat content may differ from typical homemade Poha depending on the quantity of oil used.
+- These values represent the selected database entry and may not reflect every homemade preparation.
 
 # Idli — Food Dataset Research Notes
 
