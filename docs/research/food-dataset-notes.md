@@ -169,3 +169,69 @@ Kidney beans are cooked and prepared with spices and gravy.
 - Missing or unavailable nutrition details should not be treated as zero.
 - Nutrition values represent the selected database entries and may not represent every homemade or regional variation.
 
+## Additional Food Entries (F006–F010)
+
+### F006 – Dal Tadka
+
+- **Food ID:** F006
+- **Category:** Lentil dish
+- **Regional names:** Dal Tadka; Tadka Dal
+- **Common ingredients:** Toor dal, onion, tomato, garlic, cumin seeds, spices, oil or ghee.
+- **Preparation details:** Toor dal is cooked until soft and finished with a tempering (tadka) of spices. The ingredients and quantity of oil or ghee may differ between recipes.
+- **Important variations:** Some preparations use different lentils, while others vary in consistency and tempering ingredients.
+- **Visually similar dishes:** Dal Fry and other yellow lentil preparations may look similar.
+- **Nutrition source:** Not yet verified.
+- **Source URL:** Not available.
+- **Confidence and limitations:** Common Indian lentil dish. A matching nutrition record has not yet been confirmed, so nutrition values are intentionally left blank.
+
+### F007 – Chole
+
+- **Food ID:** F007
+- **Category:** Lentil dish / Chickpea curry
+- **Regional names:** Chole; Chana Masala; Safed Channa Curry.
+- **Common ingredients:** Chickpeas, onion, tomato, ginger, spices and oil.
+- **Preparation details:** Chickpeas are cooked and prepared in a spiced gravy. Gravy thickness, ingredients and cooking methods may vary.
+- **Important variations:** Punjabi-style Chole and other regional chickpea curries may differ in spices and gravy.
+- **Visually similar dishes:** Rajma Curry and other dark-coloured legume curries.
+- **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/chickpeas-curry-safed-channa-curry/
+- **Confidence and limitations:** A matching chickpea curry record is available. Its recipe may not represent every homemade Chole preparation. Confirm the reference quantity before treating its values as per 100 g.
+
+### F008 – Aloo Paratha
+
+- **Food ID:** F008
+- **Category:** Bread / Stuffed flatbread
+- **Regional names:** Aloo Paratha; Potato Paratha; Aloo ka Paratha.
+- **Common ingredients:** Wheat flour, potato, salt, spices and oil or ghee.
+- **Preparation details:** A seasoned potato filling is placed inside wheat dough, rolled into a flatbread and cooked on a griddle.
+- **Important variations:** The filling may include onion, coriander, green chilli and different spices. Oil or ghee quantity also varies.
+- **Visually similar dishes:** Other stuffed parathas, such as Gobi Paratha and Mooli Paratha.
+- **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/potato-parantha-paratha-aloo-ka-parantha-paratha/
+- **Confidence and limitations:** A matching potato paratha record is available. Nutritional composition may vary with filling and cooking fat. Confirm the reference quantity before treating values as per 100 g.
+
+### F009 – Mixed Vegetable Pulao
+
+- **Food ID:** F009
+- **Category:** Rice dish
+- **Regional names:** Vegetable Pulao; Veg Pulao; Mixed Vegetable Pulao.
+- **Common ingredients:** Rice, mixed vegetables, onion, spices and oil or ghee.
+- **Preparation details:** Rice is cooked with vegetables and spices. Vegetables may be cooked together with rice or prepared separately before combining.
+- **Important variations:** Vegetable selection, rice variety, spices and cooking fat may differ by household and region.
+- **Visually similar dishes:** Vegetable Biryani and other mixed rice preparations.
+- **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/mixed-vegetable-pulao/
+- **Confidence and limitations:** A matching mixed vegetable pulao record is available. Recipe composition and vegetable proportions may vary. Confirm the reference quantity before treating values as per 100 g.
+
+### F010 – Plain Dosa
+
+- **Food ID:** F010
+- **Category:** South Indian dish
+- **Regional names:** Dosa; Dosai; Plain Dosa.
+- **Common ingredients:** Rice, urad dal (black gram), water and oil.
+- **Preparation details:** Rice and urad dal are soaked, ground into a batter and fermented. The batter is spread thinly on a hot griddle and cooked.
+- **Important variations:** Batter proportions, fermentation time, thickness and cooking oil may vary.
+- **Visually similar dishes:** Paper Dosa, Rava Dosa and other thin crepe-like preparations.
+- **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/plain-dosa/
+- **Confidence and limitations:** A matching plain dosa record is available. Masala Dosa is a different preparation because it includes a filling. Confirm the reference quantity before treating values as per 100 g.
