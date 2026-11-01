@@ -1,8 +1,7 @@
 # SVL-01 – Reference App Investigation and User Journey
-
-**Project:** Indian Food Recognition & Nutrition App  
+  
 **Reference Application:** Cal AI  
-**Investigation Type:** Manual User Experience Observation  
+**Investigation Type:** Investigate reference app and map user journey
 **Status:** Partially Completed
 
 ---
