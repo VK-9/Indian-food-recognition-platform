@@ -151,11 +151,27 @@ We could not directly test the food-scanning process because our investigation s
 
 However, we found reference images of the following screens from other sources:
 
+**Observation:**
+The app provides multiple ways to identify food, including camera scanning, barcode scanning, and food label scanning. The captured food image is used as input for AI-based food recognition and calorie estimation.
+
+**Process:**
 - Food scanning screen
 - Food image upload or camera screen
 - AI food analysis screen
 - Food recognition result
 - Nutrition information screen
+  
+### Example Of Food scanning and Nutrriton Analysis -
+
+- Displays a live camera interface to capture food images.
+- Shows the food item (Caesar Salad) inside the camera preview.
+- Allows users to scan food directly using the **Scan Food** option.
+- Provides a **Barcode** option to identify packaged food products.
+- Provides a **Food Label** option to scan or identify food through its label.
+- Offers 0.5x and 1x camera zoom options.
+- Includes a capture button to take a food picture.
+- Allows users to select an existing food image from the gallery.
+- After capturing or selecting an image, the app proceeds to food recognition and nutritional analysis.
 
 **Status:** Not Tested – External Reference
 
@@ -163,11 +179,21 @@ However, we found reference images of the following screens from other sources:
 
 [Cal AI Food Scanning Screen](./evidence/food-scanning.jpg)
 
-*Figure 7: Food scanning screen from an external reference.*
+### 8: Food Analysis Result Screen
 
+- Displays the identified food name: **Salmon and Broccoli Tray Bake**.
+- Shows the estimated total calories: **621 kcal**.
+- Provides nutritional details:
+  - Protein: 52g
+  - Carbohydrates: 20g
+  - Fats: 36g
+- Displays a Health Score of **7/10**.
+- Shows food ingredients and meal details.
+- Provides options to edit/fix the analysis results or confirm them using the Done button.
+
+**Screenshots:**
 [Cal AI Food Result Screen](./evidence/food-scanning-result.jpg)
 
-*Figure 8: Food recognition and nutrition result from an external reference.*
 
 ## 5. Information Shown to Users
 
