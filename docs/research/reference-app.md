@@ -1,18 +1,18 @@
 # SVL-01 – Reference App Investigation and User Journey
-  
+
 **Reference Application:** Cal AI  
-**Investigation Type:** Investigate reference app and map user journey
+**Investigation Type:** Reference App Study and User Journey  
 **Status:** Partially Completed
 
 ---
 
 ## 1. Objective
 
-The objective of this investigation is to understand how the Cal AI application works from a user's perspective.
+The main aim of this task is to understand how the Cal AI application works from a user's point of view.
 
-The investigation focuses on understanding the onboarding process, information collected from users, account creation, subscription flow, and the overall expected food-scanning journey.
+This study focuses on the app's onboarding process, user details, fitness goals, account creation, subscription screen, and food-scanning process.
 
-The purpose is to identify useful features, possible usability improvements, and opportunities to build a better food recognition and nutrition tracking experience for Indian users.
+The purpose is to learn from the reference app and find ways to make our Indian Food Recognition & Nutrition App more useful and easy to use.
 
 ## 2. Reference Application
 
@@ -20,244 +20,254 @@ The purpose is to identify useful features, possible usability improvements, and
 
 **Application Website:** https://www.calai.app/
 
-Cal AI is a food and calorie-tracking application designed to help users understand their food intake and manage their nutrition.
+Cal AI is an application that helps users track their food, calories, and daily nutrition.
 
-The investigation was conducted through authorized, user-visible application functionality. No private data, proprietary code, or restricted functionality was accessed.
+It helps users understand how much food they eat and keep track of their nutrition.
+
+We studied the features that were available to us in the app and also used other available reference material for screens that we could not access directly.
+
+No private data, restricted features, or app code was accessed.
 
 ## 3. Investigation Method
 
-The following activities were included in the manual investigation:
+The following steps were followed during the investigation:
 
-1. Accessed the reference application.
+1. Opened the Cal AI application.
 2. Started the onboarding process.
-3. Observed the questions asked during user setup.
-4. Recorded the personal information and fitness goals requested.
-5. Observed the calorie and nutrition targets displayed during setup.
-6. Continued through the account creation process.
+3. Checked the questions asked during setup.
+4. Noted the personal details and fitness goals requested by the app.
+5. Checked the daily calorie and nutrition targets.
+6. Continued to the account creation screen.
 7. Reached the subscription screen.
-8. Stopped the investigation without purchasing a subscription.
+8. Stopped the direct testing without purchasing a subscription.
+9. Used other available reference material to understand the food-scanning and nutrition-result screens.
 
-**Investigation limitation:** The investigation was completed only up to the subscription screen. The post-subscription food-scanning and analysis journey could not be directly tested.
+**Note:** We personally tested the app only up to the subscription screen. The remaining food-scanning and nutrition screens were not tested directly. Information about those screens was collected from other reference sources.
 
 ## 4. Observed User Journey
 
-The following steps represent the onboarding journey directly observed during the investigation.
+The following steps explain the user journey of Cal AI. Each step shows whether we tested it ourselves or referred to other sources.
 
 ### Step 1: Welcome Screen
 
-- The application displays a welcome screen.
-- A Get Started option allows users to begin the onboarding process.
-- The onboarding process collects information to understand the user's profile and goals.
+- The app shows a welcome screen.
+- Users can select the Get Started option to begin.
+- The app then starts asking questions about the user.
 
-**Observation Status:** Directly Observed
+**Status:** Observed – Personally Tested
+
+**Screenshot:**
+
+![Cal AI Welcome Screen](../../images/cal-ai-welcome.png)
+
+*Figure 1: Welcome screen of Cal AI.*
 
 ### Step 2: User Information Collection
 
-During onboarding, the application asks users for information such as:
+During onboarding, the app asks users for details such as:
 
 - Gender
 - Weekly workout frequency
 - Height
 - Weight
 - Date of birth (DOB)
-- Whether the user has previously used a calorie-tracking application
-- How the user discovered the application
+- Previous use of calorie-tracking apps
+- How the user found the application
 
-**Observation Status:** Directly Observed
+**Status:** Observed – Personally Tested
+
+**Screenshot:**
+
+![Cal AI User Information](../../images/cal-ai-user-info.png)
+
+*Figure 2: User information questions shown during onboarding.*
 
 ### Step 3: Fitness Goal Selection
 
-- The application collects information about the user's fitness goals.
-- Users are guided through questions related to their desired fitness outcomes.
-- A commitment interaction using a tap-and-hold action is also presented during setup.
+- The app asks users about their fitness goals.
+- Users can answer questions about what they want to achieve.
+- A tap-and-hold action is also shown during the setup process.
 
-**Observation Status:** Directly Observed
+**Status:** Observed – Personally Tested
 
-### Step 4: Onboarding Progress and Nutrition Targets
+**Screenshot:**
 
-- The application displays progress during the setup process.
-- After collecting user information, it displays personalized daily nutrition targets.
-- The observed nutrition information includes:
+![Cal AI Fitness Goals](../../images/cal-ai-fitness-goals.png)
+
+*Figure 3: Fitness goal selection screen.*
+
+### Step 4: Daily Nutrition Targets
+
+- The app shows the progress of the onboarding process.
+- After collecting user details, it displays daily nutrition targets.
+- The information includes:
   - Daily calorie target
   - Protein target
   - Carbohydrate target
   - Fat target
 
-**Observation Status:** Directly Observed
+**Status:** Observed – Personally Tested
+
+**Screenshot:**
+
+![Cal AI Nutrition Targets](../../images/cal-ai-nutrition-targets.png)
+
+*Figure 4: Daily calorie and nutrition targets.*
 
 ### Step 5: Account Creation
 
-The application provides account creation options.
+The app provides options to create an account.
 
-The observed options include:
+The available options we observed were:
 
 - Continue with Google
 - Continue with Email
 
-**Observation Status:** Directly Observed
+**Status:** Observed – Personally Tested
+
+**Screenshot:**
+
+![Cal AI Account Creation](../../images/cal-ai-account.png)
+
+*Figure 5: Account creation options.*
 
 ### Step 6: Subscription Screen
 
-- After the onboarding and account creation flow, the application reaches a subscription screen.
-- The subscription screen is part of the observed user journey.
-- No subscription was purchased during the investigation.
+- After the onboarding and account creation steps, the app shows a subscription screen.
+- Users are shown subscription options.
+- We did not purchase any subscription.
 
-**Observation Status:** Directly Observed
+**Status:** Observed – Personally Tested
+
+**Screenshot:**
+
+![Cal AI Subscription Screen](../../images/cal-ai-subscription.png)
+
+*Figure 6: Subscription screen where our direct testing stopped.*
 
 ### Step 7: Food Scanning and Nutrition Analysis
 
-The investigation stopped at the subscription screen.
+We could not directly test the food-scanning process because our investigation stopped at the subscription screen.
 
-Therefore, the following activities were not directly tested:
+However, we found reference images of the following screens from other sources:
 
-- Opening the food scanner
-- Capturing or uploading a food image
-- AI-based food recognition
-- Viewing calorie and nutrition results
-- Editing detected food items
-- Adjusting portion sizes
+- Food scanning screen
+- Food image upload or camera screen
+- AI food analysis screen
+- Food recognition result
+- Nutrition information screen
 
-**Observation Status:** Not Tested
+**Status:** Not Tested – External Reference
 
-## 5. User Journey Workflow 
+**Screenshots:**
 
-The following workflow represents the directly observed onboarding journey and clearly marks the point where the investigation stopped.
+![Cal AI Food Scanning Screen](../../images/cal-ai-food-scanning.png)
 
-```mermaid
-flowchart TD
-    A[Open Cal AI Application] --> B[Welcome Screen]
-    B --> C[Get Started]
-    C --> D[User Information]
-    D --> E[Fitness Goal Selection]
-    E --> F[Commitment Interaction]
-    F --> G[Onboarding Progress]
-    G --> H[Daily Nutrition Targets]
-    H --> I[Google or Email Account Creation]
-    I --> J[Subscription Screen]
-    J --> K[Investigation Stopped]
-    K -. Not Tested .-> L[Food Scanning]
-    L -. Not Tested .-> M[AI Food Recognition]
-    M -. Not Tested .-> N[Food Analysis Result]
-```
+*Figure 7: Food scanning screen from an external reference.*
 
-**Note:** The dashed workflow represents functionality that was not tested. It should not be interpreted as a verified Cal AI user journey.
+![Cal AI Food Result Screen](../../images/cal-ai-food-result.png)
 
-## 6. Information Displayed to Users
+*Figure 8: Food recognition and nutrition result from an external reference.*
 
-The following table summarizes the information and functionality observed during onboarding.
+## 5. Information Shown to Users
 
-| Feature | Observed Information | Status |
+The following table shows the features we observed and the features we could not test directly.
+
+| Feature | Information / Function | Status |
 |---|---|---|
 | Welcome Screen | Get Started option | Observed |
 | User Profile | Gender, height, weight, DOB | Observed |
 | Activity Information | Weekly workout frequency | Observed |
 | Previous App Usage | Previous calorie-app usage | Observed |
-| Fitness Goals | Goal-related questions | Observed |
+| Fitness Goals | Questions about fitness goals | Observed |
 | Daily Nutrition | Calories, protein, carbohydrates, fats | Observed |
 | Account Creation | Google and Email options | Observed |
 | Subscription | Subscription screen | Observed |
-| Food Scanning | Camera or gallery scanning | Not Tested |
-| Food Recognition | Detected food names | Not Tested |
-| Nutrition Results | Food calories and macros | Not Tested |
-| Food Editing | Correcting detected food or quantity | Not Tested |
+| Food Scanning | Food image scanning screen | Not Tested – External Reference |
+| Food Recognition | Food identification screen | Not Tested – External Reference |
+| AI Analysis | Food image analysis screen | Not Tested – External Reference |
+| Nutrition Results | Calories and nutrition details | Not Tested – External Reference |
+| Food Editing | Changing detected food or quantity | Not Tested |
 
-## 7. Food Scanning and Analysis – Untested Areas
+## 6. Food Scanning and Analysis – Features Not Tested
 
-The following features were identified as important investigation areas but could not be verified because the investigation stopped at the subscription screen.
+We could not test the following features directly in the Cal AI application.
 
-| Investigation Area | What Needs to Be Checked | Status |
+Some screen images were found through other reference sources, but their actual working process could not be checked.
+
+| Feature | What We Need to Check | Status |
 |---|---|---|
-| Food Image Input | Whether users can capture or upload food images | Not Tested |
-| Food Recognition | Whether the application identifies food correctly | Not Tested |
-| Mixed Meals | Whether multiple food items on one plate are identified separately | Not Tested |
-| Ambiguous Images | How the application handles unclear or blurry images | Not Tested |
-| Incorrect Predictions | Whether users can correct incorrect food predictions | Not Tested |
-| Portion Estimation | Whether serving size or food quantity can be adjusted | Not Tested |
-| Nutrition Results | Whether calories, protein, carbs, and fats are displayed | Not Tested |
-| Food Tracking | Whether scanned food can be added to a daily food diary | Not Tested |
+| Food Image Input | Can users take a photo or upload an image? | Not Tested – External Reference |
+| Food Recognition | Can the app identify food correctly? | Not Tested – External Reference |
+| Mixed Meals | Can it identify different foods on one plate? | Not Tested |
+| Unclear Images | How does it handle blurry or unclear food images? | Not Tested |
+| Wrong Predictions | Can users correct the wrong food name? | Not Tested |
+| Portion Size | Can users change the food quantity? | Not Tested |
+| Nutrition Results | Does it show calories, protein, carbs, and fats? | Not Tested – External Reference |
+| Food Tracking | Can users save scanned food in a daily food diary? | Not Tested |
 
-These are unanswered investigation questions, not confirmed limitations of Cal AI.
+These are questions for further investigation. They are not confirmed problems or limitations of Cal AI.
 
-## 8. Product Observations and Improvement Opportunities
+## 7. Product Observations and Improvement Ideas
 
-The following points combine direct onboarding observations with proposed improvements for our Indian Food Recognition & Nutrition App.
+The following points are based on our observations and ideas for improving our Indian Food Recognition & Nutrition App.
 
-| No. | Observation / Opportunity | Proposed Improvement |
+| No. | Observation / Opportunity | Improvement Idea |
 |---|---|---|
-| 1 | The application collects multiple personal details during onboarding. | Keep onboarding simple and ask only essential questions. |
-| 2 | The application collects fitness goals and activity information. | Provide clear and understandable fitness goal options. |
-| 3 | Daily calories and macronutrient targets are displayed during setup. | Show calories, protein, carbohydrates, and fats clearly on the dashboard. |
-| 4 | Users are guided through multiple onboarding steps. | Make the onboarding process short and easy to complete. |
-| 5 | The observed nutrition targets are useful for tracking food intake. | Provide nutrition information relevant to common Indian meals. |
-| 6 | Indian meals may contain several food items on a single plate. | Support mixed-meal recognition, such as Roti, Dal, Rice, and Sabzi. |
-| 7 | Indian food includes many regional dishes. | Support foods such as Poha, Dosa, Idli, Samosa, Paratha, and other regional dishes. |
-| 8 | Food recognition systems can produce uncertain predictions. | Provide a confirmation or correction option when food recognition is uncertain. |
-| 9 | Portion size affects nutrition calculations. | Allow users to adjust food quantity or serving size. |
+| 1 | The app asks users for personal details during onboarding. | Keep the setup simple and ask only important questions. |
+| 2 | The app asks about fitness goals and activity levels. | Provide clear options for different fitness goals. |
+| 3 | The app shows daily calorie and nutrition targets. | Show calories, protein, carbohydrates, and fats clearly on the dashboard. |
+| 4 | The onboarding process has multiple steps. | Make the setup process short and easy to complete. |
+| 5 | Daily nutrition targets help users track their food intake. | Include nutrition details for common Indian meals. |
+| 6 | Indian meals often contain multiple food items on one plate. | Recognize meals such as Roti, Dal, Rice, and Sabzi separately. |
+| 7 | India has many regional food items. | Support foods such as Poha, Dosa, Idli, Samosa, and Paratha. |
+| 8 | Food recognition may sometimes give incorrect results. | Allow users to check and correct detected food items. |
+| 9 | Food quantity affects calorie and nutrition values. | Allow users to change the food quantity or serving size. |
 
-**Important distinction:** Points 1–5 are based on the observed onboarding experience and proposed improvements. Points 6–9 are product opportunities for our application, not verified weaknesses of Cal AI.
+**Note:** Points 1–5 are based on the onboarding screens we personally observed. Points 6–9 are our own ideas for improving our application. They are not confirmed problems with Cal AI.
 
-## 9. Useful Features Identified
+## 8. Useful Features Identified
 
-Based on the directly observed onboarding process, the following features are useful references for our application:
+The following features can be useful while developing our application:
 
-1. **Simple Welcome Experience:** A clear starting point helps users begin using the application.
-2. **Personalized User Setup:** Collecting height, weight, age, and activity information can help personalize nutrition targets.
-3. **Fitness Goal Selection:** Users should be able to select their desired fitness goal.
-4. **Daily Nutrition Targets:** Showing calorie and macronutrient targets helps users understand their daily requirements.
-5. **Account Creation Options:** Providing Google and Email options gives users account access choices.
+1. **Simple Welcome Screen:** A clear starting screen helps users begin easily.
+2. **User Information:** Details such as height, weight, age, and activity level can help set nutrition targets.
+3. **Fitness Goals:** Users should be able to select their fitness goals.
+4. **Daily Nutrition Targets:** Showing calories, protein, carbohydrates, and fats helps users track their daily nutrition.
+5. **Account Creation:** Google and Email options give users different ways to create an account.
+6. **Food Scanning Screen:** External reference images can help us understand how a food-scanning screen may look. We did not test its working process.
+7. **Nutrition Result Screen:** External reference images can help us plan how to display food and nutrition details. We did not test this feature directly.
+   
+## 9. Questions for Further Investigation
 
-These are features observed during onboarding. Food-scanning features have not been verified.
+The following questions are still unanswered because we could not directly test the food-scanning process:
 
-## 10. Evidence and Screenshots
+1. Can users scan food using the camera or upload an image from the gallery?
+2. How accurately does the app recognize Indian food?
+3. Can it identify different food items from one Indian Thali image?
+4. What happens when a food image is blurry or unclear?
+5. Can users correct a wrong food prediction?
+6. How are calories, protein, carbohydrates, and fats calculated?
+7. What happens if the app cannot recognize a food item?
 
-Screenshots or handwritten investigation notes should be attached as evidence of the authorized observations.
+These questions can be checked later if we get authorized access to these features.
 
-Add the available evidence in the following sections:
+## 10. Investigation Limitations
 
-| Evidence | Description | Link |
-|---|---|---|
-| Evidence 1 | Welcome and Get Started Screen | [Add Screenshot Link] |
-| Evidence 2 | User Information Questions | [Add Screenshot Link] |
-| Evidence 3 | Fitness Goal Selection | [Add Screenshot Link] |
-| Evidence 4 | Daily Nutrition Targets | [Add Screenshot Link] |
-| Evidence 5 | Account Creation Screen | [Add Screenshot Link] |
-| Evidence 6 | Subscription Screen | [Add Screenshot Link] |
+- We studied only the features available to us.
+- We personally tested the onboarding process up to the subscription screen.
+- We did not purchase a subscription.
+- Food scanning and nutrition analysis were not tested directly.
+- External screenshots and information were used to understand the remaining screens.
+- We have kept personally tested features separate from externally collected references.
+- No private data, restricted features, or app code was accessed.
 
-**Evidence Note:** Only actual screenshots or genuine investigation notes should be added. Do not use design references as proof of direct application observations.
+## 11. Conclusion
 
-## 11. Unanswered Questions
+This investigation helped us understand the basic user journey of Cal AI.
 
-The following questions remain open because the food-scanning journey was not accessible during this investigation:
+We personally observed the welcome screen, user information questions, fitness goal selection, daily nutrition targets, account creation, and subscription screen.
 
-1. Does the application allow users to scan food using a camera and upload images from a gallery?
-2. How accurately does it recognize Indian food items?
-3. Can it identify multiple food items from a single Indian Thali image?
-4. How does it handle blurry images or food items that look similar?
-5. Does it allow users to edit an incorrectly detected food item?
-6. Can users change the estimated portion size?
-7. How are calories, protein, carbohydrates, and fats calculated?
-8. Does it provide a daily food diary and nutrition history?
-9. What happens when the application cannot recognize a food item?
+We also collected reference images of the food-scanning and nutrition-result screens from other sources. However, we did not test these features directly.
 
-These questions should be investigated only when the relevant functionality is available through authorized access.
-
-## 12. Investigation Limitations
-
-- The investigation was limited to user-visible functionality.
-- The onboarding process was observed up to the subscription screen.
-- No subscription was purchased.
-- Food scanning and post-subscription functionality were not tested.
-- No assumptions about untested features are presented as direct observations.
-- No proprietary code, private data, or restricted application functionality was accessed.
-
-## 13. Conclusion
-
-The manual investigation helped understand the initial user journey of Cal AI, including its welcome screen, user information collection, fitness goal selection, personalized daily nutrition targets, account creation, and subscription screen.
-
-The investigation also identified useful onboarding features and several opportunities to improve the user experience for Indian users.
-
-For our Indian Food Recognition & Nutrition App, the key opportunities include supporting regional Indian dishes, recognizing multiple food items in a single meal, displaying clear nutrition information, and allowing users to correct food predictions and adjust portion sizes.
-
-The food-scanning and nutrition-analysis journey of Cal AI remains untested and should be investigated separately if authorized access becomes available.
-
-**Final Status:** Partially Completed – Onboarding observed up to the subscription screen; food-scanning journey not tested.
+**Final Status:** Partially Completed – Onboarding personally tested up to the subscription screen. Remaining food-scanning and nutrition screens reviewed through external references but not tested directly.
