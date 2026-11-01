@@ -161,11 +161,11 @@ However, we found reference images of the following screens from other sources:
 
 **Screenshots:**
 
-![Cal AI Food Scanning Screen](../../images/cal-ai-food-scanning.png)
+[Cal AI Food Scanning Screen](./evidence/food-scanning.jpg)
 
 *Figure 7: Food scanning screen from an external reference.*
 
-![Cal AI Food Result Screen](../../images/cal-ai-food-result.png)
+[Cal AI Food Result Screen](./evidence/food-scanning-result.jpg)
 
 *Figure 8: Food recognition and nutrition result from an external reference.*
 
