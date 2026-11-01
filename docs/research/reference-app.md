@@ -120,7 +120,7 @@ Therefore, the following activities were not directly tested:
 
 **Observation Status:** Not Tested
 
-## 5. User Journey Workflow Diagram
+## 5. User Journey Workflow 
 
 The following workflow represents the directly observed onboarding journey and clearly marks the point where the investigation stopped.
 
