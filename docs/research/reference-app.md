@@ -58,7 +58,7 @@ The following steps explain the user journey of Cal AI. Each step shows whether 
 
 **Screenshot:**
 
-[Cal AI Welcome Screen](../../images/cal-ai-welcome.png)
+[Welcome Screen](./evidence/01-Welcome-screen.jpg)
 
 *Figure 1: Welcome screen of Cal AI.*
 
@@ -78,7 +78,7 @@ During onboarding, the app asks users for details such as:
 
 **Screenshot:**
 
-[Cal AI User Information](../../images/cal-ai-user-info.png)
+[ User Information ](./evidence/02-user-information.jpg)
 
 *Figure 2: User information questions shown during onboarding.*
 
@@ -92,7 +92,7 @@ During onboarding, the app asks users for details such as:
 
 **Screenshot:**
 
-[Cal AI Fitness Goals](../../images/cal-ai-fitness-goals.png)
+[Cal AI Fitness Goals](./evidence/03-Fitness-goal-selection.jpg)
 
 *Figure 3: Fitness goal selection screen.*
 
@@ -110,7 +110,7 @@ During onboarding, the app asks users for details such as:
 
 **Screenshot:**
 
-[Cal AI Nutrition Targets](../../images/cal-ai-nutrition-targets.png)
+[Cal AI Nutrition Targets](./evidence/04-nutrition-targets.jpg)
 
 *Figure 4: Daily calorie and nutrition targets.*
 
@@ -127,7 +127,7 @@ The available options we observed were:
 
 **Screenshot:**
 
-[Cal AI Account Creation](../../images/cal-ai-account.png)
+[Cal AI Account Creation](./evidence/05-account-creation.jpg)
 
 *Figure 5: Account creation options.*
 
@@ -141,7 +141,7 @@ The available options we observed were:
 
 **Screenshot:**
 
-[Cal AI Subscription Screen](../../images/cal-ai-subscription.png)
+[Cal AI Subscription Screen](./evidence/06-subscription-screen.jpg)
 
 *Figure 6: Subscription screen where our direct testing stopped.*
 
