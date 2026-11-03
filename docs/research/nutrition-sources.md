@@ -38,6 +38,23 @@ This is a useful source for prepared Indian dishes because it includes recipe-le
 
 These guidelines provide general dietary and food-group guidance. They may help provide context for food portions, but they should not be treated as the source of exact nutrition values for an individual prepared dish.
 
+### 2.4 Additional Nutrition Sources
+
+The dataset also uses additional nutrition sources for selected food records where a suitable matching entry was available.
+
+| Source | Usage |
+|---|---|
+| Healthify Nutrifacts | Nutrition information for selected prepared foods and beverages |
+| RealCalorieTracker | INDB-based recipe entries and close matching prepared dishes |
+| SVAS | Ingredient-based nutrition estimates informed by IFCT-2017 |
+| Khaana | Recipe-based nutrition estimates |
+| IIIT Delhi RecipeDB | Recipe-level nutritional information |
+| Barbeque Nation | Branded restaurant nutrition information |
+| TUMUL / Nandini | Branded product nutrition information |
+| NutriLifeCalc | Nutrition information for Dal Tadka |
+
+**Important:** These sources differ in methodology and reliability. Recipe-based estimates, branded product values and database entries should be identified according to their actual source type. A close recipe match should not be described as an exact match.
+
 ## 3. Raw Ingredients vs Cooked Foods vs Prepared Dishes
 
 Nutrition values depend on the state and preparation of the food.
@@ -72,41 +89,83 @@ For a source that provides nutrition per 100 g, the approximate nutrient amount 
 
 This calculation is valid only when the food and preparation basis match the source record.
 
-## 5. Initial Dataset Source Mapping
+## 5. Dataset Source Mapping (F001–F050)
 
-The initial dataset contains the following food entries:
+The following table maps all 50 food records to their respective nutrition sources.
 
-| Food ID | Food name | Nutrition source / status |
+| Food ID | Food Name | Nutrition Source |
 |---|---|---|
 | F001 | Poha | Anuvaad INDB |
 | F002 | Idli | Anuvaad INDB |
 | F003 | Roti / Chapati | Anuvaad INDB |
 | F004 | Moong Dal | Anuvaad INDB |
 | F005 | Rajma Curry | Anuvaad INDB |
-| F006 | Dal Tadka | Nutrition source not yet verified; values left blank |
-| F007 | Chole | Anuvaad recipe record; preparation basis should be checked |
-| F008 | Aloo Paratha | Anuvaad recipe record; preparation basis should be checked |
-| F009 | Mixed Vegetable Pulao | Anuvaad recipe record; preparation basis should be checked |
-| F010 | Plain Dosa | Anuvaad recipe record; preparation basis should be checked |
+| F006 | Dal Tadka | NutriLifeCalc |
+| F007 | Chole | Anuvaad INDB |
+| F008 | Aloo Paratha | Anuvaad INDB |
+| F009 | Mixed Vegetable Pulao | Anuvaad INDB |
+| F010 | Plain Dosa | Anuvaad INDB |
+| F011 | Samosa | Anuvaad INDB |
+| F012 | Vegetable Pakora | Anuvaad INDB |
+| F013 | Upma | Anuvaad INDB |
+| F014 | Khichdi | Anuvaad INDB |
+| F015 | Lemon Rice | Anuvaad INDB |
+| F016 | Jeera Rice | Anuvaad INDB |
+| F017 | Puri | Anuvaad INDB |
+| F018 | Bhatura | Anuvaad INDB |
+| F019 | Palak Paneer | Anuvaad INDB |
+| F020 | Paneer Butter Masala | RealCalorieTracker |
+| F021 | Masala Dosa | Anuvaad INDB |
+| F022 | Uttapam | RealCalorieTracker |
+| F023 | Medu Vada | Anuvaad INDB |
+| F024 | Dhokla | Anuvaad INDB |
+| F025 | Kachori | Anuvaad INDB |
+| F026 | Pav Bhaji | Anuvaad INDB |
+| F027 | Misal Pav | SVAS |
+| F028 | Thepla | Anuvaad INDB |
+| F029 | Litti Chokha | Khaana |
+| F030 | Baingan Bharta | Anuvaad INDB |
+| F031 | Vegetable Biryani | Anuvaad INDB |
+| F032 | Chicken Biryani | Barbeque Nation |
+| F033 | Masala Chai | Healthify Nutrifacts |
+| F034 | Curd Rice | Anuvaad INDB |
+| F035 | Vegetable Sandwich | Anuvaad INDB |
+| F036 | Paneer Tikka | IIIT Delhi RecipeDB |
+| F037 | Gulab Jamun | Anuvaad INDB |
+| F038 | Jalebi | Healthify Nutrifacts |
+| F039 | Kheer | Anuvaad INDB |
+| F040 | Poha Jalebi | No verified source for the exact combined dish |
+| F041 | Dal Baati Churma | No verified source for the exact combined dish |
+| F042 | Vada Pav | Healthify Nutrifacts |
+| F043 | Rava Dosa | Anuvaad INDB |
+| F044 | Appam | Anuvaad INDB |
+| F045 | Sambar | Anuvaad INDB |
+| F046 | Rasam | Anuvaad INDB |
+| F047 | Aloo Gobi | Anuvaad INDB |
+| F048 | Chana Dal | Anuvaad INDB |
+| F049 | Mysore Pak | TUMUL / Nandini |
+| F050 | Shrikhand | Anuvaad INDB |
 
-The corresponding source URLs are recorded in `data/food/foods.csv` and `docs/research/food-dataset-notes.md`.
-
-Nutrition values should remain blank when a reliable matching source has not been confirmed. Existing values should not be changed without checking the source record and its preparation basis.
+**Note:** F040 and F041 intentionally have blank nutrition fields because a sufficiently verified source for the exact combined dish was not available. Some other records use recipe-based estimates, branded product information, or close recipe matches rather than exact standardized entries. These limitations are documented in the individual food notes and CSV.
 
 ## 6. Foods with High Recipe Variation
 
-Some Indian dishes have substantial differences between household and regional recipes.
+Indian dishes can vary significantly across regions, households, ingredients and preparation methods. These differences can affect their nutritional composition.
 
-Examples include:
+Examples from this dataset include:
 
-- **Dal Tadka:** Different lentils, quantities of oil or ghee, and tempering ingredients may be used.
-- **Chole:** Chickpea quantity, gravy thickness and oil content can vary.
-- **Aloo Paratha:** Stuffing quantity and cooking fat can vary.
-- **Mixed Vegetable Pulao:** Rice-to-vegetable ratio and oil quantity can differ.
-- **Poha:** Added peanuts, potatoes and oil can change its nutritional composition.
-- **Rajma Curry:** Bean quantity and gravy ingredients can vary.
+- **Dal Tadka and Chana Dal:** Lentil type, water content, oil or ghee quantity and tempering ingredients can vary.
+- **Poha:** Peanuts, potatoes, onions and oil quantities may differ.
+- **Idli and Dosa varieties:** Batter composition, fermentation and preparation methods can affect nutritional values.
+- **Parathas and Thepla:** Stuffing, flour composition and cooking fat can vary.
+- **Puri, Bhatura, Samosa and Kachori:** Dough composition, filling and frying oil absorption can affect energy and fat values.
+- **Chole and Rajma Curry:** Legume quantity, gravy thickness and oil content can differ.
+- **Paneer Butter Masala and Palak Paneer:** Paneer quantity, cream, butter and gravy ingredients may vary.
+- **Biryani varieties:** Rice-to-ingredient ratio, cooking fat and preparation style can differ.
+- **Regional dishes such as Misal Pav and Litti Chokha:** Regional recipes and serving combinations may vary.
+- **Sweets such as Gulab Jamun, Jalebi, Kheer, Mysore Pak and Shrikhand:** Ingredients, sugar content and preparation methods can differ.
 
-A single generic nutrition value may not represent every version of these dishes. The selected source recipe and its limitations should therefore be documented.
+A single generic nutrition value may not represent every version of these dishes. The selected source recipe, food variant and preparation basis should therefore be documented. Where a close match or recipe-based estimate is used, it should not be presented as an exact standardized value.
 
 ## 7. Limitations of Image-Based Portion Estimation
 
@@ -164,3 +223,24 @@ For this project, nutrition values should be source-based, clearly labelled and 
 
 4. ICMR–National Institute of Nutrition. *Dietary Guidelines for Indians, 2024.*  
    https://www.nin.res.in/dietaryguidelines/pdfjs/locale/DGI24thJune2024fin.pdf
+5. NutriLifeCalc. Nutrition information used for Dal Tadka (F006).
+
+6. Healthify. Nutrifacts database. Used for selected food records, including Masala Chai, Jalebi and Vada Pav.
+   https://www.healthifyme.com/web/nutrifacts/vada-pav-284e957a95
+
+7. RealCalorieTracker. Nutrition information for Paneer in Butter Sauce and Uttapam.
+   https://realcalorietracker.com/foods/paneer-in-butter-sauce
+   https://realcalorietracker.com/foods/uttapam
+
+8. SVAS. Misal Pav nutrition information.
+   https://www.svas.life/nutrition/misal-pav/
+
+9. Khaana. Litti Chokha recipe.
+   https://khaana.com/recipes/litti-chokha.html
+
+10. IIIT Delhi. RecipeDB. Paneer Tikka recipe information.
+    https://cosylab.iiitd.edu.in/recipedb/search_recipeInfo/67098
+
+11. Barbeque Nation. Restaurant nutrition information used for Chicken Biryani (F032).
+
+12. TUMUL / Nandini. Branded product nutrition information used for Mysore Pak (F049).
