@@ -58,11 +58,13 @@ The following steps explain the user journey of Cal AI. Each step shows whether 
 
 **Screenshot:**
 
-[Welcome Screen](./evidence/01-Welcome-screen.jpg)
+<img src="evidence/01-Welcome-screen.jpg"
+     alt="Cal AI Welcome Screen"
+     width="250">
 
-*Figure 1: Welcome screen of Cal AI.*
+<p><em>Figure 1: Welcome screen of Cal AI.</em></p>
 
-### Step 2: User Information Collection
+## Step 2: User Information Collection
 
 During onboarding, the app asks users for details such as:
 
@@ -76,9 +78,13 @@ During onboarding, the app asks users for details such as:
 
 **Status:** Observed – Personally Tested
 
-**Screenshot:**
+**Screenshot:** User Information
 
-[ User Information ](./evidence/02-user-information.jpg)
+<img src="evidence/02-User-information.jpg" 
+  alt="User Information" 
+  width="300">
+
+<p><em>Figure 2: User information collection screen.</em></p>
 
 *Figure 2: User information questions shown during onboarding.*
 
