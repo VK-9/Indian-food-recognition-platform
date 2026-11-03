@@ -2,19 +2,10 @@
 
 **Reference Application:** Cal AI  
 **Investigation Type:** Reference App Study and User Journey  
-**Status:** Partially Completed
 
 ---
 
-## 1. Objective
-
-The main aim of this task is to understand how the Cal AI application works from a user's point of view.
-
-This study focuses on the app's onboarding process, user details, fitness goals, account creation, subscription screen, and food-scanning process.
-
-The purpose is to learn from the reference app and find ways to make our Indian Food Recognition & Nutrition App more useful and easy to use.
-
-## 2. Reference Application
+## 1. Reference Application
 
 **Application Name:** Cal AI
 
@@ -28,7 +19,7 @@ We studied the features that were available to us in the app and also used other
 
 No private data, restricted features, or app code was accessed.
 
-## 3. Investigation Method
+## 2. Investigation Method
 
 The following steps were followed during the investigation:
 
@@ -44,9 +35,9 @@ The following steps were followed during the investigation:
 
 **Note:** We personally tested the app only up to the subscription screen. The remaining food-scanning and nutrition screens were not tested directly. Information about those screens was collected from other reference sources.
 
-## 4. Observed User Journey
+## 3. Observed User Journey
 
-The following steps explain the user journey of Cal AI. Each step shows whether we tested it ourselves or referred to other sources.
+The following steps explain the user journey of Cal AI -
 
 ### Step 1: Welcome Screen
 
@@ -64,7 +55,7 @@ The following steps explain the user journey of Cal AI. Each step shows whether 
 
 <p><em>Figure 1: Welcome screen of Cal AI.</em></p>
 
-## Step 2: User Information Collection
+### Step 2: User Information Collection
 
 During onboarding, the app asks users for details such as:
 
@@ -78,15 +69,11 @@ During onboarding, the app asks users for details such as:
 
 **Status:** Observed – Personally Tested
 
-**Screenshot:** User Information
+**Screenshot:**
 
-<img src="evidence/02-User-information.jpg" 
-  alt="User Information" 
-  width="300">
+<img src="evidence/02-user-information.jpg" alt="User Information" width="250">
 
 <p><em>Figure 2: User information collection screen.</em></p>
-
-*Figure 2: User information questions shown during onboarding.*
 
 ### Step 3: Fitness Goal Selection
 
@@ -96,9 +83,9 @@ During onboarding, the app asks users for details such as:
 
 **Status:** Observed – Personally Tested
 
-**Screenshot:**
-
-[Cal AI Fitness Goals](./evidence/03-Fitness-goal-selection.jpg)
+<img src="./evidence/03-Fitness-goal-selection.jpg"
+     alt="Fitness Goal Selection"
+     width="250">
 
 *Figure 3: Fitness goal selection screen.*
 
@@ -116,9 +103,9 @@ During onboarding, the app asks users for details such as:
 
 **Screenshot:**
 
-[Cal AI Nutrition Targets](./evidence/04-nutrition-targets.jpg)
+<img src="evidence/04-nutrition-targets.jpg" alt="Nutrition Targets" width="250">
 
-*Figure 4: Daily calorie and nutrition targets.*
+<p><em>Figure 4: Nutrition targets screen.</em></p>
 
 ### Step 5: Account Creation
 
@@ -133,9 +120,9 @@ The available options we observed were:
 
 **Screenshot:**
 
-[Cal AI Account Creation](./evidence/05-account-creation.jpg)
+<img src="evidence/05-account-creation.jpg" alt="Account Creation" width="250">
 
-*Figure 5: Account creation options.*
+<p><em>Figure 5: Account creation screen.</em></p>
 
 ### Step 6: Subscription Screen
 
@@ -147,9 +134,9 @@ The available options we observed were:
 
 **Screenshot:**
 
-[Cal AI Subscription Screen](./evidence/06-subscription-screen.jpg)
+<img src="evidence/06-subscription-screen.jpg" alt="Subscription Screen" width="250">
 
-*Figure 6: Subscription screen where our direct testing stopped.*
+<p><em>Figure 6: Subscription screen.</em></p>
 
 ### Step 7: Food Scanning and Nutrition Analysis
 
@@ -160,6 +147,7 @@ However, we found reference images of the following screens from other sources:
 **Observation:**
 The app provides multiple ways to identify food, including camera scanning, barcode scanning, and food label scanning. The captured food image is used as input for AI-based food recognition and calorie estimation.
 
+**Source:** [Cal AI Official Website](https://www.calai.app/)
 **Process:**
 - Food scanning screen
 - Food image upload or camera screen
@@ -167,7 +155,11 @@ The app provides multiple ways to identify food, including camera scanning, barc
 - Food recognition result
 - Nutrition information screen
   
-### Example Of Food scanning and Nutrriton Analysis -
+**Screenshot:**
+
+<img src="evidence/food-scanning.jpg" alt="Food Scanning" width="250">
+
+<p><em>Figure 7: Food scanning interface.</em></p>
 
 - Displays a live camera interface to capture food images.
 - Shows the food item (Caesar Salad) inside the camera preview.
@@ -181,11 +173,13 @@ The app provides multiple ways to identify food, including camera scanning, barc
 
 **Status:** Not Tested – External Reference
 
-**Screenshots:**
+### Step 8: Example of Food Scanning Result 
 
-[Cal AI Food Scanning Screen](./evidence/food-scanning.jpg)
+**Screenshot:**
 
-### 8: Food Analysis Result Screen
+<img src="evidence/food-scanning-result.jpg" alt="Food Scanning Result" width="250">
+
+<p><em>Figure 8: Food scanning result screen.</em></p>
 
 - Displays the identified food name: **Salmon and Broccoli Tray Bake**.
 - Shows the estimated total calories: **621 kcal**.
@@ -197,11 +191,9 @@ The app provides multiple ways to identify food, including camera scanning, barc
 - Shows food ingredients and meal details.
 - Provides options to edit/fix the analysis results or confirm them using the Done button.
 
-**Screenshots:**
-[Cal AI Food Result Screen](./evidence/food-scanning-result.jpg)
+**Reference:** [Uiland Website](https://uiland.design/screens/cal-ai/screens/e1b16a4b-80ab-4064-ac29-3d034fa557a0)
 
-
-## 5. Information Shown to Users
+## 4. Information Shown to Users
 
 The following table shows the features we observed and the features we could not test directly.
 
@@ -221,11 +213,10 @@ The following table shows the features we observed and the features we could not
 | Nutrition Results | Calories and nutrition details | Not Tested – External Reference |
 | Food Editing | Changing detected food or quantity | Not Tested |
 
-## 6. Food Scanning and Analysis – Features Not Tested
+## 5. Food Scanning and Analysis – Features Not Tested
 
 We could not test the following features directly in the Cal AI application.
 
-Some screen images were found through other reference sources, but their actual working process could not be checked.
 
 | Feature | What We Need to Check | Status |
 |---|---|---|
@@ -240,7 +231,7 @@ Some screen images were found through other reference sources, but their actual 
 
 These are questions for further investigation. They are not confirmed problems or limitations of Cal AI.
 
-## 7. Product Observations and Improvement Ideas
+## 6. Product Observations and Improvement Ideas
 
 The following points are based on our observations and ideas for improving our Indian Food Recognition & Nutrition App.
 
@@ -258,7 +249,7 @@ The following points are based on our observations and ideas for improving our I
 
 **Note:** Points 1–5 are based on the onboarding screens we personally observed. Points 6–9 are our own ideas for improving our application. They are not confirmed problems with Cal AI.
 
-## 8. Useful Features Identified
+## 7. Useful Features Identified
 
 The following features can be useful while developing our application:
 
@@ -270,7 +261,7 @@ The following features can be useful while developing our application:
 6. **Food Scanning Screen:** External reference images can help us understand how a food-scanning screen may look. We did not test its working process.
 7. **Nutrition Result Screen:** External reference images can help us plan how to display food and nutrition details. We did not test this feature directly.
    
-## 9. Questions for Further Investigation
+## 8. Questions for Further Investigation
 
 The following questions are still unanswered because we could not directly test the food-scanning process:
 
@@ -284,7 +275,7 @@ The following questions are still unanswered because we could not directly test 
 
 These questions can be checked later if we get authorized access to these features.
 
-## 10. Investigation Limitations
+## 9. Investigation Limitations
 
 - We studied only the features available to us.
 - We personally tested the onboarding process up to the subscription screen.
@@ -294,7 +285,7 @@ These questions can be checked later if we get authorized access to these featur
 - We have kept personally tested features separate from externally collected references.
 - No private data, restricted features, or app code was accessed.
 
-## 11. Conclusion
+## 10. Conclusion
 
 This investigation helped us understand the basic user journey of Cal AI.
 
