@@ -49,7 +49,7 @@ The following steps explain the user journey of Cal AI -
 
 **Screenshot:**
 
-<img src="evidence/01-Welcome-screen.jpg"
+<img src="evidence/calai-refrence/01-Welcome-screen.jpg"
      alt="Cal AI Welcome Screen"
      width="250">
 
@@ -71,7 +71,7 @@ During onboarding, the app asks users for details such as:
 
 **Screenshot:**
 
-<img src="evidence/02-user-information.jpg" alt="User Information" width="250">
+<img src="evidence/calai-refrence/02-user-information.jpg" alt="User Information" width="250">
 
 <p><em>Figure 2: User information collection screen.</em></p>
 
@@ -83,7 +83,7 @@ During onboarding, the app asks users for details such as:
 
 **Status:** Observed – Personally Tested
 
-<img src="./evidence/03-Fitness-goal-selection.jpg"
+<img src="./evidence/calai-refrence/03-Fitness-goal-selection.jpg"
      alt="Fitness Goal Selection"
      width="250">
 
@@ -103,7 +103,7 @@ During onboarding, the app asks users for details such as:
 
 **Screenshot:**
 
-<img src="evidence/04-nutrition-targets.jpg" alt="Nutrition Targets" width="250">
+<img src="evidence/calai-refrence/04-nutrition-targets.jpg" alt="Nutrition Targets" width="250">
 
 <p><em>Figure 4: Nutrition targets screen.</em></p>
 
@@ -120,7 +120,7 @@ The available options we observed were:
 
 **Screenshot:**
 
-<img src="evidence/05-account-creation.jpg" alt="Account Creation" width="250">
+<img src="evidence/calai-refrence/05-account-creation.jpg" alt="Account Creation" width="250">
 
 <p><em>Figure 5: Account creation screen.</em></p>
 
@@ -134,7 +134,7 @@ The available options we observed were:
 
 **Screenshot:**
 
-<img src="evidence/06-subscription-screen.jpg" alt="Subscription Screen" width="250">
+<img src="evidence/calai-refrence/06-subscription-screen.jpg" alt="Subscription Screen" width="250">
 
 <p><em>Figure 6: Subscription screen.</em></p>
 
@@ -157,7 +157,7 @@ The app provides multiple ways to identify food, including camera scanning, barc
   
 **Screenshot:**
 
-<img src="evidence/food-scanning.jpg" alt="Food Scanning" width="250">
+<img src="evidence/calai-refrence/food-scanning.jpg" alt="Food Scanning" width="250">
 
 <p><em>Figure 7: Food scanning interface.</em></p>
 
@@ -177,7 +177,7 @@ The app provides multiple ways to identify food, including camera scanning, barc
 
 **Screenshot:**
 
-<img src="evidence/food-scanning-result.jpg" alt="Food Scanning Result" width="250">
+<img src="evidence/calai-refrence/food-scanning-result.jpg" alt="Food Scanning Result" width="250">
 
 <p><em>Figure 8: Food scanning result screen.</em></p>
 
