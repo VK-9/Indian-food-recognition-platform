@@ -1,9 +1,6 @@
 
 # Technical Feasibility: Indian Food Recognition
 
-**Author:** Shyam  
-**Date:** 27 October 2026  
-**Last Updated:** 30 October 2026  
 **Status:** Initial Manual Food Recognition Testing Completed
 
 ---
@@ -16,17 +13,6 @@ This report presents a manual technical experiment conducted using **Gemini 3.8 
 
 The experiment focuses on:
 
-- Recognizing common Indian food dishes.
-- Identifying multiple food items in a single image.
-- Handling visually similar food items.
-- Recognizing regional and unusual Indian dishes.
-- Expressing uncertainty when identification is unclear.
-- Detecting images without food.
-- Recording incorrect predictions and limitations.
-
-The main objective is to determine whether an existing AI vision model can support a future Indian Food Scanning application without training a custom machine learning model.
-
----
 
 ## 2. Selected Technical Approach
 
