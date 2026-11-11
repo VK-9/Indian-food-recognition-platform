@@ -1,9 +1,6 @@
 
 # Technical Feasibility: Indian Food Recognition
 
-**Author:** Shyam  
-**Date:** 27 October 2026  
-**Last Updated:** 30 October 2026  
 **Status:** Initial Manual Food Recognition Testing Completed
 
 ---
@@ -16,17 +13,6 @@ This report presents a manual technical experiment conducted using **Gemini 3.8 
 
 The experiment focuses on:
 
-- Recognizing common Indian food dishes.
-- Identifying multiple food items in a single image.
-- Handling visually similar food items.
-- Recognizing regional and unusual Indian dishes.
-- Expressing uncertainty when identification is unclear.
-- Detecting images without food.
-- Recording incorrect predictions and limitations.
-
-The main objective is to determine whether an existing AI vision model can support a future Indian Food Scanning application without training a custom machine learning model.
-
----
 
 ## 2. Selected Technical Approach
 
@@ -252,15 +238,15 @@ The following table records the results of eight food-recognition test cases.
 
 | ID | Screenshot |
 |---|---|
-| 01 | [Samosa Test](evidence/01_samosa.jpg) |
-| 02 | [Dosa Test](evidence/02-Dosa.jpg) |
-| 03 | [Mixed Indian Thali](evidence/03-%20Mixed-%20Indian%20Thali.jpg) |
-| 04 | [Poori Test](evidence/04-%20poori.jpg) |
-| 05 | [Bhatura Test](evidence/05-%20Bhatura.jpg) |
-| 06 | [Ambiguous Novelty Food Test](evidence/06%20-%20ambiguous%20Novelty%20Food.jpg) |
-| 07 | [Regional Litti Chokha Test](evidence/07-%20Regional%20Litti%20Chokha.jpg) |
-| 08 | [Spoon Without Food Test](evidence/08-%20Spoon%20Without%20Food.jpg) |
-| 09 | [Gemini 3.8 Flash Model Picker](evidence/model_picker.jpg) |
+| 01 | [Samosa Test](evidence/gemini-food-testing/01_samosa.jpg) |
+| 02 | [Dosa Test](evidence/gemini-food-testing/02-Dosa.jpg) |
+| 03 | [Mixed Indian Thali](evidence/gemini-food-testing/03-%20Mixed-%20Indian%20Thali.jpg) |
+| 04 | [Poori Test](evidence/gemini-food-testing/04-%20poori.jpg) |
+| 05 | [Bhatura Test](evidence/gemini-food-testing/05-%20Bhatura.jpg) |
+| 06 | [Ambiguous Novelty Food Test](evidence/gemini-food-testing/06%20-%20ambiguous%20Novelty%20Food.jpg) |
+| 07 | [Regional Litti Chokha Test](evidence/gemini-food-testing/07-%20Regional%20Litti%20Chokha.jpg) |
+| 08 | [Spoon Without Food Test](evidence/gemini-food-testing/08-%20Spoon%20Without%20Food.jpg) |
+| 09 | [Gemini 3.8 Flash Model Picker](evidence/gemini-food-testing/model_picker.jpg) |
 ### Test Summary
 
 | Metric | Recorded Result |
