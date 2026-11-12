@@ -130,14 +130,20 @@ Five different Indian food images were tested using the Gemini API.
 
 ## Model Selection Evidence
 
-<img src="evidence/technical-food-testing/Gemini-Model.jpg" width="500" alt="Gemini Model">
+<img src="evidence/technical-food-testing/gemini-model-select.jpg" width="500" alt="Gemini Model">
 
-## Testing Summary-
 
-- A total of 5 Indian food images were tested.
-- The API successfully identified the main food items.
-- It also detected ingredients, cooking methods, and portion sizes.
-- Some details, such as hidden fillings and exact regional ingredients, may not be identified accurately.
+
+## Testing Summary
+
+- Selected Gemini 3.5 Flash model.
+- Generated and configured the Gemini API key.
+- Integrated Gemini API with Python.
+- Used Flask for backend setup.
+- Tested 5 Indian food images.
+- Checked and recorded API results.
+
+
 
 ## Technical Feasibility-
 
