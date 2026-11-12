@@ -1,133 +1,160 @@
 
-# Gemini API Key – Indian Food Recognition Testing
+# Gemini API – Technical Testing
 
-
-## 1. Technology Used
+## Technology Used
 
 - **Programming Language:** Python
-- **Development Environment:** Visual Studio Code
+- **IDE:** Visual Studio Code
 - **AI Model:** Gemini 3.5 Flash
-- **AI Platform:** Google AI Studio
-- **Backend:** Python with Flask
-- **API Integration:** Google Gemini API
+- **Platform:** Google AI Studio
+- **Backend:** Flask
+- **API:** Google Gemini API
 
-## 2. Working Approach
+## Working Approach
 
-1. The user uploads a food image.
-2. The Python Flask backend receives the image.
-3. The image is sent to the Gemini API.
-4. Gemini analyzes the food image.
-5. The API returns the food name, other visible items, category, cooking method, ingredients, portion size and confidence level.
+1. A food image is uploaded to the Python application.
+2. The image is sent to the Gemini API.
+3. Gemini analyzes the food image.
+4. The API identifies the food name, ingredients, cooking method, portion size, and other details.
+5. The generated result is displayed for testing.
 
-## 3. Practical Testing
+## Practical Testing
 
-We tested the API using five Indian food images.
+Five different Indian food images were tested using the Gemini API.
 
 ### Test 1: Masala Dosa
 
+#### 1. Original Food Image
+
+![Original Masala Dosa](../../evidence/masala-dosa-input.jpg)
+
+#### 2. Tested Image Result
+
 ![Masala Dosa API Result](../../evidence/masala-dosa-result.jpg)
 
-- **Food:** Masala Dosa
+#### 3. Analysis Details
+
+- **Food Name:** Masala Dosa
 - **Other Items:** Sambar, coconut chutney, red chutney
 - **Category:** South Indian Food
-- **Cooking:** Pan-fried
+- **Cooking Method:** Pan-fried
 - **Ingredients:** Rice batter, potato filling, curry leaves
-- **Portion:** Large
+- **Portion Size:** Large
 - **Confidence:** High
-- **Observation:** The model correctly identified the main food and visible side items.
+- **Note:** None
 
 ### Test 2: South Indian Thali
 
+#### 1. Original Food Image
+
+![Original South Indian Thali](../../evidence/south-indian-thali-input.jpg)
+
+#### 2. Tested Image Result
+
 ![South Indian Thali API Result](../../evidence/south-indian-thali-result.jpg)
 
-- **Food:** South Indian Thali
+#### 3. Analysis Details
+
+- **Food Name:** South Indian Thali
 - **Other Items:** Rice, sambar, rasam, vegetable curries, curd, puri, papadum
 - **Category:** Indian Cuisine
-- **Cooking:** Steamed, boiled, deep-fried
+- **Cooking Method:** Steamed, boiled, deep-fried
 - **Ingredients:** White rice, lentils, drumsticks, green vegetables, curd, wheat flour
-- **Portion:** Large
+- **Portion Size:** Large
 - **Confidence:** High
-- **Observation:** Multiple food items were identified. Exact regional names of some small side curries may vary.
+- **Note:** Small side curries' regional names may vary.
 
 ### Test 3: Poori
 
+#### 1. Original Food Image
+
+![Original Poori](../../evidence/poori-input.jpg)
+
+#### 2. Tested Image Result
+
 ![Poori API Result](../../evidence/poori-result.jpg)
 
-- **Food:** Poori
+#### 3. Analysis Details
+
+- **Food Name:** Poori
 - **Other Items:** None
 - **Category:** Fried Bread
-- **Cooking:** Deep-fried
+- **Cooking Method:** Deep-fried
 - **Ingredients:** Wheat flour dough
-- **Portion:** Medium
+- **Portion Size:** Medium
 - **Confidence:** High
-- **Observation:** The food was correctly identified. Exact dough type cannot be determined from the image.
+- **Note:** Exact dough type cannot be determined from sight.
 
 ### Test 4: Poha
 
+#### 1. Original Food Image
+
+![Original Poha](../../evidence/poha-input.jpg)
+
+#### 2. Tested Image Result
+
 ![Poha API Result](../../evidence/poha-result.jpg)
 
-- **Food:** Poha
+#### 3. Analysis Details
+
+- **Food Name:** Poha
 - **Other Items:** Cilantro garnish, green chilies
 - **Category:** Indian Breakfast
-- **Cooking:** Stir-fried
+- **Cooking Method:** Stir-fried
 - **Ingredients:** Flattened rice, potatoes, peanuts, cilantro, green chilies, mustard seeds
-- **Portion:** Medium
+- **Portion Size:** Medium
 - **Confidence:** High
-- **Observation:** The model identified Poha and its visible ingredients.
+- **Note:** None
 
 ### Test 5: Samosa
 
+#### 1. Original Food Image
+
+![Original Samosa](../../evidence/samosa-input.jpg)
+
+#### 2. Tested Image Result
+
 ![Samosa API Result](../../evidence/samosa-result.jpg)
 
-- **Food:** Samosa
+#### 3. Analysis Details
+
+- **Food Name:** Samosa
 - **Other Items:** None
 - **Category:** Snack
-- **Cooking:** Deep-fried
+- **Cooking Method:** Deep-fried
 - **Ingredients:** Fried pastry shell
-- **Portion:** Small
+- **Portion Size:** Small
 - **Confidence:** High
-- **Observation:** The main food was correctly identified. Internal filling was not clearly visible.
+- **Note:** Internal filling is not clearly visible.
 
-## 4. Testing Summary
+## Model Selection Evidence
 
-- Total images tested: 5
-- All five main food items were identified correctly.
-- The API also identified visible side dishes and ingredients.
-- Some hidden ingredients and exact regional food details could not be confirmed from images.
+The following screenshot shows the selected Gemini model in Google AI Studio.
 
+![Gemini Model Selection](../../evidence/model-picker.jpg)
 
-## 5. Technical Feasibility
+## Testing Summary
 
-The approach was successfully tested using Python, Flask and the Gemini API.
+- A total of 5 Indian food images were tested.
+- The API successfully identified the main food items.
+- It also detected ingredients, cooking methods, and portion sizes.
+- Some details, such as hidden fillings and exact regional ingredients, may not be identified accurately.
 
-**Requirements:**
-- Python environment
-- Flask
-- Google GenAI Python SDK
-- Gemini API key
-- Internet connection
+## Technical Feasibility
 
-**Cost:** API usage may incur charges depending on the Google AI Studio model, free-tier limits and current pricing.
+The Gemini API approach is technically feasible for Indian food recognition.
 
-**Limitations:**
-- Hidden ingredients cannot always be identified.
-- Portion size is approximate.
-- Similar-looking food items may be confused.
-- Results depend on image quality and visibility.
-- API availability and usage limits depend on Google.
+- Python can be used to connect the application with the Gemini API.
+- Flask can handle image uploads and API requests.
+- The model can analyze different Indian food images.
+- The approach can be integrated into a food recognition application.
 
+## Conclusion
 
-## 6. References and Sources
+The testing shows that Gemini API can identify different Indian food items and provide useful food-related details. However, results may vary depending on image quality, visibility of ingredients, and food presentation.
 
-1. **Google AI Studio:** Model selection and API experimentation  
-   https://aistudio.google.com/
+## References and Sources
 
-2. **Gemini API Documentation:** API integration and Python implementation  
-   https://ai.google.dev/gemini-api/docs
-
-3. **Google GenAI Python SDK:**  
-   https://github.com/googleapis/python-genai
-
-4. **Model Picker Screenshot:**  
-   ![Gemini Model Picker](../../evidence/model-picker.jpg)
-
+- Google AI Studio: https://aistudio.google.com/
+- Gemini API Documentation: https://ai.google.dev/gemini-api/docs
+- Google GenAI Python SDK: https://github.com/googleapis/python-genai
