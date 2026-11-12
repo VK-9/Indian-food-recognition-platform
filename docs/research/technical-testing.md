@@ -24,11 +24,11 @@ Five different Indian food images were tested using the Gemini API.
 
 #### 1. Original Food Image
 
-[Original Masala Dosa](../../evidence/masala-Dosa-orignal-image.jpg)
+<img src="evidence/technical-food-testing/masala-Dosa-original-image.jpg" width="250" alt="Original Masala Dosa">
 
 #### 2. Tested Image Result
 
-![Masala Dosa API Result](../../evidence/masala-dosa-result.jpg)
+<img src="evidence/technical-food-testing/masala-dosa-result.jpg" width="250" alt="Masala Dosa Recognition Result">
 
 #### 3. Analysis Details
 
@@ -45,11 +45,11 @@ Five different Indian food images were tested using the Gemini API.
 
 #### 1. Original Food Image
 
-![Original South Indian Thali](../../evidence/mixed-indian-thali-.jpg)
+<img src="evidence/technical-food-testing/mixed-indian-thali-.jpg" width="250" alt="Original Mixed Indian Thali">
 
 #### 2. Tested Image Result
 
-![South Indian Thali API Result](../../evidence/mixed-indian-result.jpg)
+<img src="evidence/technical-food-testing/mixed-indian-result.jpg" width="250" alt="Mixed Indian Thali Recognition Result">
 
 #### 3. Analysis Details
 
@@ -66,11 +66,11 @@ Five different Indian food images were tested using the Gemini API.
 
 #### 1. Original Food Image
 
-![Original Poori](../../evidence/poori-orignal-image.jpg)
+<img src="evidence/technical-food-testing/poori-original-image.jpg" width="250" alt="Original Poori">
 
 #### 2. Tested Image Result
 
-![Poori API Result](../../evidence/poori-result-image.jpg)
+<img src="evidence/technical-food-testing/poori-result.jpg" width="250" alt="Poori Recognition Result">
 
 #### 3. Analysis Details
 
@@ -87,11 +87,11 @@ Five different Indian food images were tested using the Gemini API.
 
 #### 1. Original Food Image
 
-![Original Poha](../../evidence/poha-orignal-image.jpg)
+<img src="evidence/technical-food-testing/poha-original-image.jpg" width="250" alt="Original Poha">
 
 #### 2. Tested Image Result
 
-![Poha API Result](../../evidence/poha-result.jpg)
+<img src="evidence/technical-food-testing/poha-result.jpg" width="250" alt="Poha Recognition Result">
 
 #### 3. Analysis Details
 
@@ -108,11 +108,11 @@ Five different Indian food images were tested using the Gemini API.
 
 #### 1. Original Food Image
 
-![Original Samosa](../../evidence/samosa-orignal-image.jpg)
+<img src="evidence/technical-food-testing/samosa-original-image.jpg" width="250" alt="Original Samosa">
 
 #### 2. Tested Image Result
 
-![Samosa API Result](../../evidence/samosa-result.jpg)
+<img src="evidence/technical-food-testing/samosa-result.jpg" width="250" alt="Samosa Recognition Result">
 
 #### 3. Analysis Details
 
