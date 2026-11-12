@@ -130,7 +130,7 @@ Five different Indian food images were tested using the Gemini API.
 
 ## Model Selection Evidence
 
-<img src="evidence/technical-food-testing/Gemini-Model.jpg" width="400" alt="Gemini Model Selection">
+<img src="evidence/technical-food-testing/Gemini-Model.jpg" width="500" alt="Gemini Model Selection">
 
 ## Testing Summary-
 
