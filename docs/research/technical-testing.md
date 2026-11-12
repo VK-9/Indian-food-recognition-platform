@@ -1,5 +1,8 @@
-## 
-## Technology Used
+## SVL-02 - Investigate the Technical Approach (01)
+
+
+
+##  Technology Used-
 
 - **Programming Language:** Python
 - **IDE:** Visual Studio Code
@@ -8,7 +11,7 @@
 - **Backend:** Flask
 - **API:** Google Gemini API
 
-## Working Approach
+## Working Approach-
 
 1. A food image is uploaded to the Python application.
 2. The image is sent to the Gemini API.
@@ -16,7 +19,7 @@
 4. The API identifies the food name, ingredients, cooking method, portion size, and other details.
 5. The generated result is displayed for testing.
 
-## Practical Testing
+## Practical Testing-
 
 Five different Indian food images were tested using the Gemini API.
 
@@ -24,11 +27,11 @@ Five different Indian food images were tested using the Gemini API.
 
 #### 1. Original Food Image
 
-<img src="evidence/technical-food-testing/masala-Dosa-orignal-image.jpg" width="250" alt="Original Masala Dosa">
+<img src="evidence/technical-food-testing/masala-Dosa-orignal-image.jpg" width="300" alt="Original Masala Dosa">
 
 #### 2. Tested Image Result
 
-<img src="evidence/technical-food-testing/masala-dosa-result.jpg" width="250" alt="Masala Dosa Recognition Result">
+<img src="evidence/technical-food-testing/masala-dosa-result.jpg" width="300" alt="Masala Dosa Recognition Result">
 
 #### 3. Analysis Details
 
@@ -45,11 +48,11 @@ Five different Indian food images were tested using the Gemini API.
 
 #### 1. Original Food Image
 
-<img src="evidence/technical-food-testing/mixed-indian-thali-.jpg" width="250" alt="Original Mixed Indian Thali">
+<img src="evidence/technical-food-testing/mixed-indian-thali-.jpg" width="300" alt="Original Mixed Indian Thali">
 
 #### 2. Tested Image Result
 
-<img src="evidence/technical-food-testing/mixed-indian-result.jpg" width="250" alt="Mixed Indian Thali Recognition Result">
+<img src="evidence/technical-food-testing/mixed-indian-result.jpg" width="300" alt="Mixed Indian Thali Recognition Result">
 
 #### 3. Analysis Details
 
@@ -66,11 +69,11 @@ Five different Indian food images were tested using the Gemini API.
 
 #### 1. Original Food Image
 
-<img src="evidence/technical-food-testing/poori-orignal-image.jpg" width="250" alt="Original Poori">
+<img src="evidence/technical-food-testing/poori-orignal-image.jpg" width="300" alt="Original Poori">
 
 #### 2. Tested Image Result
 
-<img src="evidence/technical-food-testing/poori-result-image.jpg" width="250" alt="Poori Recognition Result">
+<img src="evidence/technical-food-testing/poori-result-image.jpg" width="300" alt="Poori Recognition Result">
 
 #### 3. Analysis Details
 
@@ -87,11 +90,11 @@ Five different Indian food images were tested using the Gemini API.
 
 #### 1. Original Food Image
 
-<img src="evidence/technical-food-testing/poha-orignal-image.jpg" width="250" alt="Original Poha">
+<img src="evidence/technical-food-testing/poha-orignal-image.jpg" width="300" alt="Original Poha">
 
 #### 2. Tested Image Result
 
-<img src="evidence/technical-food-testing/poha-result.jpg" width="250" alt="Poha Recognition Result">
+<img src="evidence/technical-food-testing/poha-result.jpg" width="300" alt="Poha Recognition Result">
 
 #### 3. Analysis Details
 
@@ -108,11 +111,11 @@ Five different Indian food images were tested using the Gemini API.
 
 #### 1. Original Food Image
 
-<img src="evidence/technical-food-testing/samosa-orignal-image.jpg" width="250" alt="Original Samosa">
+<img src="evidence/technical-food-testing/samosa-orignal-image.jpg" width="300" alt="Original Samosa">
 
 #### 2. Tested Image Result
 
-<img src="evidence/technical-food-testing/samosa-result.jpg" width="250" alt="Samosa Recognition Result">
+<img src="evidence/technical-food-testing/samosa-result.jpg" width="300" alt="Samosa Recognition Result">
 
 #### 3. Analysis Details
 
@@ -127,16 +130,16 @@ Five different Indian food images were tested using the Gemini API.
 
 ## Model Selection Evidence
 
-![Gemini Model Selection](../../evidence/model-picker.jpg)
+<img src="evidence/technical-food-testing/Gemini-Model.jpg" width="400" alt="Gemini Model Selection">
 
-## Testing Summary
+## Testing Summary-
 
 - A total of 5 Indian food images were tested.
 - The API successfully identified the main food items.
 - It also detected ingredients, cooking methods, and portion sizes.
 - Some details, such as hidden fillings and exact regional ingredients, may not be identified accurately.
 
-## Technical Feasibility
+## Technical Feasibility-
 
 The Gemini API approach is technically feasible for Indian food recognition.
 
@@ -145,11 +148,7 @@ The Gemini API approach is technically feasible for Indian food recognition.
 - The model can analyze different Indian food images.
 - The approach can be integrated into a food recognition application.
 
-## Conclusion
-
-The testing shows that Gemini API can identify different Indian food items and provide useful food-related details. However, results may vary depending on image quality, visibility of ingredients, and food presentation.
-
-## References and Sources
+## References and Sources-
 
 - Google AI Studio: https://aistudio.google.com/
 - Gemini API Documentation: https://ai.google.dev/gemini-api/docs
