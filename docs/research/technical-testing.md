@@ -1,6 +1,4 @@
-
-# Gemini API – Technical Testing
-
+## 
 ## Technology Used
 
 - **Programming Language:** Python
@@ -26,7 +24,7 @@ Five different Indian food images were tested using the Gemini API.
 
 #### 1. Original Food Image
 
-![Original Masala Dosa](../../evidence/masala-dosa-input.jpg)
+[Original Masala Dosa](../../evidence/masala-Dosa-orignal-image.jpg)
 
 #### 2. Tested Image Result
 
@@ -47,11 +45,11 @@ Five different Indian food images were tested using the Gemini API.
 
 #### 1. Original Food Image
 
-![Original South Indian Thali](../../evidence/south-indian-thali-input.jpg)
+![Original South Indian Thali](../../evidence/mixed-indian-thali-.jpg)
 
 #### 2. Tested Image Result
 
-![South Indian Thali API Result](../../evidence/south-indian-thali-result.jpg)
+![South Indian Thali API Result](../../evidence/mixed-indian-result.jpg)
 
 #### 3. Analysis Details
 
@@ -68,11 +66,11 @@ Five different Indian food images were tested using the Gemini API.
 
 #### 1. Original Food Image
 
-![Original Poori](../../evidence/poori-input.jpg)
+![Original Poori](../../evidence/poori-orignal-image.jpg)
 
 #### 2. Tested Image Result
 
-![Poori API Result](../../evidence/poori-result.jpg)
+![Poori API Result](../../evidence/poori-result-image.jpg)
 
 #### 3. Analysis Details
 
@@ -89,7 +87,7 @@ Five different Indian food images were tested using the Gemini API.
 
 #### 1. Original Food Image
 
-![Original Poha](../../evidence/poha-input.jpg)
+![Original Poha](../../evidence/poha-orignal-image.jpg)
 
 #### 2. Tested Image Result
 
@@ -110,7 +108,7 @@ Five different Indian food images were tested using the Gemini API.
 
 #### 1. Original Food Image
 
-![Original Samosa](../../evidence/samosa-input.jpg)
+![Original Samosa](../../evidence/samosa-orignal-image.jpg)
 
 #### 2. Tested Image Result
 
@@ -128,8 +126,6 @@ Five different Indian food images were tested using the Gemini API.
 - **Note:** Internal filling is not clearly visible.
 
 ## Model Selection Evidence
-
-The following screenshot shows the selected Gemini model in Google AI Studio.
 
 ![Gemini Model Selection](../../evidence/model-picker.jpg)
 
