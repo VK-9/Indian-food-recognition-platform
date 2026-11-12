@@ -24,7 +24,7 @@ Five different Indian food images were tested using the Gemini API.
 
 #### 1. Original Food Image
 
-<img src="evidence/technical-food-testing/masala-Dosa-original-image.jpg" width="250" alt="Original Masala Dosa">
+<img src="evidence/technical-food-testing/masala-Dosa-orignal-image.jpg" width="250" alt="Original Masala Dosa">
 
 #### 2. Tested Image Result
 
@@ -66,11 +66,11 @@ Five different Indian food images were tested using the Gemini API.
 
 #### 1. Original Food Image
 
-<img src="evidence/technical-food-testing/poori-original-image.jpg" width="250" alt="Original Poori">
+<img src="evidence/technical-food-testing/poori-orignal-image.jpg" width="250" alt="Original Poori">
 
 #### 2. Tested Image Result
 
-<img src="evidence/technical-food-testing/poori-result.jpg" width="250" alt="Poori Recognition Result">
+<img src="evidence/technical-food-testing/poori-result-image.jpg" width="250" alt="Poori Recognition Result">
 
 #### 3. Analysis Details
 
@@ -87,7 +87,7 @@ Five different Indian food images were tested using the Gemini API.
 
 #### 1. Original Food Image
 
-<img src="evidence/technical-food-testing/poha-original-image.jpg" width="250" alt="Original Poha">
+<img src="evidence/technical-food-testing/poha-orignal-image.jpg" width="250" alt="Original Poha">
 
 #### 2. Tested Image Result
 
@@ -108,7 +108,7 @@ Five different Indian food images were tested using the Gemini API.
 
 #### 1. Original Food Image
 
-<img src="evidence/technical-food-testing/samosa-original-image.jpg" width="250" alt="Original Samosa">
+<img src="evidence/technical-food-testing/samosa-orignal-image.jpg" width="250" alt="Original Samosa">
 
 #### 2. Tested Image Result
 
