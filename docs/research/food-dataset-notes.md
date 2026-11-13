@@ -165,25 +165,6 @@ Kidney beans are cooked and prepared with spices and gravy.
 - Ingredients and preparation methods may affect nutritional values.
 - The record uses the per-100-g reference values.
 
-
-# Overall Dataset Limitations
-
-- Nutrition values are based on the selected Anuvaad INDB records.
-- Homemade recipes may have different ingredients and quantities.
-- Actual serving and bowl weights have not been independently verified.
-- Oil, spices and cooking methods may affect nutritional values.
-- Some energy values show differences when compared with standard kcal-to-kJ conversion.
-- The dataset contains 50 selected Indian food records and does not represent every Indian food variety.
-- Missing or unavailable nutrition details should not be treated as zero.
-- Nutrition values represent the selected database entries and may not represent every homemade or regional variation.
-- Values are recorded from the Dal moong entry in INDB.
-- The listed kcal and kJ values show a small conversion difference.
-- Ingredients and preparation methods may affect nutritional values.
-- The record uses the per-100-g reference values; serving weight has not been confirmed.
-
-
-
-
 ## Additional Food Entries (F006–F010)
 
 ### F006 – Dal Tadka
@@ -435,24 +416,6 @@ Kidney beans are cooked and prepared with spices and gravy.
 
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Palak Paneer entry per 100 g. The exact proportion of spinach, paneer and added fat may differ between recipes, affecting the nutritional composition.
 
-### F019 – Palak Paneer
-
-- **Food ID:** F019
-- **Category:** Main course
-- **Regional names:** Saag Paneer; Palak Paneer
-- **Common ingredients:** Spinach, paneer, onion, tomato, ginger, garlic, spices and oil or butter.
-- **Preparation details:** Spinach is cooked and blended into a gravy, then combined with paneer and spices.
-- **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
-
-## Values recorded per 100 g
-- Energy: 77.68 kcal
-- Energy: 323.55 kJ
-- Carbohydrates: 4.43 g
-- Protein: 4.03 g
-- Fat: 4.76 g
-- Fibre: 1.91 g
-
-- **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Palak Paneer entry per 100 g. The exact proportion of spinach, paneer and added fat may differ between recipes, affecting the nutritional composition.
 
 ### F020 – Paneer Butter Masala
 
@@ -1009,24 +972,6 @@ Kidney beans are cooked and prepared with spices and gravy.
 
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Chana Dal entry per 100 g. The source preparation basis (cooked or uncooked) should be confirmed, as this can substantially affect nutritional values. Water content and tempering ingredients may also vary.
 
-### F048 – Chana Dal
-
-- **Food ID:** F048
-- **Category:** Main course
-- **Regional names:** Bengal Gram Dal; Split Chickpea Dal
-- **Common ingredients:** Split Bengal gram (chana dal), water, onion, tomato, turmeric, cumin, garlic and spices.
-- **Preparation details:** Split Bengal gram is cooked until soft and seasoned with spices or a tempering.
-- **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
-
-## Values recorded per 100 g
-- Energy: 99.67 kcal
-- Energy: 415.08 kJ
-- Carbohydrates: 9.99 g
-- Protein: 4.15 g
-- Fat: 4.62 g
-- Fibre: 3.72 g
-
-- **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Chana Dal entry per 100 g. The source preparation basis (cooked or uncooked) should be confirmed, as this can substantially affect nutritional values. Water content and tempering ingredients may also vary.
 
 ### F049 – Mysore Pak
 
@@ -1089,6 +1034,8 @@ The following table explains each field used in `data/food/foods.csv`.
 | `fat_g_per_100g` | Fat content in grams per 100 g. |
 | `fibre_g_per_100g` | Fibre content in grams per 100 g. |
 | `confidence_or_notes` | Records confidence, source limitations, recipe variations and other important observations. |
+| `serving_description` | Describes the serving quantity or portion, such as 1 bowl or 1 piece (80 g). |
+| `energy_kcal_per_serving` | Energy value in kilocalories for the documented serving portion, when available. |
 
 ## Overall Dataset Limitations
 
