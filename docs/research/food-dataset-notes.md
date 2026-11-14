@@ -190,7 +190,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 ### F007 – Chole
 
 - **Food ID:** F007
-- **Category:** Lentil dish / Chickpea curry
+- **Category:** Legume dish / Chickpea curry
 - **Regional names:** Chole; Chana Masala; Safed Channa Curry.
 - **Common ingredients:** Chickpeas, onion, tomato, ginger, spices and oil.
 - **Preparation details:** Chickpeas are cooked and prepared in a spiced gravy. Gravy thickness, ingredients and cooking methods may vary.
@@ -277,7 +277,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 - Fat: 71.86 g
 - Fibre: 1.13 g
 
-- **Confidence and limitations:** Values are recorded from the Mixed Vegetable Pakora/Pakoda entry per 100 g. The reported energy and fat values are unusually high and should be independently rechecked against the source. Vegetable mix and oil absorption may vary.
+- **Confidence and limitations:** Values are recorded from the Mixed Vegetable Pakora/Pakoda entry per 100 g. The reported energy and fat values are unusually high and should be independently rechecked against the source. Vegetable mix and oil absorption may vary. Anuvaad per-serving values appear internally inconsistent; per-serving energy is excluded pending verification.
 
 ### F013 – Upma
 
@@ -376,7 +376,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 - Fat: 77.61 g
 - Fibre: 1.46 g
 
-- **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Puri entry per 100 g. The reported energy and fat values are unusually high, while the carbohydrate value appears low for a wheat-based food. These figures should be independently rechecked against the source before being treated as reliable. Oil absorption and preparation methods may also vary.
+- **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Puri entry per 100 g. The reported energy and fat values are unusually high, while the carbohydrate value appears low for a wheat-based food. These figures should be independently rechecked against the source before being treated as reliable. Oil absorption and preparation methods may also vary. Predefined serving value appears unusually high compared with the per-100-g value; serving weight could not be verified.
 
 ### F018 – Bhatura
 
@@ -395,7 +395,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 - Fat: 82.56 g
 - Fibre: 0.38 g
 
-- **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Bhatura entry per 100 g. The reported energy and fat values are unusually high, while carbohydrate values appear low for a flour-based food. The kcal-to-kJ conversion should also be rechecked. These figures need independent verification before being treated as reliable.
+- **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Bhatura entry per 100 g. The reported energy and fat values are unusually high, while carbohydrate values appear low for a flour-based food. The kcal-to-kJ conversion should also be rechecked. These figures need independent verification before being treated as reliable. Predefined serving value appears inconsistent with the per-100-g value; per-serving energy is excluded pending verification.
 
 ### F019 – Palak Paneer
 
@@ -609,7 +609,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 - Fat: 8 g
 - Fibre: 5 g
 
-- **Confidence and limitations:** These values are approximate recipe-based estimates, not laboratory-tested measurements. The proportions of litti, chokha and added ghee or oil can vary, affecting the nutritional composition.
+- **Confidence and limitations:** These values are approximate recipe-based estimates, not laboratory-tested measurements. The proportions of litti, chokha and added ghee or oil can vary, affecting the nutritional composition. Khaana also reports an estimated 1068 kcal for a 580 g serving; this is a recipe-based estimate and may vary with preparation.
 
 ### F030 – Baingan Bharta
 
@@ -762,7 +762,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 - Fat: 53.23 g
 - Fibre: 0.07 g
 
-- **Confidence and limitations:** Values are recorded from the Khoya Gulab Jamun variant per 100 g. They may not represent other recipes or versions made with different ingredients. Sugar syrup absorption and frying fat can affect the nutritional composition.
+- **Confidence and limitations:** Values are recorded from the Khoya Gulab Jamun variant per 100 g. They may not represent other recipes or versions made with different ingredients. Sugar syrup absorption and frying fat can affect the nutritional composition. Predefined serving value appears unusually high compared with the per-100-g value; serving weight could not be verified.
 
 ### F038 – Jalebi
 
@@ -982,15 +982,11 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** Gram flour is cooked with hot ghee and sugar syrup until it forms a rich, dense sweet.
 - **Nutrition source:** TUMUL / Nandini branded product nutrition information.
 
-## Values recorded per 100 g
-- Energy: 617 kcal
-- Energy: 2581.53 kJ
-- Carbohydrates: 50.5 g
-- Protein: 4.8 g
-- Fat: 44 g
-- Fibre: 1.9 g
+## Nutrition data availability
+- Per-100-g nutrition values: Not verified
+- Per-serving energy: Not available
 
-- **Confidence and limitations:** Values are recorded from the selected TUMUL / Nandini branded product information per 100 g. These figures may not represent all Mysore Pak recipes, as the quantity of ghee, sugar and gram flour varies by preparation.
+- Confidence and limitations: The source lists pack weights of 25 g, 100 g, 250 g and 500 g, but its nutrition heading states per 100 ml. Since the basis is unclear for this solid food, the values are excluded from the dataset pending verification.
 
 ### F050 – Shrikhand
 
@@ -1023,7 +1019,7 @@ The following table explains each field used in `data/food/foods.csv`.
 | `food_category` | Category of the food, such as Breakfast, Snack, Bread or Rice dish. |
 | `common_ingredients` | Main ingredients commonly used to prepare the dish. |
 | `preparation_notes` | Brief description of the preparation method and important variations. |
-| `serving_size` | Reference quantity or serving quantity associated with the record. Its meaning must be checked against the source. |
+| `serving_size` | Reference quantity used for per-100-g nutrition values (100 g in the current dataset). |
 | `serving_unit` | Unit used for the quantity, such as g or ml. |
 | `nutrition_source` | Name of the database or reference used for nutrition information. |
 | `nutrition_source_url` | Direct URL of the nutrition record or source. |
@@ -1034,6 +1030,7 @@ The following table explains each field used in `data/food/foods.csv`.
 | `fat_g_per_100g` | Fat content in grams per 100 g. |
 | `fibre_g_per_100g` | Fibre content in grams per 100 g. |
 | `confidence_or_notes` | Records confidence, source limitations, recipe variations and other important observations. |
+| `similar_dishes` | Names of visually or contextually similar dishes that may help distinguish the food entry. |
 | `serving_description` | Describes the serving quantity or portion, such as 1 bowl or 1 piece (80 g). |
 | `energy_kcal_per_serving` | Energy value in kilocalories for the documented serving portion, when available. |
 
