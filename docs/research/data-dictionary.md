@@ -32,6 +32,9 @@ This document explains the fields used in `data/food/foods.csv`. It defines the 
 | 15 | `fat_g_per_100g` | Fat content in grams per 100 grams. |
 | 16 | `fibre_g_per_100g` | Dietary fibre content in grams per 100 grams. |
 | 17 | `confidence_or_notes` | Confidence information, source limitations, assumptions, unusual values, or other relevant data-quality notes. |
+| 18 | `similar_dishes` | Names of visually or contextually similar dishes that may help distinguish the food entry. |
+| 19 | `serving_description` | Describes the serving quantity or portion, such as 1 bowl or 1 piece. |
+| 20 | `energy_kcal_per_serving` | Energy value in kilocalories for the documented serving portion, when available. |
 
 ## 4. Data Consistency Rules
 
@@ -54,4 +57,4 @@ This data dictionary should be read together with:
 
 ## 6. Conclusion
 
-The data dictionary provides a common understanding of all 17 fields in the Indian food dataset. It helps maintain consistent records, supports future integration with the food-recognition prototype, and makes the dataset easier to review and maintain.
+The data dictionary provides a common understanding of all 20 fields in the Indian food dataset. It helps maintain consistent records, supports future integration with the food-recognition prototype, and makes the dataset easier to review and maintain.
