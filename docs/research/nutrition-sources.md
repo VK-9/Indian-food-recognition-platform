@@ -44,7 +44,7 @@ The dataset also uses additional nutrition sources for selected food records whe
 
 | Source | Food IDs | Usage and limitations |
 |---|---|---|
-| Healthify Nutrifacts | F033, F038, F042 | Per-serving nutrition information for selected foods and beverages. |
+| Healthify Nutrifacts | F033, F038, F042 | Per-100-g and per-serving nutrition information for selected foods and beverages. |
 | RealCalorieTracker | F020, F022 | INDB-based recipe entries and close matching prepared dishes. |
 | SVAS | F027 | Ingredient-based nutrition estimates informed by IFCT-2017. |
 | Khaana | F029 | Recipe-based nutrition estimates for a 580 g serving of Litti Chokha. |
@@ -109,6 +109,7 @@ For a source that provides nutrition per 100 g, the approximate nutrient amount 
 **Nutrient amount = (Nutrient value per 100 g × Food weight in g) / 100**
 
 This calculation is valid only when the food and preparation basis match the source record and the actual food weight is known.
+
 ## 5. Dataset Source Mapping (F001–F050)
 
 The following table maps all 50 food records to their respective nutrition sources.
