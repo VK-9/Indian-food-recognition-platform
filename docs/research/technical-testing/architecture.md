@@ -4,22 +4,8 @@
 
 The application uses Python and Flask to handle food image uploads. The uploaded image is sent to the Gemini API for analysis, and the generated food details are displayed on the webpage.
 
-## 2. Architecture Diagram
 
-```mermaid
-flowchart TD
-    A[User] --> B[Web Interface]
-    B --> C[Flask Application]
-    C --> D[Image Upload]
-    D --> E[Image Validation]
-    E --> F[Google GenAI SDK]
-    F --> G[Gemini API]
-    G --> H[Food Image Analysis]
-    H --> I[Generated Response]
-    I --> J[Display Result]
-```
-
-## 3. Main Components
+## 2. Main Components
 
 | Component | Description |
 |---|---|
@@ -32,7 +18,7 @@ flowchart TD
 | Generated Response | Contains food-related analysis |
 | Result Display | Shows the generated result on the webpage |
 
-## 4. Application Flow
+## 3. Application Flow
 
 1. User opens the application.
 2. Selects and uploads a food image.
@@ -43,7 +29,7 @@ flowchart TD
 7. The response is returned to the Flask application.
 8. The result is displayed on the webpage.
 
-## 5. API Communication
+## 4. API Communication
 
 - **API Provider:** Google Gemini
 - **SDK:** Google GenAI Python SDK
@@ -53,7 +39,7 @@ flowchart TD
 - **Input:** Food image and analysis prompt
 - **Output:** Food recognition details
 
-## 6. Image Validation
+## 5. Image Validation
 
 The application checks the uploaded image before sending it to the API.
 
@@ -62,7 +48,7 @@ The application checks the uploaded image before sending it to the API.
 
 Unsupported images or images exceeding the size limit are rejected.
 
-## 7. Output
+## 6. Output
 
 The API-generated response includes:
 
