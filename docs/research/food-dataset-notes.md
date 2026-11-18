@@ -14,13 +14,14 @@ Ingredients and oil quantity vary by recipe.
 - Record: https://www.anuvaad.org.in/nutrition-fact/poha/
 - Reference basis: Per 100 g option selected on the source page.
 
-## Values observed per 100 g
-- Energy: 294.53 kcal
-- Energy: 1226.35 kJ
-- Carbohydrates: 35.05 g
-- Protein: 6.09 g
-- Fat: 14.14 g
-- Fibre: 3.72 g
+## Values observed per serving
+- Serving description: 1 bowl
+- Energy: 160.78 kcal
+- Energy: 669.46 kJ
+- Carbohydrates: 19.13 g
+- Protein: 3.32 g
+- Fat: 7.72 g
+- Fibre: 2.03 g
 
 ## Verification notes
 - The source does not specify the exact recipe or preparation basis for this entry.
@@ -49,13 +50,13 @@ The batter is fermented and steamed.
 - Record: https://www.anuvaad.org.in/nutrition-fact/idli/
 - Reference basis: Per 100 g option selected on the source page.
 
-## Values observed per 100 g
-- Energy: 137.54 kcal
-- Energy: 575.46 kJ
-- Carbohydrates: 28.18 g
-- Protein: 4.64 g
-- Fat: 0.33 g
-- Fibre: 2.31 g
+## Values observed per serving
+- Energy: 34.45 kcal
+- Energy: 144.23 kJ
+- Carbohydrates: 7.06 g
+- Protein: 1.16 g
+- Fat: 0.08 g
+- Fibre: 0.58 g
 
 ## Verification notes
 - Values are recorded for plain Idli.
