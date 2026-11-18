@@ -266,7 +266,8 @@ For this project, nutrition values should be source-based, clearly labelled and 
 11. IIIT Delhi. RecipeDB. Paneer Tikka recipe information.
     https://cosylab.iiitd.edu.in/recipedb/search_recipeInfo/67098
 
-11. Barbeque Nation – Official Chicken Biryani Nutrition Information
+12. Barbeque Nation – Official Chicken Biryani Nutrition Information
     https://bn.barbequenation.com/sites/default/files/2024-12/BNHL%20NV%20New%20%281%29.pdf
     
-13. TUMUL / Nandini. Branded product nutrition information used for Mysore Pak (F049).
+13. 12. TUMUL (Nandini) – Mysore Pak
+    https://www.tumul.coop/mysore-pak
