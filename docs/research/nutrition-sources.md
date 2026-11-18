@@ -42,16 +42,16 @@ These guidelines provide general dietary and food-group guidance. They may help 
 
 The dataset also uses additional nutrition sources for selected food records where a suitable matching entry was available.
 
-| Source | Usage |
-|---|---|
-| Healthify Nutrifacts | Nutrition information for selected prepared foods and beverages |
-| RealCalorieTracker | INDB-based recipe entries and close matching prepared dishes |
-| SVAS | Ingredient-based nutrition estimates informed by IFCT-2017 |
-| Khaana | Recipe-based nutrition estimates |
-| IIIT Delhi RecipeDB | Recipe-level nutritional information |
-| Barbeque Nation | Branded restaurant nutrition information |
-| TUMUL / Nandini | Branded product nutrition information |
-| NutriLifeCalc | Nutrition information for Dal Tadka |
+| Source | Food IDs | Usage and limitations |
+|---|---|---|
+| Healthify Nutrifacts | F033, F038, F042 | Per-serving nutrition information for selected foods and beverages. |
+| RealCalorieTracker | F020, F022 | INDB-based recipe entries and close matching prepared dishes. |
+| SVAS | F027 | Ingredient-based nutrition estimates informed by IFCT-2017. |
+| Khaana | F029 | Recipe-based nutrition estimates for a 580 g serving of Litti Chokha. |
+| IIIT Delhi RecipeDB | F036 | Recipe-level nutrition information; serving size was not specified. |
+| Barbeque Nation | F032 | Branded restaurant nutrition information; per-100 g values only. |
+| TUMUL / Nandini | F049 | Branded product nutrition information; nutrition basis requires clarification. |
+| NutriLifeCalc | F006 | Secondary nutrition information for Dal Tadka; per-serving values were unavailable. |
 
 **Important:** These sources differ in methodology and reliability. Recipe-based estimates, branded product values and database entries should be identified according to their actual source type. A close recipe match should not be described as an exact match.
 
@@ -73,22 +73,42 @@ Nutrition values depend on the state and preparation of the food.
 4. A prepared-dish value should be used only when the source describes a sufficiently matching recipe.
 5. If the preparation basis is unclear, the uncertainty must be documented.
 
-## 4. Serving Size and Unit Assumptions
+## 4. Reference Quantity and Serving Assumptions
 
-For consistency, nutrition values may be stored per 100 g when the source provides that basis.
+For consistency, nutrition values are stored on a per-100-g basis when the source provides that reference.
 
-- `100 g` is a reference quantity for comparing nutrition values.
-- It does not necessarily represent one actual serving.
-- Serving size should be recorded separately when a reliable source provides it.
-- Units must be clearly mentioned, such as grams (g) or millilitres (ml).
+- `reference_quantity` represents the quantity used as the basis for the nutrition values (100 in the current dataset).
+- `reference_unit` represents the unit of that reference quantity (g in the current dataset).
+- The reference quantity does not necessarily represent one actual serving.
+- `serving_description` records a human-readable portion description, such as 1 bowl, 1 piece or 1 serving.
+- A serving description does not guarantee a standardized serving weight.
+- Serving weight should only be recorded when a reliable source provides it.
 - Volume and weight should not be treated as interchangeable without a supported conversion.
+
+### 4.1 Per-Serving Nutrition Values
+
+The dataset records the following nutrients per serving when reliable source information is available:
+
+- Energy (kcal)
+- Energy (kJ)
+- Carbohydrates (g)
+- Protein (g)
+- Fat (g)
+- Fibre (g)
+
+Per-serving values are taken from the source's documented serving information. Secondary sources and recipe-based estimates are identified separately from Anuvaad INDB values.
+
+If a source provides only per-100-g values, or its serving size is unclear, the per-serving fields are left blank. Values are not calculated from an assumed serving weight.
+
+Where a source provides some nutrients but not others, only the available supported values are recorded. Missing values remain blank rather than being estimated without evidence.
+
+### 4.2 Calculation from a Known Food Weight
 
 For a source that provides nutrition per 100 g, the approximate nutrient amount for a known food weight can be calculated as:
 
 **Nutrient amount = (Nutrient value per 100 g × Food weight in g) / 100**
 
-This calculation is valid only when the food and preparation basis match the source record.
-
+This calculation is valid only when the food and preparation basis match the source record and the actual food weight is known.
 ## 5. Dataset Source Mapping (F001–F050)
 
 The following table maps all 50 food records to their respective nutrition sources.
@@ -203,6 +223,9 @@ The platform should follow these recommendations:
 4. The reference quantity and serving size must not be confused.
 5. Recipe variations and uncertainty should be recorded in the notes.
 6. Unverified values must remain blank until a suitable source is found.
+7. Per-serving nutrition values must be recorded only when supported by a reliable source with a clearly documented serving basis.
+8. All six per-serving nutrient fields (energy in kcal, energy in kJ, carbohydrates, protein, fat and fibre) should be populated wherever reliable source values are available.
+9. If per-serving information is unavailable, inconsistent or ambiguous, the corresponding fields must remain blank and the reason should be documented.
 
 ## 10. Conclusion
 
