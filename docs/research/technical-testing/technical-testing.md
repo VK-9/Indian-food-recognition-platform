@@ -51,7 +51,7 @@ Five different Indian food images were tested using the Gemini API.
 
 #### 1. Original Food Image
 
-<img src="../evidence/technical-food-testing/mixed-indian-thali-.jpg" width="300" alt="Original Mixed Indian Thali">
+<img src="../evidence/technical-food-testing/mixed-indian-thali.jpg" width="300" alt="Original Mixed Indian Thali">
 
 #### 2. Tested Image Result
 
