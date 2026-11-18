@@ -46,7 +46,7 @@ Five different Indian food images were tested using the Gemini API.
 - **Portion Size:** Large
 - **Confidence:** High
 - **Note:** None
-
+**Masala Dosa:** [Freepik](https://www.freepik.com/)
 ### Test 2: South Indian Thali
 
 #### 1. Original Food Image
@@ -68,6 +68,8 @@ Five different Indian food images were tested using the Gemini API.
 - **Confidence:** High
 - **Note:** Small side curries' regional names may vary.
 
+. **South Indian Thali:** [iStock](https://www.istockphoto.com/)
+  
 ### Test 3: Poori
 
 #### 1. Original Food Image
@@ -88,7 +90,7 @@ Five different Indian food images were tested using the Gemini API.
 - **Portion Size:** Medium
 - **Confidence:** High
 - **Note:** Exact dough type cannot be determined from sight.
-
+. **Poori:** [Dreamstime](https://www.dreamstime.com/)
 ### Test 4: Poha
 
 #### 1. Original Food Image
@@ -109,7 +111,7 @@ Five different Indian food images were tested using the Gemini API.
 - **Portion Size:** Medium
 - **Confidence:** High
 - **Note:** None
-
+. **Poha:** [Freepik](https://www.freepik.com/)
 ### Test 5: Samosa
 
 #### 1. Original Food Image
@@ -130,7 +132,31 @@ Five different Indian food images were tested using the Gemini API.
 - **Portion Size:** Small
 - **Confidence:** High
 - **Note:** Internal filling is not clearly visible.
+- **Samosa:** [Vecteezy](https://www.vecteezy.com/)
+  
+### Test 6: Blurry Food
 
+#### 1. Original Food Image
+
+<img src="../evidence/technical-food-testing/blurry-food-orginal.jpg" width="350" alt="Original food">
+
+#### 2. Tested Image Result
+
+<img src="../evidence/technical-food-testing/blurry-food-result.jpg" width="400" alt=" Recognition Result">
+
+#### 3. Analysis Details
+
+- **Food:** Dinner feast spread
+- **Other items:** Salad, bread, various stews and side dishes
+- **Category:** Mixed meal
+- **Cooking:** Multiple methods
+- **Ingredients:** Greens, bread, vegetables
+- **Portion:** Large
+- **Confidence:** 20% (Low)
+- **Note:** Image is extremely out of focus making precise identification impossible
+
+6. **Blurry Food Image:** [Shutterstock](https://www.shutterstock.com/)
+   
 ## 4. Model Selection Evidence
 
 The following screenshot records the Gemini model selection used during testing.
