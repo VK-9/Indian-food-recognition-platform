@@ -116,7 +116,7 @@ The application uses Google's Gemini API through the Google GenAI Python SDK.
 
 ## 8. Practical Testing
 
-The application was tested using five Indian food images:
+The application was tested using six different food images, including Indian food images and one blurry food image.
 
 | Test Case | Food | Observation |
 |---|---|---|
@@ -125,6 +125,7 @@ The application was tested using five Indian food images:
 | 3 | Poori | Identified fried bread |
 | 4 | Poha | Identified food and visible ingredients |
 | 5 | Samosa | Identified the snack but could not confirm its internal filling |
+| 6 | Blurry Food Image | Identified it as a dinner feast spread but could not confirm the exact food items |
 
 The generated response includes:
 
@@ -137,21 +138,16 @@ The generated response includes:
 - Confidence
 - Note
 
-All five recorded tests returned High confidence. However, some ingredients and hidden food details could not be confirmed visually.
+### Confidence Results
+
+- The first five recorded food tests returned High confidence.
+- The sixth test (blurry food image) returned 20% (Low confidence).
+- The model mentioned that the image was extremely out of focus, making precise identification difficult.
+
+These results show that image quality can affect food recognition and confidence levels.
 
 Detailed test images and results are documented separately in `technical-testing.md`.
 
-## 9. Failure Cases and Limitations
-
-| Scenario | Limitation |
-|---|---|
-| Unsupported image format | Upload is rejected |
-| Image above 5 MB | Request is rejected |
-| Missing API key | Application cannot start |
-| Gemini API failure | Application returns an error |
-| Hidden ingredients | May not be identified correctly |
-| Mixed food items | Smaller items may be missed |
-| No food visible | Model is instructed to return "No food detected" |
 
 ### Observed Limitations
 
@@ -162,7 +158,7 @@ Detailed test images and results are documented separately in `technical-testing
 - API response format is not independently validated.
 - API retry and request throttling are not implemented.
 
-## 10. Gemini API Quotas and Cost
+## 9. Gemini API Quotas and Cost
 
 Gemini API usage depends on the selected model, account tier, and project limits.
 
@@ -178,9 +174,9 @@ Exact quotas and costs should be checked using the current model and Google AI S
 
 - Pricing: https://ai.google.dev/gemini-api/docs/pricing
 - Rate Limits: https://ai.google.dev/gemini-api/docs/rate-limits
-- AI Studio: https://aistudio.google.com/
+- AI Studio: https://aistudio.google.com/ 
 
-## 11. Security and Reproducibility
+## 10. Security and Reproducibility
 
 - Store API credentials in `.env`.
 - Never upload `.env` or `.venv` to GitHub.
@@ -188,13 +184,11 @@ Exact quotas and costs should be checked using the current model and Google AI S
 - Install dependencies using `requirements.txt`.
 
 
-## 12. Technical Feasibility
+## 11. Technical Feasibility
 
 The practical testing demonstrates that Python, Flask, and the Gemini API can be integrated for food image recognition.
 
-The application was tested on five different Indian food images and generated food descriptions including food names, visible ingredients, cooking methods, and portion details.
-
-
+The application was tested on six different Indian food images and generated food descriptions including food names, visible ingredients, cooking methods, and portion details.
 
 ## 14. References
 
