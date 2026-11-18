@@ -30,7 +30,7 @@ Five different Indian food images were tested using the Gemini API.
 
 #### 1. Original Food Image
 
-<img src="../evidence/technical-food-testing/masala-Dosa-orignal-image.jpg" width="300" alt="Original Masala Dosa">
+<img src="../evidence/technical-food-testing/masala-dosa-original-image.jpg" width="300" alt="Original Masala Dosa">
 
 #### 2. Tested Image Result
 
