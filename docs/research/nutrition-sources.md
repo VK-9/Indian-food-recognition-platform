@@ -247,28 +247,29 @@ For this project, nutrition values should be source-based, clearly labelled and 
 4. ICMR–National Institute of Nutrition. *Dietary Guidelines for Indians, 2024.*  
    https://www.nin.res.in/dietaryguidelines/pdfjs/locale/DGI24thJune2024fin.pdf
    
-6. 5. NutriLifeCalc – Dal Tadka
+5. NutriLifeCalc – Dal Tadka
    https://www.nutrilifecalc.com/foods/dal-tadka
 
-7. Healthify. Nutrifacts database. Used for selected food records, including Masala Chai, Jalebi and Vada Pav.
+6. Healthify. Nutrifacts database. Used for selected food records, including Masala Chai, Jalebi and Vada Pav.
    https://www.healthifyme.com/web/nutrifacts/vada-pav-284e957a95
    Masala Chai: https://www.healthifyme.com/web/nutrifacts/masala-chai-0cdff33d93
+   Jalebi: https://www.healthifyme.com/web/nutrifacts/jalebi-fe489fd719
 
-9. RealCalorieTracker. Nutrition information for Paneer in Butter Sauce and Uttapam.
+7. RealCalorieTracker. Nutrition information for Paneer in Butter Sauce and Uttapam.
    https://realcalorietracker.com/foods/paneer-in-butter-sauce
    https://realcalorietracker.com/foods/uttapam
 
-10. SVAS. Misal Pav nutrition information.
+8. SVAS. Misal Pav nutrition information.
    https://www.svas.life/nutrition/misal-pav/
 
-11. Khaana. Litti Chokha recipe.
+9. Khaana. Litti Chokha recipe.
    https://khaana.com/recipes/litti-chokha.html
 
-12. IIIT Delhi. RecipeDB. Paneer Tikka recipe information.
+10. IIIT Delhi. RecipeDB. Paneer Tikka recipe information.
     https://cosylab.iiitd.edu.in/recipedb/search_recipeInfo/67098
 
-13. Barbeque Nation – Official Chicken Biryani Nutrition Information
+11. Barbeque Nation – Official Chicken Biryani Nutrition Information
     https://bn.barbequenation.com/sites/default/files/2024-12/BNHL%20NV%20New%20%281%29.pdf
     
-14. 12. TUMUL (Nandini) – Mysore Pak
+12. TUMUL (Nandini) – Mysore Pak
     https://www.tumul.coop/mysore-pak
