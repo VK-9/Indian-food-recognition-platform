@@ -252,22 +252,23 @@ For this project, nutrition values should be source-based, clearly labelled and 
 
 7. Healthify. Nutrifacts database. Used for selected food records, including Masala Chai, Jalebi and Vada Pav.
    https://www.healthifyme.com/web/nutrifacts/vada-pav-284e957a95
+   Masala Chai: https://www.healthifyme.com/web/nutrifacts/masala-chai-0cdff33d93
 
-8. RealCalorieTracker. Nutrition information for Paneer in Butter Sauce and Uttapam.
+9. RealCalorieTracker. Nutrition information for Paneer in Butter Sauce and Uttapam.
    https://realcalorietracker.com/foods/paneer-in-butter-sauce
    https://realcalorietracker.com/foods/uttapam
 
-9. SVAS. Misal Pav nutrition information.
+10. SVAS. Misal Pav nutrition information.
    https://www.svas.life/nutrition/misal-pav/
 
-10. Khaana. Litti Chokha recipe.
+11. Khaana. Litti Chokha recipe.
    https://khaana.com/recipes/litti-chokha.html
 
-11. IIIT Delhi. RecipeDB. Paneer Tikka recipe information.
+12. IIIT Delhi. RecipeDB. Paneer Tikka recipe information.
     https://cosylab.iiitd.edu.in/recipedb/search_recipeInfo/67098
 
-12. Barbeque Nation – Official Chicken Biryani Nutrition Information
+13. Barbeque Nation – Official Chicken Biryani Nutrition Information
     https://bn.barbequenation.com/sites/default/files/2024-12/BNHL%20NV%20New%20%281%29.pdf
     
-13. 12. TUMUL (Nandini) – Mysore Pak
+14. 12. TUMUL (Nandini) – Mysore Pak
     https://www.tumul.coop/mysore-pak
