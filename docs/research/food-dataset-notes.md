@@ -376,18 +376,25 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 - **Source URL:** https://www.anuvaad.org.in/nutrition-fact/potato-samosa-aloo-ka-samosa/
 
-## Values observed per serving
+### Values observed per 100 g
+- Energy: 577.39 kcal
+- Energy: 2377.14 kJ
+- Carbohydrates: 9.21 g
+- Protein: 1.71 g
+- Fat: 59.19 g
+- Fibre: 1.19 g
+
+### Values observed per serving
 - Serving description: 1 samosa
-- Energy (kcal): 813.76 kcal
-- Energy (kJ): 3350.3 kJ
+- Energy: 813.76 kcal
+- Energy: 3350.3 kJ
 - Carbohydrates: 12.97 g
 - Protein: 2.41 g
 - Fat: 83.42 g
 - Fibre: 1.68 g
 
-- The per-serving energy is unusually high compared with the per-100-g value and requires source or portion-size verification.
-
-- **Confidence and limitations:** The per-serving value of 813.76 kcal was recorded from the Anuvaad INDB per-serving value. It is substantially higher than the recorded per-100-g value of 577.39 kcal and requires source or portion-size verification.
+### Confidence and limitations
+The per-serving value of 813.76 kcal was recorded from the Anuvaad INDB per-serving value. It is substantially higher than the recorded per-100-g value of 577.39 kcal and requires source or portion-size verification.
 
 ### F012 – Vegetable Pakora
 
@@ -399,17 +406,25 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 - **Source URL:** https://www.anuvaad.org.in/nutrition-fact/mixed-vegetable-pakora-pakoda/
 
-## Values observed per serving
+### Values observed per 100 g
+- Energy: 673.81 kcal
+- Energy: 2774.04 kJ
+- Carbohydrates: 5.12 g
+- Protein: 1.94 g
+- Fat: 71.86 g
+- Fibre: 1.13 g
+
+### Values observed per serving
 - Serving description: Not used
-- Energy (kcal): Not available
+- Energy: Not available
 - Energy (kJ): Not available
 - Carbohydrates: Not available
 - Protein: Not available
 - Fat: Not available
 - Fibre: Not available
 
-- Anuvaad predefined per-serving values appear internally inconsistent; per-serving nutrition values were excluded pending verification.
-- **Confidence and limitations:** Values are recorded from the Mixed Vegetable Pakora/Pakoda entry per 100 g. The reported energy and fat values are unusually high and should be independently rechecked against the source. Vegetable mix and oil absorption may vary. Anuvaad per-serving values appear internally inconsistent; per-serving energy is excluded pending verification.
+### Confidence and limitations
+Values are recorded from the Mixed Vegetable Pakora/Pakoda entry per 100 g. The reported energy and fat values should be independently rechecked against the source. Vegetable mix and oil absorption may vary. Anuvaad predefined per-serving values appear internally inconsistent; per-serving nutrition values were excluded pending verification.
 
 ### F013 – Upma
 
@@ -421,18 +436,25 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 - **Source URL:** https://www.anuvaad.org.in/nutrition-fact/semolina-upma-suji-rava-upma/
 
-## Values observed per serving
+### Values observed per 100 g
+- Energy: 147.89 kcal
+- Energy: 614.18 kJ
+- Carbohydrates: 16.31 g
+- Protein: 3.30 g
+- Fat: 7.49 g
+- Fibre: 3.24 g
+
+### Values observed per serving
 - Serving description: 1 bowl
-- Energy (kcal): 157.14 kcal
-- Energy (kJ): 652.6 kJ
+- Energy: 157.14 kcal
+- Energy: 652.6 kJ
 - Carbohydrates: 17.33 g
 - Protein: 3.51 g
 - Fat: 7.96 g
 - Fibre: 3.45 g
 
-- Per-serving values were recorded from the Anuvaad INDB per-serving entry.
-
-- **Confidence and limitations:** Values are recorded from the Semolina Upma (Suji/Rava Upma) entry per 100 g. Vegetable mix and oil quantity may vary.
+### Confidence and limitations
+Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values are recorded from the Semolina Upma (Suji/Rava Upma) entry per 100 g. Vegetable mix and oil quantity may vary.
 
 ### F014 – Khichdi
 
@@ -444,18 +466,25 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 - **Source URL:** https://www.anuvaad.org.in/nutrition-fact/rice-dal-porridge-chawal-dal-ki-khichdi-khichri/
 
-## Values observed per serving
+### Values observed per 100 g
+- Energy: 383.33 kcal
+- Energy: 1603.90 kJ
+- Carbohydrates: 65.04 g
+- Protein: 10.80 g
+- Fat: 8.33 g
+- Fibre: 4.51 g
+
+### Values observed per serving
 - Serving description: Not available (Custom portion only)
-- Energy (kcal): Not available
+- Energy: Not available
 - Energy (kJ): Not available
 - Carbohydrates: Not available
 - Protein: Not available
 - Fat: Not available
 - Fibre: Not available
 
-- No predefined serving was available in Anuvaad INDB; only the Custom portion option was found, so per-serving values were left blank.
-
-- **Confidence and limitations:** Values are recorded from the Rice Dal Porridge (Chawal Dal ki Khichdi/Khichri) entry per 100 g. The energy value is unusually high for a cooked khichdi preparation and should be rechecked against the source. Rice-to-dal ratio and recipe may vary.
+### Confidence and limitations
+No predefined serving was available in Anuvaad INDB; only the Custom portion option was found, so per-serving values were left blank. Values are recorded from the Rice Dal Porridge (Chawal Dal ki Khichdi/Khichri) entry per 100 g. The energy value is unusually high for a cooked khichdi preparation and should be rechecked against the source. Rice-to-dal ratio and recipe may vary.
 
 ### F015 – Lemon Rice
 
@@ -465,44 +494,62 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Common ingredients:** Rice, lemon juice, oil, mustard seeds, curry leaves, turmeric, peanuts and spices.
 - **Preparation details:** Cooked rice is mixed with a lemon-based tempering and spices.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
-- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/lemon-rice/
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/lemon-rice-pulihora-elumichai-sadam-chitranna/
 
-## Values observed per serving
+### Values observed per 100 g
+- Energy: 176.3 kcal
+- Energy: 734.93 kJ
+- Carbohydrates: 21.62 g
+- Protein: 4.26 g
+- Fat: 7.88 g
+- Fibre: 2.52 g
+
+### Values observed per serving
 - Serving description: 1 plate
-- Energy (kcal): 562.69 kcal
-- Energy (kJ): 2345.6 kJ
+- Energy: 562.69 kcal
+- Energy: 2345.6 kJ
 - Carbohydrates: 69.01 g
 - Protein: 13.58 g
 - Fat: 25.15 g
 - Fibre: 8.05 g
 
-- Per-serving values were recorded from the Anuvaad INDB per-serving entry.
+### Confidence and limitations
+Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values are recorded from the matching Anuvaad INDB Lemon Rice entry per 100 g. Nutrition may vary depending on the amount of oil, peanuts and lemon used.
 
-- **Confidence and limitations:** Values are recorded from the matching Anuvaad INDB Lemon Rice entry per 100 g. Nutrition may vary depending on the amount of oil, peanuts and lemon used.
-
-### F016 – Jeera Rice
+# F016 – Jeera Rice
 
 - **Food ID:** F016
 - **Category:** Main course
-- **Regional names:** Jeera Chawal; Cumin Rice
+- **Regional names:** Jeera Chawal; Cumin Rice; Zeera Rice; Jeera Pulao
 - **Common ingredients:** Rice, cumin seeds, oil or ghee, water and salt.
 - **Preparation details:** Rice is cooked with cumin seeds tempered in oil or ghee.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
-- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/jeera-rice/
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/cumin-pulao-jeera-zeera-pulao/
+
+## Nutrition values per 100 g
+
+- **Energy (kcal):** 135.24 kcal
+- **Energy (kJ):** 566.26 kJ
+- **Carbohydrates:** 23.61 g
+- **Protein:** 2.47 g
+- **Fat:** 3.20 g
+- **Fibre:** 1.40 g
 
 ## Values observed per serving
-- Serving description: 1 plate
-- Energy (kcal): 365.83 kcal
-- Energy (kJ): 1525.42 kJ
-- Carbohydrates: 63.87 g
-- Protein: 6.69 g
-- Fat: 8.65 g
-- Fibre: 3.79 g
+
+- **Serving description:** 1 plate
+- **Energy (kcal):** 365.83 kcal
+- **Energy (kJ):** 1525.42 kJ
+- **Carbohydrates:** 63.87 g
+- **Protein:** 6.69 g
+- **Fat:** 8.65 g
+- **Fibre:** 3.79 g
 
 - Per-serving values were recorded from the Anuvaad INDB per-serving entry.
-- **Confidence and limitations:** Values are recorded from the matching Anuvaad INDB Jeera Rice entry per 100 g. Nutrition may vary depending on the rice variety and the quantity of oil or ghee used.
 
-### F017 – Puri
+- **Confidence and limitations:** Values are recorded from the matching Anuvaad INDB Cumin Pulao (Jeera/Zeera Pulao) entry per 100 g. Nutrition may vary depending on the rice variety and the quantity of oil or ghee used.
+
+# F017 – Puri
 
 - **Food ID:** F017
 - **Category:** Main course
@@ -511,20 +558,30 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** A wheat-flour dough is rolled into small discs and deep-fried until puffed.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 
+## Nutrition values per 100 g
+
+- **Energy (kcal):** 737.63 kcal
+- **Energy (kJ):** 3035.59 kJ
+- **Carbohydrates:** 8.22 g
+- **Protein:** 1.35 g
+- **Fat:** 77.61 g
+- **Fibre:** 1.46 g
+
 ## Values observed per serving
-- Serving description: Not used
-- Energy (kcal): Not available
-- Energy (kJ): Not available
-- Carbohydrates: Not available
-- Protein: Not available
-- Fat: Not available
-- Fibre: Not available
 
-- Anuvaad predefined serving value appears unusually high compared with the per-100-g value; serving weight could not be verified, so per-serving values were excluded pending verification.
+- **Serving description:** Not used
+- **Energy (kcal):** Not available
+- **Energy (kJ):** Not available
+- **Carbohydrates:** Not available
+- **Protein:** Not available
+- **Fat:** Not available
+- **Fibre:** Not available
 
-- **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Puri entry per 100 g. The reported energy and fat values are unusually high, while the carbohydrate value appears low for a wheat-based food. These figures should be independently rechecked against the source before being treated as reliable. Oil absorption and preparation methods may also vary. Predefined serving value appears unusually high compared with the per-100-g value; serving weight could not be verified.
+- Anuvaad's predefined serving value appears unusually high compared with the per-100-g value. Serving weight could not be verified, so per-serving values were excluded pending verification.
 
-### F018 – Bhatura
+- **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Puri entry per 100 g. The reported energy and fat values are unusually high, while the carbohydrate value appears low for a wheat-based food. These figures should be independently rechecked against the source before being treated as reliable. Oil absorption and preparation methods may also vary.
+
+# F018 – Bhatura
 
 - **Food ID:** F018
 - **Category:** Main course
@@ -533,20 +590,30 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** A fermented or leavened dough is rolled into discs and deep-fried.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 
+## Nutrition values per 100 g
+
+- **Energy (kcal):** 793.20 kcal
+- **Energy (kJ):** 3265 kJ
+- **Carbohydrates:** 10.73 g
+- **Protein:** 1.63 g
+- **Fat:** 82.56 g
+- **Fibre:** 0.38 g
+
 ## Values observed per serving
-- Serving description: Not used
-- Energy (kcal): Not available
-- Energy (kJ): Not available
-- Carbohydrates: Not available
-- Protein: Not available
-- Fat: Not available
-- Fibre: Not available
 
-- Anuvaad predefined serving value appears inconsistent with the per-100-g value; per-serving energy was excluded pending verification.
+- **Serving description:** Not used
+- **Energy (kcal):** Not available
+- **Energy (kJ):** Not available
+- **Carbohydrates:** Not available
+- **Protein:** Not available
+- **Fat:** Not available
+- **Fibre:** Not available
 
-- **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Bhatura entry per 100 g. The reported energy and fat values are unusually high, while carbohydrate values appear low for a flour-based food. The kcal-to-kJ conversion should also be rechecked. These figures need independent verification before being treated as reliable. Predefined serving value appears inconsistent with the per-100-g value; per-serving energy is excluded pending verification.
+- Anuvaad's predefined serving value appears inconsistent with the per-100-g value. Per-serving values were excluded pending verification.
 
-### F019 – Palak Paneer
+- **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Bhatura entry per 100 g. The reported energy and fat values are unusually high, while carbohydrate values appear low for a flour-based food. The kcal-to-kJ conversion should also be rechecked. These figures need independent verification before being treated as reliable.
+
+# F019 – Palak Paneer
 
 - **Food ID:** F019
 - **Category:** Main course
@@ -555,21 +622,30 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** Spinach is cooked and blended into a gravy, then combined with paneer and spices.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 
+## Nutrition values per 100 g
+
+- **Energy (kcal):** 77.68 kcal
+- **Energy (kJ):** 323.55 kJ
+- **Carbohydrates:** 4.43 g
+- **Protein:** 4.03 g
+- **Fat:** 4.76 g
+- **Fibre:** 1.91 g
+
 ## Values observed per serving
-- Serving description: 1 bowl
-- Energy (kcal): 229.55 kcal
-- Energy (kJ): 956.09 kJ
-- Carbohydrates: 13.09 g
-- Protein: 11.92 g
-- Fat: 14.07 g
-- Fibre: 5.63 g
+
+- **Serving description:** 1 bowl
+- **Energy (kcal):** 229.55 kcal
+- **Energy (kJ):** 956.09 kJ
+- **Carbohydrates:** 13.09 g
+- **Protein:** 11.92 g
+- **Fat:** 14.07 g
+- **Fibre:** 5.63 g
 
 - Per-serving values were recorded from the Anuvaad INDB per-serving entry.
 
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Palak Paneer entry per 100 g. The exact proportion of spinach, paneer and added fat may differ between recipes, affecting the nutritional composition.
 
-
-### F020 – Paneer Butter Masala
+# F020 – Paneer Butter Masala
 
 - **Food ID:** F020
 - **Category:** Main course
@@ -579,19 +655,30 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Nutrition source:** RealCalorieTracker, based on the Indian Nutrient Databank (INDB) entry "Paneer in Butter Sauce" (ASC222).
 - **Source URL:** https://realcalorietracker.com/foods/paneer-in-butter-sauce
 
+## Nutrition values per 100 g
+
+- **Energy (kcal):** 146 kcal
+- **Energy (kJ):** 610.86 kJ
+- **Carbohydrates:** 9.70 g
+- **Protein:** 7.00 g
+- **Fat:** 8.80 g
+- **Fibre:** 1.50 g
+
 ## Values observed per serving
-- Serving description: 1 bowl
-- Energy (kcal): 228.3 kcal
-- Energy (kJ): 952.5 kJ
-- Carbohydrates: 15.21 g
-- Protein: 10.95 g
-- Fat: 13.81 g
-- Fibre: 2.35 g
+
+- **Serving description:** 1 bowl
+- **Energy (kcal):** 228.30 kcal
+- **Energy (kJ):** 952.50 kJ
+- **Carbohydrates:** 15.21 g
+- **Protein:** 10.95 g
+- **Fat:** 13.81 g
+- **Fibre:** 2.35 g
 
 - Per-serving values were recorded from the INDB-matched standard recipe reference.
+
 - **Confidence and limitations:** The source entry is Paneer in Butter Sauce, which is a close match rather than an exact match for every Paneer Butter Masala recipe. Nutrition may vary with the amount of paneer, butter and cream used.
 
-### F021 – Masala Dosa
+# F021 – Masala Dosa
 
 - **Food ID:** F021
 - **Category:** Main course
@@ -600,20 +687,30 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** A fermented rice-and-lentil batter is spread on a hot griddle, filled with spiced potato masala and folded.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 
+## Nutrition values per 100 g
+
+- **Energy (kcal):** 164.58 kcal
+- **Energy (kJ):** 683.80 kJ
+- **Carbohydrates:** 19.57 g
+- **Protein:** 3.29 g
+- **Fat:** 7.84 g
+- **Fibre:** 2.52 g
+
 ## Values observed per serving
-- Serving description: 1 dosa
-- Energy (kcal): 345.08 kcal
-- Energy (kJ): 1433.68 kJ
-- Carbohydrates: 41.02 g
-- Protein: 6.89 g
-- Fat: 16.44 g
-- Fibre: 5.29 g
+
+- **Serving description:** 1 dosa
+- **Energy (kcal):** 345.08 kcal
+- **Energy (kJ):** 1433.68 kJ
+- **Carbohydrates:** 41.02 g
+- **Protein:** 6.89 g
+- **Fat:** 16.44 g
+- **Fibre:** 5.29 g
 
 - Per-serving values were recorded from the Anuvaad INDB per-serving entry.
 
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Masala Dosa entry per 100 g. Nutrition may vary with the dosa size, potato filling and quantity of oil used. This is a filled Masala Dosa record, not the plain dosa preparation.
 
-### F022 – Uttapam
+# F022 – Uttapam
 
 - **Food ID:** F022
 - **Category:** Main course
@@ -623,20 +720,30 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Nutrition source:** RealCalorieTracker, based on the Indian Nutrient Databank (INDB) standard recipe BFP152.
 - **Source URL:** https://realcalorietracker.com/foods/uttapam
 
+## Nutrition values per 100 g
+
+- **Energy (kcal):** 256 kcal
+- **Energy (kJ):** 1071.10 kJ
+- **Carbohydrates:** 36.30 g
+- **Protein:** 6.20 g
+- **Fat:** 9.00 g
+- **Fibre:** 4.40 g
+
 ## Values observed per serving
-- Serving description: 1 uttapam
-- Energy (kcal): 174.15 kcal
-- Energy (kJ): 724.88 kJ
-- Carbohydrates: 24.68 g
-- Protein: 4.21 g
-- Fat: 6.14 g
-- Fibre: 2.99 g
+
+- **Serving description:** 1 uttapam
+- **Energy (kcal):** 174.15 kcal
+- **Energy (kJ):** 724.88 kJ
+- **Carbohydrates:** 24.68 g
+- **Protein:** 4.21 g
+- **Fat:** 6.14 g
+- **Fibre:** 2.99 g
 
 - Per-serving values were recorded from the INDB-matched standard recipe reference.
 
 - **Confidence and limitations:** Values are based on the INDB standard Uttapam recipe hosted by RealCalorieTracker. Toppings, batter proportions and cooking oil may vary across preparations.
 
-### F023 – Medu Vada
+# F023 – Medu Vada
 
 - **Food ID:** F023
 - **Category:** Snack
@@ -645,19 +752,31 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** Soaked urad dal is ground into a thick batter, shaped into rings and deep-fried.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 
+## Nutrition values per 100 g
+
+- **Energy (kcal):** 745.50 kcal
+- **Energy (kJ):** 3069.41 kJ
+- **Carbohydrates:** 9.70 g
+- **Protein:** 4.39 g
+- **Fat:** 76.32 g
+- **Fibre:** 2.27 g
+
 ## Values observed per serving
-- Serving description: 1 vada
-- Energy (kcal): 588.01 kcal
-- Energy (kJ): 2421 kJ
-- Carbohydrates: 7.65 g
-- Protein: 3.46 g
-- Fat: 60.19 g
-- Fibre: 1.79 g
+
+- **Serving description:** 1 vada
+- **Energy (kcal):** 588.01 kcal
+- **Energy (kJ):** 2421 kJ
+- **Carbohydrates:** 7.65 g
+- **Protein:** 3.46 g
+- **Fat:** 60.19 g
+- **Fibre:** 1.79 g
 
 - Per-serving values were recorded from the Anuvaad INDB per-serving entry.
+
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Medu Vada entry per 100 g. The reported energy and fat values are unusually high, while carbohydrate values appear low for a lentil-based preparation. These figures should be independently rechecked against the source. Oil absorption and preparation methods may vary.
 
-### F024 – Dhokla
+
+# F024 – Dhokla
 
 - **Food ID:** F024
 - **Category:** Snack
@@ -666,20 +785,62 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** A fermented or leavened gram-flour batter is steamed until soft and spongy.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 
+## Nutrition values per 100 g
+
+- **Energy (kcal):** 54.73 kcal
+- **Energy (kJ):** 228.09 kJ
+- **Carbohydrates:** 5.36 g
+- **Protein:** 1.92 g
+- **Fat:** 2.80 g
+- **Fibre:** 1.49 g
+
 ## Values observed per serving
-- Serving description: 1 piece
-- Energy (kcal): 86.5 kcal
-- Energy (kJ): 366.01 kJ
-- Carbohydrates: 12.26 g
-- Protein: 5.37 g
-- Fat: 2.11 g
-- Fibre: 1.98 g
+
+- **Serving description:** 1 piece
+- **Energy (kcal):** 86.50 kcal
+- **Energy (kJ):** 366.01 kJ
+- **Carbohydrates:** 12.26 g
+- **Protein:** 5.37 g
+- **Fat:** 2.11 g
+- **Fibre:** 1.98 g
 
 - Per-serving values were recorded from the Anuvaad INDB per-serving entry.
 
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Khaman variant per 100 g. Khaman is a specific type of Dhokla, so these values should not be assumed to represent every Dhokla recipe. Preparation and tempering may vary.
 
-### F025 – Kachori
+# F024 – Dhokla
+
+- **Food ID:** F024
+- **Category:** Snack
+- **Regional names:** Khaman; Khaman Dhokla
+- **Common ingredients:** Gram flour (besan), water, lemon juice, green chilli, ginger, salt and a leavening agent.
+- **Preparation details:** A fermented or leavened gram-flour batter is steamed until soft and spongy.
+- **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
+
+## Nutrition values per 100 g
+
+- **Energy (kcal):** 54.73 kcal
+- **Energy (kJ):** 228.09 kJ
+- **Carbohydrates:** 5.36 g
+- **Protein:** 1.92 g
+- **Fat:** 2.80 g
+- **Fibre:** 1.49 g
+
+## Values observed per serving
+
+- **Serving description:** 1 piece
+- **Energy (kcal):** 86.50 kcal
+- **Energy (kJ):** 366.01 kJ
+- **Carbohydrates:** 12.26 g
+- **Protein:** 5.37 g
+- **Fat:** 2.11 g
+- **Fibre:** 1.98 g
+
+- Per-serving values were recorded from the Anuvaad INDB per-serving entry.
+
+- **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Khaman variant per 100 g. Khaman is a specific type of Dhokla, so these values should not be assumed to represent every Dhokla recipe. Preparation and tempering may vary.
+
+# F025 – Kachori
 
 - **Food ID:** F025
 - **Category:** Snack
@@ -688,20 +849,31 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** A filling is enclosed in a wheat-flour dough shell and deep-fried until crisp.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 
+## Nutrition values per 100 g
+
+- **Energy (kcal):** 712.73 kcal
+- **Energy (kJ):** 2934.90 kJ
+- **Carbohydrates:** 12.81 g
+- **Protein:** 2.51 g
+- **Fat:** 72.27 g
+- **Fibre:** 0.97 g
+
 ## Values observed per serving
-- Serving description: 1 kachori
-- Energy (kcal): 717.57 kcal
-- Energy (kJ): 2954.81 kJ
-- Carbohydrates: 12.9 g
-- Protein: 2.53 g
-- Fat: 72.76 g
-- Fibre: 0.98 g
+
+- **Serving description:** 1 kachori
+- **Energy (kcal):** 717.57 kcal
+- **Energy (kJ):** 2954.81 kJ
+- **Carbohydrates:** 12.90 g
+- **Protein:** 2.53 g
+- **Fat:** 72.76 g
+- **Fibre:** 0.98 g
 
 - Per-serving values were recorded from the Anuvaad INDB per-serving entry.
 
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Kachori entry per 100 g. The reported energy and fat values are unusually high, while carbohydrate values appear low for a flour-based preparation. These figures should be independently rechecked against the source. Filling type and oil absorption may vary.
 
-### F026 – Pav Bhaji
+
+# F026 – Pav Bhaji
 
 - **Food ID:** F026
 - **Category:** Main course
@@ -710,20 +882,30 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** Vegetables are cooked and mashed with spices to make a thick bhaji, served with butter-toasted pav.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 
+## Nutrition values per 100 g
+
+- **Energy (kcal):** 96.53 kcal
+- **Energy (kJ):** 401.63 kJ
+- **Carbohydrates:** 11.99 g
+- **Protein:** 2.66 g
+- **Fat:** 4.32 g
+- **Fibre:** 1.98 g
+
 ## Values observed per serving
-- Serving description: Not available (Custom portion only)
-- Energy (kcal): Not available
-- Energy (kJ): Not available
-- Carbohydrates: Not available
-- Protein: Not available
-- Fat: Not available
-- Fibre: Not available
+
+- **Serving description:** Not available (Custom portion only)
+- **Energy (kcal):** Not available
+- **Energy (kJ):** Not available
+- **Carbohydrates:** Not available
+- **Protein:** Not available
+- **Fat:** Not available
+- **Fibre:** Not available
 
 - No predefined serving was available in Anuvaad INDB; only the Custom portion option was found, so per-serving values were left blank.
 
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Pav Bhaji entry per 100 g. The proportions of vegetables, butter and pav may differ across recipes and serving styles.
 
-### F027 – Misal Pav
+# F027 – Misal Pav
 
 - **Food ID:** F027
 - **Category:** Main course
@@ -733,19 +915,30 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Nutrition source:** SVAS, using ingredient-based estimates informed by IFCT-2017.
 - **Source URL:** https://www.svas.life/nutrition/misal-pav/
 
-## Values observed per serving
-- Serving description: 200 g serving
-- Energy (kcal): 316 kcal
-- Energy (kJ): Not provided
-- Carbohydrates: 47.0 g
-- Protein: 13.6 g
-- Fat: 8.0 g
-- Fibre: 5.9 g
+## Nutrition values per 100 g
 
-- Per-serving values are based on the Svas IFCT-2017 ingredient-based calculation; energy in kJ was not provided by the source.
+- **Energy (kcal):** 158 kcal
+- **Energy (kJ):** 660.47 kJ
+- **Carbohydrates:** 23.50 g
+- **Protein:** 6.80 g
+- **Fat:** 4.00 g
+- **Fibre:** 2.90 g
+
+## Values observed per serving
+
+- **Serving description:** 200 g serving
+- **Energy (kcal):** 316 kcal
+- **Energy (kJ):** Not available
+- **Carbohydrates:** 47.00 g
+- **Protein:** 13.60 g
+- **Fat:** 8.00 g
+- **Fibre:** 5.90 g
+
+- Per-serving values are based on the SVAS IFCT-2017 ingredient-based calculation; energy in kJ was not provided by the source.
+
 - **Confidence and limitations:** Values are ingredient-based estimates rather than laboratory measurements. The amount of farsan, curry, oil and pav included in the serving can affect the nutritional composition.
 
-### F028 – Thepla
+# F028 – Methi Thepla
 
 - **Food ID:** F028
 - **Category:** Main course
@@ -754,20 +947,30 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** A spiced wheat-flour dough, often mixed with fenugreek leaves, is rolled into flatbreads and cooked on a griddle.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB), using the Methi Thepla variant.
 
+## Nutrition values per 100 g
+
+- **Energy (kcal):** 346.16 kcal
+- **Energy (kJ):** 1442.66 kJ
+- **Carbohydrates:** 41.34 g
+- **Protein:** 8.98 g
+- **Fat:** 15.95 g
+- **Fibre:** 7.56 g
+
 ## Values observed per serving
-- Serving description: 1 thepla
-- Energy (kcal): 126.16 kcal
-- Energy (kJ): 525.8 kJ
-- Carbohydrates: 15.07 g
-- Protein: 3.27 g
-- Fat: 5.81 g
-- Fibre: 2.76 g
+
+- **Serving description:** 1 thepla
+- **Energy (kcal):** 126.16 kcal
+- **Energy (kJ):** 525.80 kJ
+- **Carbohydrates:** 15.07 g
+- **Protein:** 3.27 g
+- **Fat:** 5.81 g
+- **Fibre:** 2.76 g
 
 - Per-serving values were recorded from the Anuvaad INDB per-serving entry.
 
 - **Confidence and limitations:** Values are recorded from the Methi Thepla variant per 100 g. They may not represent plain Thepla or recipes with different amounts of fenugreek, yogurt and oil.
 
-### F029 – Litti Chokha
+# F029 – Litti Chokha
 
 - **Food ID:** F029
 - **Category:** Main course
@@ -777,20 +980,30 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Nutrition source:** Khaana, recipe-based estimate.
 - **Source URL:** https://khaana.com/recipes/litti-chokha.html
 
+## Nutrition values per 100 g
+
+- **Energy (kcal):** 185 kcal
+- **Energy (kJ):** 774.04 kJ
+- **Carbohydrates:** 25.00 g
+- **Protein:** 5.00 g
+- **Fat:** 8.00 g
+- **Fibre:** 5.00 g
+
 ## Values observed per serving
-- Serving description: 580 g serving
-- Energy (kcal): 1068 kcal
-- Energy (kJ): Not provided
-- Carbohydrates: 142.5 g
-- Protein: 28.4 g
-- Fat: 46.9 g
-- Fibre: 27.2 g
+
+- **Serving description:** 580 g serving
+- **Energy (kcal):** 1068 kcal
+- **Energy (kJ):** Not available
+- **Carbohydrates:** 142.50 g
+- **Protein:** 28.40 g
+- **Fat:** 46.90 g
+- **Fibre:** 27.20 g
 
 - Per-serving nutrition values are recipe-based estimates reported by Khaana for a 580 g serving; energy in kJ was not provided.
 
-- **Confidence and limitations:** These values are approximate recipe-based estimates, not laboratory-tested measurements. The proportions of litti, chokha and added ghee or oil can vary, affecting the nutritional composition. Khaana also reports an estimated 1068 kcal for a 580 g serving; this is a recipe-based estimate and may vary with preparation.
+- **Confidence and limitations:** These values are approximate recipe-based estimates, not laboratory-tested measurements. The proportions of litti, chokha and added ghee or oil can vary, affecting the nutritional composition. The reported 580 g serving and its estimated 1068 kcal should be treated as recipe-specific rather than universal values.
 
-### F030 – Baingan Bharta
+# F030 – Baingan Bharta
 
 - **Food ID:** F030
 - **Category:** Main course
@@ -799,20 +1012,31 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** Eggplant is roasted, mashed and cooked with onion, tomato and spices.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 
+## Nutrition values per 100 g
+
+- **Energy (kcal):** 65.12 kcal
+- **Energy (kJ):** 269.75 kJ
+- **Carbohydrates:** 4.40 g
+- **Protein:** 1.38 g
+- **Fat:** 4.48 g
+- **Fibre:** 3.27 g
+
 ## Values observed per serving
-- Serving description: 1 bowl
-- Energy (kcal): 212.17 kcal
-- Energy (kJ): 878.91 kJ
-- Carbohydrates: 14.33 g
-- Protein: 4.5 g
-- Fat: 14.6 g
-- Fibre: 10.67 g
+
+- **Serving description:** 1 bowl
+- **Energy (kcal):** 212.17 kcal
+- **Energy (kJ):** 878.91 kJ
+- **Carbohydrates:** 14.33 g
+- **Protein:** 4.50 g
+- **Fat:** 14.60 g
+- **Fibre:** 10.67 g
 
 - Per-serving values were recorded from the Anuvaad INDB per-serving entry.
 
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Baingan Bharta entry per 100 g. The amount of oil and the proportions of eggplant and other vegetables may vary across recipes.
 
-### F031 – Vegetable Biryani
+
+# F031 – Vegetable Biryani
 
 - **Food ID:** F031
 - **Category:** Main course
@@ -821,20 +1045,30 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** Rice and spiced vegetables are cooked together or layered and cooked using the dum method.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 
+## Nutrition values per 100 g
+
+- **Energy (kcal):** 174.61 kcal
+- **Energy (kJ):** 724.76 kJ
+- **Carbohydrates:** 18.56 g
+- **Protein:** 3.16 g
+- **Fat:** 9.51 g
+- **Fibre:** 3.31 g
+
 ## Values observed per serving
-- Serving description: 1 serving
-- Energy (kcal): 526.55 kcal
-- Energy (kJ): 2185.64 kJ
-- Carbohydrates: 55.96 g
-- Protein: 9.53 g
-- Fat: 28.67 g
-- Fibre: 9.98 g
+
+- **Serving description:** 1 plate
+- **Energy (kcal):** 526.55 kcal
+- **Energy (kJ):** 2185.64 kJ
+- **Carbohydrates:** 55.96 g
+- **Protein:** 9.53 g
+- **Fat:** 28.67 g
+- **Fibre:** 9.98 g
 
 - Per-serving values were recorded from the Anuvaad INDB per-serving entry.
 
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Vegetable Biryani entry per 100 g. Vegetable proportions, rice quantity, cooking fat and preparation methods may vary.
 
-### F032 – Chicken Biryani
+# F032 – Chicken Biryani
 
 - **Food ID:** F032
 - **Category:** Main course
@@ -843,20 +1077,30 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** Marinated chicken and rice are layered or cooked together with spices, often using the dum method.
 - **Nutrition source:** Barbeque Nation restaurant nutrition PDF (branded restaurant data).
 
-## Values observed per serving
-- Serving description: Not available
-- Energy (kcal): Not available
-- Energy (kJ): Not available
-- Carbohydrates: Not available
-- Protein: Not available
-- Fat: Not available
-- Fibre: Not available
+## Nutrition values per 100 g
 
-- The official Barbeque Nation source provides per-100 g nutrition values only; reliable per-serving values were not available.
+- **Energy (kcal):** 199.93 kcal
+- **Energy (kJ):** 836.29 kJ
+- **Carbohydrates:** 21.31 g
+- **Protein:** 9.31 g
+- **Fat:** 8.59 g
+- **Fibre:** 0.53 g
+
+## Values observed per serving
+
+- **Serving description:** Not available
+- **Energy (kcal):** Not available
+- **Energy (kJ):** Not available
+- **Carbohydrates:** Not available
+- **Protein:** Not available
+- **Fat:** Not available
+- **Fibre:** Not available
+
+- The official Barbeque Nation source provides per-100-g nutrition values only; reliable per-serving values were not available.
 
 - **Confidence and limitations:** Values are taken from Barbeque Nation's published nutrition information and represent a branded restaurant preparation. They may not reflect homemade Chicken Biryani or other restaurant recipes. Serving composition and preparation methods can vary.
 
-### F033 – Masala Chai
+# F033 – Masala Chai
 
 - **Food ID:** F033
 - **Category:** Beverage
@@ -865,20 +1109,30 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** Tea leaves and spices are simmered with water and milk, then sweetened according to preference.
 - **Nutrition source:** Healthify Nutrifacts.
 
+## Nutrition values per 100 g
+
+- **Energy (kcal):** 41.65 kcal
+- **Energy (kJ):** 174.26 kJ
+- **Carbohydrates:** 4.83 g
+- **Protein:** 1.71 g
+- **Fat:** 1.76 g
+- **Fibre:** 0.17 g
+
 ## Values observed per serving
-- Serving description: 1 serving
-- Energy (kcal): 104.12 kcal
-- Energy (kJ): Not provided
-- Carbohydrates: 12.07 g
-- Protein: 4.29 g
-- Fat: 4.41 g
-- Fibre: 0.43 g
+
+- **Serving description:** 1 glass (250 g)
+- **Energy (kcal):** 104.12 kcal
+- **Energy (kJ):** Not available
+- **Carbohydrates:** 12.07 g
+- **Protein:** 4.29 g
+- **Fat:** 4.41 g
+- **Fibre:** 0.43 g
 
 - The source provides per-serving energy in kcal and macronutrients; energy in kJ was not provided.
 
 - **Confidence and limitations:** Per-serving nutrition values are recorded from Healthify Nutrifacts. Energy in kJ was not provided by the source. Nutrition may vary with milk type, sugar quantity and spice proportions. The values should not be assumed to represent unsweetened tea.
 
-### F034 – Curd Rice
+# F034 – Curd Rice
 
 - **Food ID:** F034
 - **Category:** Main course
@@ -887,20 +1141,30 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** Cooked rice is mixed with yogurt and sometimes milk, then seasoned with a tempering of spices and curry leaves.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 
+## Nutrition values per 100 g
+
+- **Energy (kcal):** 195.74 kcal
+- **Energy (kJ):** 818.47 kJ
+- **Carbohydrates:** 32.93 g
+- **Protein:** 5.75 g
+- **Fat:** 4.32 g
+- **Fibre:** 2.13 g
+
 ## Values observed per serving
-- Serving description: 1 serving
-- Energy (kcal): 423.11 kcal
-- Energy (kJ): 1769.2 kJ
-- Carbohydrates: 71.18 g
-- Protein: 12.44 g
-- Fat: 9.33 g
-- Fibre: 4.61 g
+
+- **Serving description:** 1 plate
+- **Energy (kcal):** 423.11 kcal
+- **Energy (kJ):** 1769.20 kJ
+- **Carbohydrates:** 71.18 g
+- **Protein:** 12.44 g
+- **Fat:** 9.33 g
+- **Fibre:** 4.61 g
 
 - Per-serving values were recorded from the Anuvaad INDB per-serving entry.
 
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Curd Rice entry per 100 g. Nutrition may vary with the rice-to-curd ratio, milk addition and tempering ingredients.
 
-### F035 – Vegetable Sandwich
+# F035 – Vegetable Sandwich
 
 - **Food ID:** F035
 - **Category:** Snack
@@ -909,20 +1173,31 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** Sliced vegetables and mayonnaise are layered between bread slices.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB), using the mayonnaise-based variant.
 
+## Nutrition values per 100 g
+
+- **Energy (kcal):** 244.26 kcal
+- **Energy (kJ):** 1020.23 kJ
+- **Carbohydrates:** 23.20 g
+- **Protein:** 4.47 g
+- **Fat:** 15.40 g
+- **Fibre:** 2.35 g
+
 ## Values observed per serving
-- Serving description: 1 serving
-- Energy (kcal): 166.83 kcal
-- Energy (kJ): 696.82 kJ
-- Carbohydrates: 15.85 g
-- Protein: 3.06 g
-- Fat: 10.52 g
-- Fibre: 1.61 g
+
+- **Serving description:** 1 triangle
+- **Energy (kcal):** 166.83 kcal
+- **Energy (kJ):** 696.82 kJ
+- **Carbohydrates:** 15.85 g
+- **Protein:** 3.06 g
+- **Fat:** 10.52 g
+- **Fibre:** 1.61 g
 
 - Per-serving values were recorded from the Anuvaad INDB per-serving entry.
 
 - **Confidence and limitations:** Values are recorded from the mayonnaise-based Vegetable Sandwich variant per 100 g. They should not be treated as representative of a plain vegetable sandwich. Mayonnaise quantity, bread type and vegetable proportions may vary.
 
-### F036 – Paneer Tikka
+
+# F036 – Paneer Tikka
 
 - **Food ID:** F036
 - **Category:** Starter
@@ -932,20 +1207,30 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Nutrition source:** IIIT Delhi RecipeDB.
 - **Source URL:** https://cosylab.iiitd.edu.in/recipedb/search_recipeInfo/67098
 
-## Values observed per serving
-- Serving description: Not available
-- Energy (kcal): Not available
-- Energy (kJ): Not available
-- Carbohydrates: Not available
-- Protein: Not available
-- Fat: Not available
-- Fibre: Not available
+## Nutrition values per 100 g
 
-- RecipeDB provides per-100 g nutrition values, but serving count and serving size are unspecified; reliable per-serving values could not be recorded.
+- **Energy (kcal):** 297.69 kcal
+- **Energy (kJ):** 1243.44 kJ
+- **Carbohydrates:** 10.52 g
+- **Protein:** 14.87 g
+- **Fat:** 22.63 g
+- **Fibre:** 1.94 g
+
+## Values observed per serving
+
+- **Serving description:** Not available
+- **Energy (kcal):** Not available
+- **Energy (kJ):** Not available
+- **Carbohydrates:** Not available
+- **Protein:** Not available
+- **Fat:** Not available
+- **Fibre:** Not available
+
+- RecipeDB provides per-100-g nutrition values, but serving count and serving size are unspecified; reliable per-serving values could not be recorded.
 
 - **Confidence and limitations:** Values are recipe-based estimates from the selected RecipeDB entry, not laboratory-tested measurements. Paneer type, marinade ingredients and cooking method may affect the nutritional composition.
 
-### F037 – Gulab Jamun
+# F037 – Gulab Jamun
 
 - **Food ID:** F037
 - **Category:** Dessert
@@ -954,20 +1239,30 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** Soft dough balls are shaped, deep-fried and soaked in flavoured sugar syrup.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB), using the Khoya Gulab Jamun variant.
 
+## Nutrition values per 100 g
+
+- **Energy (kcal):** 586.06 kcal
+- **Energy (kJ):** 2425.40 kJ
+- **Carbohydrates:** 26.09 g
+- **Protein:** 2.03 g
+- **Fat:** 53.23 g
+- **Fibre:** 0.07 g
+
 ## Values observed per serving
-- Serving description: Predefined serving
-- Energy (kcal): Not recorded
-- Energy (kJ): Not recorded
-- Carbohydrates: Not recorded
-- Protein: Not recorded
-- Fat: Not recorded
-- Fibre: Not recorded
+
+- **Serving description:** Not used
+- **Energy (kcal):** Not available
+- **Energy (kJ):** Not available
+- **Carbohydrates:** Not available
+- **Protein:** Not available
+- **Fat:** Not available
+- **Fibre:** Not available
 
 - The predefined serving values were unusually high and the serving weight could not be verified, so per-serving nutrition values were left blank.
 
-- **Confidence and limitations:** Values are recorded from the Khoya Gulab Jamun variant per 100 g. They may not represent other recipes or versions made with different ingredients. Sugar syrup absorption and frying fat can affect the nutritional composition. Predefined serving value appears unusually high compared with the per-100-g value; serving weight could not be verified.
+- **Confidence and limitations:** Values are recorded from the Khoya Gulab Jamun variant per 100 g. They may not represent other recipes or versions made with different ingredients. Sugar syrup absorption and frying fat can affect the nutritional composition. The predefined serving value could not be verified and was excluded.
 
-### F038 – Jalebi
+# F038 – Jalebi
 
 - **Food ID:** F038
 - **Category:** Dessert
@@ -976,20 +1271,30 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** A fermented or prepared batter is piped into spiral shapes, deep-fried and soaked in sugar syrup.
 - **Nutrition source:** Healthify Nutrifacts.
 
+## Nutrition values per 100 g
+
+- **Energy (kcal):** 262.62 kcal
+- **Energy (kJ):** 1098.80 kJ
+- **Carbohydrates:** 30.56 g
+- **Protein:** 2.16 g
+- **Fat:** 14.83 g
+- **Fibre:** 0.61 g
+
 ## Values observed per serving
-- Serving description: 1 serving
-- Energy (kcal): 65.66 kcal
-- Energy (kJ): Not provided
-- Carbohydrates: 7.64 g
-- Protein: 0.54 g
-- Fat: 3.71 g
-- Fibre: 0.15 g
+
+- **Serving description:** 1 small jalebi
+- **Energy (kcal):** 65.66 kcal
+- **Energy (kJ):** Not available
+- **Carbohydrates:** 7.64 g
+- **Protein:** 0.54 g
+- **Fat:** 3.71 g
+- **Fibre:** 0.15 g
 
 - The source provides per-serving energy in kcal and macronutrients; energy in kJ was not provided.
 
 - **Confidence and limitations:** Per-serving nutrition values are recorded from Healthify Nutrifacts. Energy in kJ was not provided by the source. Nutrition may vary with batter composition, frying method and sugar syrup absorption.
 
-### F039 – Kheer
+# F039 – Kheer
 
 - **Food ID:** F039
 - **Category:** Dessert
@@ -998,20 +1303,30 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** Rice is simmered in milk until soft and creamy, then sweetened and flavoured.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB), using the Rice Kheer variant.
 
+## Nutrition values per 100 g
+
+- **Energy (kcal):** 75.03 kcal
+- **Energy (kJ):** 315.33 kJ
+- **Carbohydrates:** 10.05 g
+- **Protein:** 2.30 g
+- **Fat:** 2.97 g
+- **Fibre:** 0.17 g
+
 ## Values observed per serving
-- Serving description: 1 serving
-- Energy (kcal): 300.94 kcal
-- Energy (kJ): 1264.81 kJ
-- Carbohydrates: 40.31 g
-- Protein: 9.21 g
-- Fat: 11.92 g
-- Fibre: 0.69 g
+
+- **Serving description:** 1 bowl
+- **Energy (kcal):** 300.94 kcal
+- **Energy (kJ):** 1264.81 kJ
+- **Carbohydrates:** 40.31 g
+- **Protein:** 9.21 g
+- **Fat:** 11.92 g
+- **Fibre:** 0.69 g
 
 - Per-serving values were recorded from the Anuvaad INDB per-serving entry.
 
 - **Confidence and limitations:** Values are recorded from the Rice Kheer variant per 100 g. They may not represent other types of Kheer, such as vermicelli or millet-based preparations. Milk type, sugar quantity and cooking method may vary.
 
-### F040 – Poha Jalebi
+# F040 – Poha Jalebi
 
 - **Food ID:** F040
 - **Category:** Main course
@@ -1020,18 +1335,30 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** Seasoned poha is served with jalebi as a combination meal.
 - **Nutrition source:** No verified source found for the exact combined preparation.
 
+## Nutrition values per 100 g
+
+- **Energy (kcal):** Not available
+- **Energy (kJ):** Not available
+- **Carbohydrates:** Not available
+- **Protein:** Not available
+- **Fat:** Not available
+- **Fibre:** Not available
+
 ## Values observed per serving
-- Serving description: Not available
-- Energy (kcal): Not available
-- Energy (kJ): Not available
-- Carbohydrates: Not available
-- Protein: Not available
-- Fat: Not available
-- Fibre: Not available
+
+- **Serving description:** Not available
+- **Energy (kcal):** Not available
+- **Energy (kJ):** Not available
+- **Carbohydrates:** Not available
+- **Protein:** Not available
+- **Fat:** Not available
+- **Fibre:** Not available
 
 - No verified combined nutrition source or reliable serving proportions were available for Poha Jalebi; per-serving values were left blank.
 
 - **Confidence and limitations:** Nutrition values are intentionally left blank because a reliable source for the combined Poha Jalebi serving was not identified. The proportion of poha and jalebi can vary considerably. Separate values for the two foods should not be presented as verified combined values.
+
+
 
 ### F041 – Dal Baati Churma
 
@@ -1042,7 +1369,15 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** Baked or roasted baati is served with cooked dal and sweet churma as a combination meal.
 - **Nutrition source:** No verified source found for the exact combined preparation.
 
-## Values observed per serving
+#### Values observed per 100 g
+- Energy (kcal): Not available
+- Energy (kJ): Not available
+- Carbohydrates: Not available
+- Protein: Not available
+- Fat: Not available
+- Fibre: Not available
+
+#### Values observed per serving
 - Serving description: Not available
 - Energy (kcal): Not available
 - Energy (kJ): Not available
@@ -1051,9 +1386,10 @@ Kidney beans are cooked and prepared with spices and gravy.
 - Fat: Not available
 - Fibre: Not available
 
-- No verified combined nutrition source with a clearly defined serving basis was available; per-serving values were left blank.
+- No verified combined nutrition source with a clearly defined serving basis was available; nutrition values were left blank.
 
 - **Confidence and limitations:** Nutrition values are intentionally left blank because a reliable source for the exact combined Dal Baati Churma serving was not identified. The proportions of dal, baati, churma and ghee vary considerably. Separate component values should not be presented as verified combined values.
+
 
 ### F042 – Vada Pav
 
@@ -1065,10 +1401,18 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Nutrition source:** Healthify Nutrifacts.
 - **Source URL:** https://www.healthifyme.com/web/nutrifacts/vada-pav-284e957a95
 
-## Values observed per serving
+#### Values observed per 100 g
+- Energy (kcal): Not available
+- Energy (kJ): Not available
+- Carbohydrates: Not available
+- Protein: Not available
+- Fat: Not available
+- Fibre: Not available
+
+#### Values observed per serving
 - Serving description: 1 serving
 - Energy (kcal): 182.32 kcal
-- Energy (kJ): Not provided
+- Energy (kJ): Not available
 - Carbohydrates: 26.57 g
 - Protein: 3.13 g
 - Fat: 7.19 g
@@ -1088,7 +1432,15 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** A thin batter made with semolina and other ingredients is spread on a hot griddle and cooked until crisp.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 
-## Values observed per serving
+#### Values observed per 100 g
+- Energy (kcal): Not available
+- Energy (kJ): Not available
+- Carbohydrates: Not available
+- Protein: Not available
+- Fat: Not available
+- Fibre: Not available
+
+#### Values observed per serving
 - Serving description: 1 serving
 - Energy (kcal): 166.69 kcal
 - Energy (kJ): 695.65 kJ
@@ -1098,7 +1450,9 @@ Kidney beans are cooked and prepared with spices and gravy.
 - Fibre: 2.97 g
 
 - Per-serving values were recorded from the Anuvaad INDB per-serving entry.
-- **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Rava Dosa entry per 100 g. Batter ingredients, thickness and cooking oil may vary across preparations.
+
+- **Confidence and limitations:** Per-serving values are recorded from the selected Anuvaad INDB Rava Dosa entry. Batter ingredients, thickness and cooking oil may vary across preparations.
+
 
 ### F044 – Appam
 
@@ -1109,7 +1463,15 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** A fermented rice-based batter is spread in an appam pan and cooked into a soft-centred pancake with crisp edges.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 
-## Values observed per serving
+#### Values observed per 100 g
+- Energy (kcal): Not available
+- Energy (kJ): Not available
+- Carbohydrates: Not available
+- Protein: Not available
+- Fat: Not available
+- Fibre: Not available
+
+#### Values observed per serving
 - Serving description: 1 serving
 - Energy (kcal): 409.28 kcal
 - Energy (kJ): 1712.86 kJ
@@ -1119,7 +1481,9 @@ Kidney beans are cooked and prepared with spices and gravy.
 - Fibre: 9.47 g
 
 - Per-serving values were recorded from the Anuvaad INDB per-serving entry.
-- **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Appam entry per 100 g. The reported fat content is relatively high for a rice-based preparation and should be rechecked against the source. Coconut milk quantity and preparation methods may vary.
+
+- **Confidence and limitations:** Per-serving values are recorded from the selected Anuvaad INDB Appam entry. The reported fat content is relatively high for a rice-based preparation and should be rechecked against the source. Coconut milk quantity and preparation methods may vary.
+
 
 ### F045 – Sambar
 
@@ -1130,7 +1494,15 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** Lentils and vegetables are cooked with tamarind and spices, then finished with a tempering.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 
-## Values observed per serving
+#### Values observed per 100 g
+- Energy (kcal): Not available
+- Energy (kJ): Not available
+- Carbohydrates: Not available
+- Protein: Not available
+- Fat: Not available
+- Fibre: Not available
+
+#### Values observed per serving
 - Serving description: 1 serving
 - Energy (kcal): 249.32 kcal
 - Energy (kJ): 1040.57 kJ
@@ -1140,7 +1512,8 @@ Kidney beans are cooked and prepared with spices and gravy.
 - Fibre: 9.06 g
 
 - Per-serving values were recorded from the Anuvaad INDB per-serving entry.
-- **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Sambar entry per 100 g. Dal-to-vegetable proportions, tamarind and tempering quantities may vary across recipes.
+
+- **Confidence and limitations:** Per-serving values are recorded from the selected Anuvaad INDB Sambar entry. Dal-to-vegetable proportions, tamarind and tempering quantities may vary across recipes.
 
 ### F046 – Rasam
 
@@ -1151,7 +1524,15 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** A thin, spiced broth is prepared by simmering tamarind, tomato and spices, then finished with a tempering.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB), using the Tamarind Rasam variant.
 
-## Values observed per serving
+#### Values observed per 100 g
+- Energy (kcal): Not available
+- Energy (kJ): Not available
+- Carbohydrates: Not available
+- Protein: Not available
+- Fat: Not available
+- Fibre: Not available
+
+#### Values observed per serving
 - Serving description: 1 serving
 - Energy (kcal): 104.25 kcal
 - Energy (kJ): 434.9 kJ
@@ -1162,7 +1543,8 @@ Kidney beans are cooked and prepared with spices and gravy.
 
 - Per-serving values were recorded from the Anuvaad INDB per-serving entry.
 
-- **Confidence and limitations:** Values are recorded from the Tamarind Rasam variant per 100 g. Tomato content, tamarind concentration and preparation methods may vary across recipes.
+- **Confidence and limitations:** Values are recorded from the Tamarind Rasam variant. Tomato content, tamarind concentration and preparation methods may vary across recipes.
+
 
 ### F047 – Aloo Gobi
 
@@ -1173,7 +1555,15 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** Potato and cauliflower are cooked together with spices, either as a dry preparation or a semi-dry curry.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 
-## Values observed per serving
+#### Values observed per 100 g
+- Energy (kcal): Not available
+- Energy (kJ): Not available
+- Carbohydrates: Not available
+- Protein: Not available
+- Fat: Not available
+- Fibre: Not available
+
+#### Values observed per serving
 - Serving description: 1 serving
 - Energy (kcal): 186.61 kcal
 - Energy (kJ): 771.97 kJ
@@ -1184,7 +1574,8 @@ Kidney beans are cooked and prepared with spices and gravy.
 
 - Per-serving values were recorded from the Anuvaad INDB per-serving entry.
 
-- **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Aloo Gobi entry per 100 g. The potato-to-cauliflower ratio and quantity of oil may vary across recipes.
+- **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Aloo Gobi entry. The potato-to-cauliflower ratio and quantity of oil may vary across recipes.
+
 
 ### F048 – Chana Dal
 
@@ -1195,7 +1586,15 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** Split Bengal gram is cooked until soft and seasoned with spices or a tempering.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 
-## Values observed per serving
+#### Values observed per 100 g
+- Energy (kcal): Not available
+- Energy (kJ): Not available
+- Carbohydrates: Not available
+- Protein: Not available
+- Fat: Not available
+- Fibre: Not available
+
+#### Values observed per serving
 - Serving description: 1 serving
 - Energy (kcal): 291.2 kcal
 - Energy (kJ): 1212.73 kJ
@@ -1205,7 +1604,8 @@ Kidney beans are cooked and prepared with spices and gravy.
 - Fibre: 10.86 g
 
 - Per-serving values were recorded from the Anuvaad INDB per-serving entry.
-- **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Chana Dal entry per 100 g. The source preparation basis (cooked or uncooked) should be confirmed, as this can substantially affect nutritional values. Water content and tempering ingredients may also vary.
+
+- **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Chana Dal entry. The source preparation basis (cooked or uncooked) should be confirmed, as this can substantially affect nutritional values. Water content and tempering ingredients may also vary.
 
 
 ### F049 – Mysore Pak
@@ -1217,17 +1617,27 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** Gram flour is cooked with hot ghee and sugar syrup until it forms a rich, dense sweet.
 - **Nutrition source:** TUMUL / Nandini branded product nutrition information.
 
-## Values observed per serving
-- Serving description: Not available
-- Energy (kcal): Not recorded
-- Energy (kJ): Not recorded
-- Carbohydrates: Not recorded
-- Protein: Not recorded
-- Fat: Not recorded
-- Fibre: Not recorded
+#### Values observed per 100 g
+- Energy (kcal): Not available
+- Energy (kJ): Not available
+- Carbohydrates: Not available
+- Protein: Not available
+- Fat: Not available
+- Fibre: Not available
 
-- The source labels the nutrition basis as per 100 ml despite Mysore Pak being a solid food; the serving basis is ambiguous, so per-serving values were left blank.
-- Confidence and limitations: The source lists pack weights of 25 g, 100 g, 250 g and 500 g, but its nutrition heading states per 100 ml. Since the basis is unclear for this solid food, the values are excluded from the dataset pending verification.
+#### Values observed per serving
+- Serving description: Not available
+- Energy (kcal): Not available
+- Energy (kJ): Not available
+- Carbohydrates: Not available
+- Protein: Not available
+- Fat: Not available
+- Fibre: Not available
+
+- The source labels the nutrition basis as per 100 ml despite Mysore Pak being a solid food. The serving basis is ambiguous, so nutrition values were excluded.
+
+- **Confidence and limitations:** The source lists pack weights of 25 g, 100 g, 250 g and 500 g, but its nutrition heading states per 100 ml. Since the basis is unclear for this solid food, the values are excluded from the dataset pending verification.
+
 
 ### F050 – Shrikhand
 
@@ -1238,7 +1648,15 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** Strained yogurt is whisked with sugar and flavourings until smooth and creamy.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 
-## Values observed per serving
+#### Values observed per 100 g
+- Energy (kcal): Not available
+- Energy (kJ): Not available
+- Carbohydrates: Not available
+- Protein: Not available
+- Fat: Not available
+- Fibre: Not available
+
+#### Values observed per serving
 - Serving description: 1 serving
 - Energy (kcal): 326.5 kcal
 - Energy (kJ): 1381.46 kJ
@@ -1248,7 +1666,9 @@ Kidney beans are cooked and prepared with spices and gravy.
 - Fibre: 0.24 g
 
 - Per-serving values were recorded from the Anuvaad INDB per-serving entry.
-- **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Shrikhand entry per 100 g. Sugar quantity, yogurt composition and flavourings may vary across recipes.
+
+- **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Shrikhand entry. Sugar quantity, yogurt composition and flavourings may vary across recipes.
+
 
 ## Data Dictionary – foods.csv
 
