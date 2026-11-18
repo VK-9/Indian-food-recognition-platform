@@ -250,6 +250,14 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 - **Source URL:** https://www.anuvaad.org.in/nutrition-fact/chickpeas-curry-safed-channa-curry/
 
+### Values observed per 100 g
+- Energy: 163.43 kcal
+- Energy: 680.17 kJ
+- Carbohydrates: 19.98 g
+- Protein: 6.10 g
+- Fat: 6.84 g
+- Fibre: 4.73 g
+
 ## Values observed per serving
 - Serving description: 1 bowl
 - Energy (kcal): 195.99 kcal
@@ -273,6 +281,14 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Visually similar dishes:** Other stuffed parathas, such as Gobi Paratha and Mooli Paratha.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 - **Source URL:** https://www.anuvaad.org.in/nutrition-fact/potato-parantha-paratha-aloo-ka-parantha-paratha/
+
+### Values observed per 100 g
+- Energy: 205.04 kcal
+- Energy: 851.61 kJ
+- Carbohydrates: 23.92 g
+- Protein: 3.70 g
+- Fat: 10.22 g
+- Fibre: 4.18 g
 
 ## Values observed per serving
 - Serving description: 1 parantha
@@ -298,6 +314,14 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 - **Source URL:** https://www.anuvaad.org.in/nutrition-fact/mixed-vegetable-pulao/
 
+### Values observed per 100 g
+- Energy: 113.05 kcal
+- Energy: 471 kJ
+- Carbohydrates: 17.49 g
+- Protein: 2.72 g
+- Fat: 3.33 g
+- Fibre: 2.67 g
+
 ## Values observed per serving
 - Serving description: 1 plate
 - Energy (kcal): 495.61 kcal
@@ -321,6 +345,14 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Visually similar dishes:** Paper Dosa, Rava Dosa and other thin crepe-like preparations.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 - **Source URL:** https://www.anuvaad.org.in/nutrition-fact/plain-dosa/
+
+### Values observed per 100 g
+- Energy: 380.91 kcal
+- Energy: 1588.71 kJ
+- Carbohydrates: 64.08 g
+- Protein: 10.34 g
+- Fat: 8.43 g
+- Fibre: 5.23 g
 
 ## Values observed per serving
 - Serving description: 1 dosa
@@ -355,7 +387,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 
 - The per-serving energy is unusually high compared with the per-100-g value and requires source or portion-size verification.
 
-- **Confidence and limitations:** Values are recorded from the Potato Samosa (Aloo ka Samosa) entry per 100 g. Filling, pastry composition and frying oil absorption may vary.
+- **Confidence and limitations:** The per-serving value of 813.76 kcal was recorded from the Anuvaad INDB per-serving value. It is substantially higher than the recorded per-100-g value of 577.39 kcal and requires source or portion-size verification.
 
 ### F012 – Vegetable Pakora
 
