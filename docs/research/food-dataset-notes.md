@@ -14,6 +14,15 @@ Ingredients and oil quantity vary by recipe.
 - Record: https://www.anuvaad.org.in/nutrition-fact/poha/
 - Reference basis: Per 100 g option selected on the source page.
 
+## Values observed per 100 g
+
+- Energy: 294.53 kcal
+- Energy: 1226.35 kJ
+- Carbohydrates: 35.05 g
+- Protein: 6.09 g
+- Fat: 14.14 g
+- Fibre: 3.72 g
+
 ## Values observed per serving
 - Serving description: 1 bowl
 - Energy: 160.78 kcal
@@ -50,8 +59,17 @@ The batter is fermented and steamed.
 - Record: https://www.anuvaad.org.in/nutrition-fact/idli/
 - Reference basis: Per 100 g option selected on the source page.
 
+## Values observed per 100 g
+
+- Energy: 137.54 kcal
+- Energy: 575.46 kJ
+- Carbohydrates: 28.18 g
+- Protein: 4.64 g
+- Fat: 0.33 g
+- Fibre: 2.31 g
+
 ## Values observed per serving
-- Energy: 34.45 kcal
+- Energy: 34.47 kcal
 - Energy: 144.23 kJ
 - Carbohydrates: 7.06 g
 - Protein: 1.16 g
@@ -90,6 +108,16 @@ The dough is rolled into a flat shape and cooked on a flat griddle. Preparation 
 - Fat: 3.56 g
 - Fibre: 6.31 g
 
+## Values observed per serving
+
+- Serving description: 1 roti
+- Energy: 72.83 kcal
+- Energy: 304.11 kJ
+- Carbohydrates: 12.83 g
+- Protein: 2.12 g
+- Fat: 1.28 g
+- Fibre: 2.27 g
+
 ## Verification notes
 - Values are recorded for Roti / Chapati.
 - Ingredients and preparation methods may affect nutritional values.
@@ -123,6 +151,11 @@ Dal is prepared by cooking moong dal with water and seasonings. Consistency and 
 - Fat: 1.62 g
 - Fibre: 1.08 g
 
+## Per-serving availability
+
+- The Anuvaad INDB entry provided only a Custom portion option, with no predefined serving basis.
+- Per-serving nutrition fields have therefore been left blank.
+
 ## Verification notes
 - The source does not specify the exact recipe or preparation basis for this entry.
 - The energy and protein values are lower than those commonly expected for typical cooked Moong Dal.
@@ -153,12 +186,24 @@ Kidney beans are cooked and prepared with spices and gravy.
 - Reference basis: Per 100 g option selected on the source page.
 
 ## Values observed per 100 g
+
 - Energy: 143.73 kcal
 - Energy: 598.11 kJ
 - Carbohydrates: 16.38 g
 - Protein: 5.95 g
 - Fat: 5.77 g
 - Fibre: 5.83 g
+
+## Values observed per serving
+- Serving description: 1 serving
+- Energy: 172.36 kcal
+- Energy: 717.26 kJ
+- Carbohydrates: 19.64 g
+- Protein: 7.14 g
+- Fat: 6.92 g
+- Fibre: 6.99 g
+
+- Per-serving values were recorded from the Anuvaad INDB per-serving entry.
 
 ## Verification notes
 - Values are recorded for Kidney bean curry (Rajmah curry).
@@ -186,6 +231,11 @@ Kidney beans are cooked and prepared with spices and gravy.
 - Fat: 5 g
 - Fibre: 4.5 g
 
+## Per-serving availability
+
+- Per-serving nutrition values were unavailable from the NutriLifeCalc source.
+- Per-serving nutrition fields have therefore been left blank.
+
 - **Confidence and limitations:** Values are from a secondary nutrition reference, not Anuvaad INDB. Recipe and tempering quantities may vary.
 
 ### F007 – Chole
@@ -200,7 +250,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 - **Source URL:** https://www.anuvaad.org.in/nutrition-fact/chickpeas-curry-safed-channa-curry/
 
-- ## Values observed per serving
+## Values observed per serving
 - Serving description: 1 bowl
 - Energy (kcal): 195.99 kcal
 - Energy (kJ): 815.66 kJ
@@ -224,7 +274,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 - **Source URL:** https://www.anuvaad.org.in/nutrition-fact/potato-parantha-paratha-aloo-ka-parantha-paratha/
 
-- ## Values observed per serving
+## Values observed per serving
 - Serving description: 1 parantha
 - Energy (kcal): 191.43 kcal
 - Energy (kJ): 795.1 kJ
@@ -248,7 +298,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 - **Source URL:** https://www.anuvaad.org.in/nutrition-fact/mixed-vegetable-pulao/
 
-- ## Values observed per serving
+## Values observed per serving
 - Serving description: 1 plate
 - Energy (kcal): 495.61 kcal
 - Energy (kJ): 2064.84 kJ
@@ -272,7 +322,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 - **Source URL:** https://www.anuvaad.org.in/nutrition-fact/plain-dosa/
 
-- ## Values observed per serving
+## Values observed per serving
 - Serving description: 1 dosa
 - Energy (kcal): 137.6 kcal
 - Energy (kJ): 573.92 kJ
@@ -794,7 +844,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 
 - The source provides per-serving energy in kcal and macronutrients; energy in kJ was not provided.
 
-- **Confidence and limitations:** Values are recorded from Healthify Nutrifacts per 100 g. Nutrition may vary with milk type, sugar quantity and spice proportions. The values should not be assumed to represent unsweetened tea.
+- **Confidence and limitations:** Per-serving nutrition values are recorded from Healthify Nutrifacts. Energy in kJ was not provided by the source. Nutrition may vary with milk type, sugar quantity and spice proportions. The values should not be assumed to represent unsweetened tea.
 
 ### F034 – Curd Rice
 
@@ -905,7 +955,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 
 - The source provides per-serving energy in kcal and macronutrients; energy in kJ was not provided.
 
-- **Confidence and limitations:** Values are recorded from Healthify Nutrifacts per 100 g. Nutrition may vary with batter composition, frying method and sugar syrup absorption.
+- **Confidence and limitations:** Per-serving nutrition values are recorded from Healthify Nutrifacts. Energy in kJ was not provided by the source. Nutrition may vary with batter composition, frying method and sugar syrup absorption.
 
 ### F039 – Kheer
 
@@ -938,7 +988,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Preparation details:** Seasoned poha is served with jalebi as a combination meal.
 - **Nutrition source:** No verified source found for the exact combined preparation.
 
-- ## Values observed per serving
+## Values observed per serving
 - Serving description: Not available
 - Energy (kcal): Not available
 - Energy (kJ): Not available
@@ -994,7 +1044,8 @@ Kidney beans are cooked and prepared with spices and gravy.
 
 - The source provides per-serving energy in kcal and macronutrients; energy in kJ was not provided.
 
-- **Confidence and limitations:** Values are recorded from Healthify Nutrifacts per 100 g. Nutrition may vary with pav size, potato filling, chutneys and oil absorption.
+- **Confidence and limitations:** Per-serving nutrition values are recorded from Healthify Nutrifacts. Energy in kJ was not provided by the source. Nutrition may vary with pav size, potato filling, chutneys and oil absorption.
+
 
 ### F043 – Rava Dosa
 
@@ -1191,7 +1242,7 @@ The following table explains each field used in `data/food/foods.csv`.
 | `fibre_g_per_100g` | Fibre content in grams per 100 g. |
 | `confidence_or_notes` | Records confidence, source limitations, recipe variations and other important observations. |
 | `similar_dishes` | Names of visually or contextually similar dishes that may help distinguish the food entry. |
-| `serving_description` | Describes the serving quantity or portion, such as 1 bowl or 1 piece (80 g). |
+| `serving_description` | Describes the source-reported serving portion, such as 1 bowl or 1 piece. It does not guarantee a standardized serving weight. |
 | `energy_kcal_per_serving` | Energy value in kilocalories for the documented serving portion, when available. |
 | `energy_kj_per_serving` | Energy value in kilojoules for the documented serving portion, when available. |
 | `carbohydrates_g_per_serving` | Carbohydrate content in grams for the documented serving portion, when available. |
