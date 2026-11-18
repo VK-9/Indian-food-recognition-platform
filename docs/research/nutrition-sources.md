@@ -246,24 +246,26 @@ For this project, nutrition values should be source-based, clearly labelled and 
 
 4. ICMR–National Institute of Nutrition. *Dietary Guidelines for Indians, 2024.*  
    https://www.nin.res.in/dietaryguidelines/pdfjs/locale/DGI24thJune2024fin.pdf
-5. NutriLifeCalc. Nutrition information used for Dal Tadka (F006).
+   
+6. 5. NutriLifeCalc – Dal Tadka
+   https://www.nutrilifecalc.com/foods/dal-tadka
 
-6. Healthify. Nutrifacts database. Used for selected food records, including Masala Chai, Jalebi and Vada Pav.
+7. Healthify. Nutrifacts database. Used for selected food records, including Masala Chai, Jalebi and Vada Pav.
    https://www.healthifyme.com/web/nutrifacts/vada-pav-284e957a95
 
-7. RealCalorieTracker. Nutrition information for Paneer in Butter Sauce and Uttapam.
+8. RealCalorieTracker. Nutrition information for Paneer in Butter Sauce and Uttapam.
    https://realcalorietracker.com/foods/paneer-in-butter-sauce
    https://realcalorietracker.com/foods/uttapam
 
-8. SVAS. Misal Pav nutrition information.
+9. SVAS. Misal Pav nutrition information.
    https://www.svas.life/nutrition/misal-pav/
 
-9. Khaana. Litti Chokha recipe.
+10. Khaana. Litti Chokha recipe.
    https://khaana.com/recipes/litti-chokha.html
 
-10. IIIT Delhi. RecipeDB. Paneer Tikka recipe information.
+11. IIIT Delhi. RecipeDB. Paneer Tikka recipe information.
     https://cosylab.iiitd.edu.in/recipedb/search_recipeInfo/67098
 
-11. Barbeque Nation. Restaurant nutrition information used for Chicken Biryani (F032).
+12. Barbeque Nation. Restaurant nutrition information used for Chicken Biryani (F032).
 
-12. TUMUL / Nandini. Branded product nutrition information used for Mysore Pak (F049).
+13. TUMUL / Nandini. Branded product nutrition information used for Mysore Pak (F049).
