@@ -21,9 +21,10 @@
 ### requirements.txt
 
 ```text
-Flask
-google-genai
-python-dotenv
+Flask==3.1.3
+google-genai==2.33.0
+pillow==13.0.0
+python-dotenv==1.2.4
 ```
 
 ## 3. Component List
