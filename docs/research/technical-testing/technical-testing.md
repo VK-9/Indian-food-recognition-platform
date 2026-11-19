@@ -24,7 +24,7 @@ The food recognition process follows these steps:
 
 ## 3. Practical API Testing
 
-Five different Indian food images were tested using the Gemini API.
+Tested five different Indian food images and one blurry food image as an edge case.
 
 ### Test 1: Masala Dosa
 
@@ -68,7 +68,7 @@ Five different Indian food images were tested using the Gemini API.
 - **Confidence:** High
 - **Note:** Small side curries' regional names may vary.
 
-. **South Indian Thali:** [iStock](https://www.istockphoto.com/)
+ **South Indian Thali:** [iStock](https://www.istockphoto.com/)
   
 ### Test 3: Poori
 
@@ -90,7 +90,7 @@ Five different Indian food images were tested using the Gemini API.
 - **Portion Size:** Medium
 - **Confidence:** High
 - **Note:** Exact dough type cannot be determined from sight.
-. **Poori:** [Dreamstime](https://www.dreamstime.com/)
+ **Poori:** [Dreamstime](https://www.dreamstime.com/)
 ### Test 4: Poha
 
 #### 1. Original Food Image
@@ -111,7 +111,7 @@ Five different Indian food images were tested using the Gemini API.
 - **Portion Size:** Medium
 - **Confidence:** High
 - **Note:** None
-. **Poha:** [Freepik](https://www.freepik.com/)
+ **Poha:** [Freepik](https://www.freepik.com/)
 ### Test 5: Samosa
 
 #### 1. Original Food Image
@@ -184,9 +184,9 @@ The testing results also show some limitations:
 
 **Confidence Observation:**
 
-All five recorded API tests returned "Confidence: High". This does not necessarily mean that every identified ingredient or detail was completely accurate. The limitations above show why visual recognition results should be checked rather than treated as guaranteed facts.
+The five Indian food tests returned "Confidence: High". The blurry food test returned "Confidence: 20% (Low)". This does not necessarily mean that every identified ingredient or detail was completely accurate. The limitations above show why visual recognition results should be checked rather than treated as guaranteed facts.
 
-No low-confidence API result is claimed in this report because none was recorded in the five tests.
+one low-confidence API result is claimed in this report because none was recorded in the five tests.
 
 ## 7. Technical Feasibility
 
