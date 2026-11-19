@@ -279,8 +279,6 @@ This demonstrates that correct main-dish recognition does not guarantee that eve
 
 The original screenshots, uploaded test images, and exact model responses should be retained as supporting evidence.
 
-Evidence references can be added to this document before final submission.
-
 ---
 
 ## 6. Limitations
