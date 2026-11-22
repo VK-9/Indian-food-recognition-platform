@@ -1090,7 +1090,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Water, milk, black tea, sugar, ginger, cardamom, cloves, cinnamon and other spices.
 - **Preparation details:** Tea leaves and spices are simmered with water and milk, then sweetened according to preference.
 - **Nutrition source:** Healthify Nutrifacts.
-- ** Source URL:** https://www.healthifyme.com/web/nutrifacts/masala-chai-0cdff33d93
+- **Source URL:** https://www.healthifyme.com/web/nutrifacts/masala-chai-0cdff33d93
 
 ## Nutrition values per 100 g
 
@@ -1398,7 +1398,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - Fibre: 1.64
 
 ## Values observed per serving
-- Serving description: 1 serving
+- Serving description: 1 piece (80 g)
 - Energy (kcal): 182.32 kcal
 - Energy (kJ): Not available
 - Carbohydrates: 26.57 g
@@ -1554,7 +1554,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - Carbohydrates: 5.99
 - Protein: 1.90
 - Fat: 8.13
-- Fibre: 3.20
+- Fibre: 3.02
 
 ## Values observed per serving
 - Serving description: 1 serving
