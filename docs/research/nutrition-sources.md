@@ -87,20 +87,18 @@ For consistency, nutrition values are stored on a per-100-g basis when the sourc
 
 ### 4.1 Per-Serving Nutrition Values
 
-The dataset records the following nutrients per serving when reliable source information is available:
+The CSV has six per-serving fields, which correspond to the same six nutrient types recorded per 100 g:
 
-- Energy (kcal)
-- Energy (kJ)
-- Carbohydrates (g)
-- Protein (g)
-- Fat (g)
-- Fibre (g)
+- `energy_kcal_per_serving` — Energy (kcal)
+- `energy_kj_per_serving` — Energy (kJ)
+- `carbohydrates_g_per_serving` — Carbohydrates (g)
+- `protein_g_per_serving` — Protein (g)
+- `fat_g_per_serving` — Fat (g)
+- `fibre_g_per_serving` — Fibre (g)
 
-Per-serving values are taken from the source's documented serving information. Secondary sources and recipe-based estimates are identified separately from Anuvaad INDB values.
+Per-serving values are transcribed only when the selected source provides the relevant serving-level information. Secondary sources and recipe-based estimates are identified separately from Anuvaad INDB values. The serving description is a text label and does not, by itself, establish a serving weight in grams.
 
-If a source provides only per-100-g values, or its serving size is unclear, the per-serving fields are left blank. Values are not calculated from an assumed serving weight.
-
-Where a source provides some nutrients but not others, only the available supported values are recorded. Missing values remain blank rather than being estimated without evidence.
+If a source provides only per-100-g values, the serving size is unclear, or the source does not provide a particular nutrient for the serving, the unsupported per-serving field or fields remain blank. Values are not calculated from an assumed serving weight, and missing nutrients are not inferred from the other nutrient fields. This rule applies independently to all six per-serving fields.
 
 ### 4.2 Calculation from a Known Food Weight
 
@@ -112,62 +110,67 @@ This calculation is valid only when the food and preparation basis match the sou
 
 ## 5. Dataset Source Mapping (F001–F050)
 
-The following table maps all 50 food records to their respective nutrition sources.
+The table below is aligned to the current `foods.csv` records. Source labels and URLs are reproduced from the CSV so that each food ID can be traced consistently. A blank source URL means that no verified source was recorded for that combined dish; it is not an invitation to infer or substitute a source.
 
-| Food ID | Food Name | Nutrition Source |
-|---|---|---|
-| F001 | Poha | Anuvaad INDB |
-| F002 | Idli | Anuvaad INDB |
-| F003 | Roti / Chapati | Anuvaad INDB |
-| F004 | Moong Dal | Anuvaad INDB |
-| F005 | Rajma Curry | Anuvaad INDB |
-| F006 | Dal Tadka | NutriLifeCalc |
-| F007 | Chole | Anuvaad INDB |
-| F008 | Aloo Paratha | Anuvaad INDB |
-| F009 | Mixed Vegetable Pulao | Anuvaad INDB |
-| F010 | Plain Dosa | Anuvaad INDB |
-| F011 | Samosa | Anuvaad INDB |
-| F012 | Vegetable Pakora | Anuvaad INDB |
-| F013 | Upma | Anuvaad INDB |
-| F014 | Khichdi | Anuvaad INDB |
-| F015 | Lemon Rice | Anuvaad INDB |
-| F016 | Jeera Rice | Anuvaad INDB |
-| F017 | Puri | Anuvaad INDB |
-| F018 | Bhatura | Anuvaad INDB |
-| F019 | Palak Paneer | Anuvaad INDB |
-| F020 | Paneer Butter Masala | RealCalorieTracker |
-| F021 | Masala Dosa | Anuvaad INDB |
-| F022 | Uttapam | RealCalorieTracker |
-| F023 | Medu Vada | Anuvaad INDB |
-| F024 | Dhokla | Anuvaad INDB |
-| F025 | Kachori | Anuvaad INDB |
-| F026 | Pav Bhaji | Anuvaad INDB |
-| F027 | Misal Pav | SVAS |
-| F028 | Thepla | Anuvaad INDB |
-| F029 | Litti Chokha | Khaana |
-| F030 | Baingan Bharta | Anuvaad INDB |
-| F031 | Vegetable Biryani | Anuvaad INDB |
-| F032 | Chicken Biryani | Barbeque Nation |
-| F033 | Masala Chai | Healthify Nutrifacts |
-| F034 | Curd Rice | Anuvaad INDB |
-| F035 | Vegetable Sandwich | Anuvaad INDB |
-| F036 | Paneer Tikka | IIIT Delhi RecipeDB |
-| F037 | Gulab Jamun | Anuvaad INDB |
-| F038 | Jalebi | Healthify Nutrifacts |
-| F039 | Kheer | Anuvaad INDB |
-| F040 | Poha Jalebi | No verified source for the exact combined dish |
-| F041 | Dal Baati Churma | No verified source for the exact combined dish |
-| F042 | Vada Pav | Healthify Nutrifacts |
-| F043 | Rava Dosa | Anuvaad INDB |
-| F044 | Appam | Anuvaad INDB |
-| F045 | Sambar | Anuvaad INDB |
-| F046 | Rasam | Anuvaad INDB |
-| F047 | Aloo Gobi | Anuvaad INDB |
-| F048 | Chana Dal | Anuvaad INDB |
-| F049 | Mysore Pak | TUMUL / Nandini |
-| F050 | Shrikhand | Anuvaad INDB |
+| Food ID | Food Name | `nutrition_source` (CSV label) | `nutrition_source_url` |
+|---|---|---|---|
+| F001 | Poha | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/poha/ |
+| F002 | Idli | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/idli/ |
+| F003 | Roti/Chapati | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/chapati-roti/ |
+| F004 | Moong Dal | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/dal-moong/ |
+| F005 | Rajma Curry | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/kidney-bean-curry-rajmah-curry/ |
+| F006 | Dal Tadka | NutriLifeCalc | https://www.nutrilifecalc.com/foods/dal-tadka |
+| F007 | Chole | Anuvaad INDB | https://www.anuvaad.org.in/nutrition-fact/chickpeas-curry-safed-channa-curry/ |
+| F008 | Aloo Paratha | Anuvaad INDB | https://www.anuvaad.org.in/nutrition-fact/potato-parantha-paratha-aloo-ka-parantha-paratha/ |
+| F009 | Mixed Vegetable Pulao | Anuvaad INDB | https://www.anuvaad.org.in/nutrition-fact/mixed-vegetable-pulao/ |
+| F010 | Plain Dosa | Anuvaad INDB | https://www.anuvaad.org.in/nutrition-fact/plain-dosa/ |
+| F011 | Samosa | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/potato-samosa-aloo-ka-samosa/ |
+| F012 | Vegetable Pakora | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/mixed-vegetable-pakora-pakoda/ |
+| F013 | Upma | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/semolina-upma-suji-rava-upma/ |
+| F014 | Khichdi | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/rice-dal-porridge-chawal-dal-ki-khichdi-khichri/ |
+| F015 | Lemon Rice | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/lemon-rice-pulihora-elumichai-sadam-chitranna/ |
+| F016 | Jeera Rice | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/cumin-pulao-jeera-zeera-pulao/ |
+| F017 | Puri | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/poori/ |
+| F018 | Bhatura | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/bhatura/ |
+| F019 | Palak Paneer | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/spinach-paneer-palak-paneer/ |
+| F020 | Paneer Butter Masala | Real Calorie Tracker (INDB-matched standard recipe) | https://realcalorietracker.com/foods/paneer-in-butter-sauce |
+| F021 | Masala Dosa | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/masala-dosa/ |
+| F022 | Uttapam | Real Calorie Tracker (INDB-matched standard recipe) | https://realcalorietracker.com/foods/uttapam |
+| F023 | Medu Vada | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/plain-urad-dal-vada-uzunne-vada-minapa-garelu-ulundu-vadai-medu-vada/ |
+| F024 | Dhokla | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/khaman-dhokla/ |
+| F025 | Kachori | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/khasta-kachori/ |
+| F026 | Pav Bhaji | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/pav-bhaji/ |
+| F027 | Misal Pav | Svas (IFCT-2017 ingredient-based calculation) | https://www.svas.life/nutrition/misal-pav/ |
+| F028 | Thepla | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/methi-thepla/ |
+| F029 | Litti Chokha | Khaana (recipe-based nutrition estimate) | https://khaana.com/recipes/litti-chokha.html |
+| F030 | Baingan Bharta | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/brinjal-bhartha-baingan-ka-bhartha/ |
+| F031 | Vegetable Biryani | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/vegetable-biryani-biriyani/ |
+| F032 | Chicken Biryani | Barbeque Nation nutrition information | https://bn.barbequenation.com/sites/default/files/2024-12/BNHL%20NV%20New%20%281%29.pdf |
+| F033 | Masala Chai | Healthify Nutrifacts | https://www.healthifyme.com/web/nutrifacts/masala-chai-0cdff33d93 |
+| F034 | Curd Rice | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/curd-rice-dahi-bhaat-dahi-chawal-perugu-annam-daddojanam-thayir-saadam/ |
+| F035 | Vegetable Sandwich | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/vegetable-and-mayonnaise-sandwich/ |
+| F036 | Paneer Tikka | IIIT Delhi RecipeDB | https://cosylab.iiitd.edu.in/recipedb/search_recipeInfo/67098 |
+| F037 | Gulab Jamun | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/gulab-jamun-with-khoya/ |
+| F038 | Jalebi | Healthify Nutrifacts | https://www.healthifyme.com/web/nutrifacts/jalebi-fe489fd719 |
+| F039 | Kheer | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/rice-kheer-chawal-ki-kheer/ |
+| F040 | Poha Jalebi | Not identified / blank in CSV | Not available |
+| F041 | Dal Baati Churma | Not identified / blank in CSV | Not available |
+| F042 | Vada Pav | Healthify Nutrifacts | https://www.healthifyme.com/web/nutrifacts/vada-pav-284e957a95 |
+| F043 | Rava Dosa | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/semolina-dosa-suji-rava-dosa/ |
+| F044 | Appam | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/appam/ |
+| F045 | Sambar | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/sambar/ |
+| F046 | Rasam | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/rasam-with-tamarind-puli-rasam-chintapandu-rasam-charu-saaru/ |
+| F047 | Aloo Gobi | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/potato-cauliflower-aloo-gobhi/ |
+| F048 | Chana Dal | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/split-bengal-gram-dal-channa-dal/ |
+| F049 | Mysore Pak | TUMUL (Nandini) | https://www.tumul.coop/mysore-pak |
+| F050 | Shrikhand | Anuvaad Indian Nutrient Databank (INDB) | https://www.anuvaad.org.in/nutrition-fact/sweetened-yogurt-shrikhand/ |
 
-**Note:** F040 and F041 intentionally have blank nutrition fields because a sufficiently verified source for the exact combined dish was not available. Some other records use recipe-based estimates, branded product information, or close recipe matches rather than exact standardized entries. These limitations are documented in the individual food notes and CSV.
+**Source consistency notes:**
+- Anuvaad appears under two CSV labels: `Anuvaad Indian Nutrient Databank (INDB)` and `Anuvaad INDB`. Both refer to the same named source family; the CSV labels have deliberately not been changed.
+- F020 and F022 use `Real Calorie Tracker (INDB-matched standard recipe)`; this is a secondary, recipe-matched source, not a direct Anuvaad record URL.
+- F027, F029, F032, F033, F036, F038, F042 and F049 use secondary sources listed in Section 2.4 and in References.
+- F040 and F041 have no source label or URL in the CSV because no verified source for the exact combined dish was identified. Their nutrition values remain unavailable.
+- The CSV remains the data file of record. This document records source provenance and methodology; it does not create or estimate missing nutrition values.
 
 ## 6. Foods with High Recipe Variation
 
