@@ -39,6 +39,7 @@ Ingredients and oil quantity vary by recipe.
 - The listed kcal and kJ values do not match the standard conversion exactly.
 - Confirm the recipe and serving basis before treating these values as final.
 - Do not assume every homemade Poha recipe has the same nutrition values.
+- Per-serving provenance: recorded from the Anuvaad INDB per-serving value.
 - The source provides both per-100-g and per-serving values. This record uses the per-100-g reference values; the bowl serving weight has not been confirmed.
 
 # Idli — Food Dataset Research Notes
@@ -395,6 +396,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 
 ### Confidence and limitations
 The per-serving value of 813.76 kcal was recorded from the Anuvaad INDB per-serving value. It is substantially higher than the recorded per-100-g value of 577.39 kcal and requires source or portion-size verification.
+- Per-serving provenance: recorded from the Anuvaad INDB per-serving value.
 
 ### F012 – Vegetable Pakora
 
@@ -775,38 +777,6 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Medu Vada entry per 100 g. The reported energy and fat values are unusually high, while carbohydrate values appear low for a lentil-based preparation. These figures should be independently rechecked against the source. Oil absorption and preparation methods may vary.
 
-
-# F024 – Dhokla
-
-- **Food ID:** F024
-- **Category:** Snack
-- **Regional names:** Khaman; Khaman Dhokla
-- **Common ingredients:** Gram flour (besan), water, lemon juice, green chilli, ginger, salt and a leavening agent.
-- **Preparation details:** A fermented or leavened gram-flour batter is steamed until soft and spongy.
-- **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
-
-## Nutrition values per 100 g
-
-- **Energy (kcal):** 54.73 kcal
-- **Energy (kJ):** 228.09 kJ
-- **Carbohydrates:** 5.36 g
-- **Protein:** 1.92 g
-- **Fat:** 2.80 g
-- **Fibre:** 1.49 g
-
-## Values observed per serving
-
-- **Serving description:** 1 piece
-- **Energy (kcal):** 86.50 kcal
-- **Energy (kJ):** 366.01 kJ
-- **Carbohydrates:** 12.26 g
-- **Protein:** 5.37 g
-- **Fat:** 2.11 g
-- **Fibre:** 1.98 g
-
-- Per-serving values were recorded from the Anuvaad INDB per-serving entry.
-
-- **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Khaman variant per 100 g. Khaman is a specific type of Dhokla, so these values should not be assumed to represent every Dhokla recipe. Preparation and tempering may vary.
 
 # F024 – Dhokla
 
@@ -1360,7 +1330,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 
 
 
-### F041 – Dal Baati Churma
+# F041 – Dal Baati Churma
 
 - **Food ID:** F041
 - **Category:** Main course
@@ -1369,7 +1339,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Preparation details:** Baked or roasted baati is served with cooked dal and sweet churma as a combination meal.
 - **Nutrition source:** No verified source found for the exact combined preparation.
 
-#### Values observed per 100 g
+## Values observed per 100 g
 - Energy (kcal): Not available
 - Energy (kJ): Not available
 - Carbohydrates: Not available
@@ -1377,7 +1347,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - Fat: Not available
 - Fibre: Not available
 
-#### Values observed per serving
+## Values observed per serving
 - Serving description: Not available
 - Energy (kcal): Not available
 - Energy (kJ): Not available
@@ -1391,7 +1361,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Confidence and limitations:** Nutrition values are intentionally left blank because a reliable source for the exact combined Dal Baati Churma serving was not identified. The proportions of dal, baati, churma and ghee vary considerably. Separate component values should not be presented as verified combined values.
 
 
-### F042 – Vada Pav
+# F042 – Vada Pav
 
 - **Food ID:** F042
 - **Category:** Snack
@@ -1401,7 +1371,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Nutrition source:** Healthify Nutrifacts.
 - **Source URL:** https://www.healthifyme.com/web/nutrifacts/vada-pav-284e957a95
 
-#### Values observed per 100 g
+## Values observed per 100 g
 - Energy (kcal): Not available
 - Energy (kJ): Not available
 - Carbohydrates: Not available
@@ -1409,7 +1379,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - Fat: Not available
 - Fibre: Not available
 
-#### Values observed per serving
+## Values observed per serving
 - Serving description: 1 serving
 - Energy (kcal): 182.32 kcal
 - Energy (kJ): Not available
@@ -1423,7 +1393,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Confidence and limitations:** Per-serving nutrition values are recorded from Healthify Nutrifacts. Energy in kJ was not provided by the source. Nutrition may vary with pav size, potato filling, chutneys and oil absorption.
 
 
-### F043 – Rava Dosa
+# F043 – Rava Dosa
 
 - **Food ID:** F043
 - **Category:** Main course
@@ -1432,7 +1402,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Preparation details:** A thin batter made with semolina and other ingredients is spread on a hot griddle and cooked until crisp.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 
-#### Values observed per 100 g
+## Values observed per 100 g
 - Energy (kcal): Not available
 - Energy (kJ): Not available
 - Carbohydrates: Not available
@@ -1440,7 +1410,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - Fat: Not available
 - Fibre: Not available
 
-#### Values observed per serving
+## Values observed per serving
 - Serving description: 1 serving
 - Energy (kcal): 166.69 kcal
 - Energy (kJ): 695.65 kJ
@@ -1454,7 +1424,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Confidence and limitations:** Per-serving values are recorded from the selected Anuvaad INDB Rava Dosa entry. Batter ingredients, thickness and cooking oil may vary across preparations.
 
 
-### F044 – Appam
+# F044 – Appam
 
 - **Food ID:** F044
 - **Category:** Main course
@@ -1463,7 +1433,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Preparation details:** A fermented rice-based batter is spread in an appam pan and cooked into a soft-centred pancake with crisp edges.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 
-#### Values observed per 100 g
+## Values observed per 100 g
 - Energy (kcal): Not available
 - Energy (kJ): Not available
 - Carbohydrates: Not available
@@ -1471,7 +1441,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - Fat: Not available
 - Fibre: Not available
 
-#### Values observed per serving
+## Values observed per serving
 - Serving description: 1 serving
 - Energy (kcal): 409.28 kcal
 - Energy (kJ): 1712.86 kJ
@@ -1485,7 +1455,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Confidence and limitations:** Per-serving values are recorded from the selected Anuvaad INDB Appam entry. The reported fat content is relatively high for a rice-based preparation and should be rechecked against the source. Coconut milk quantity and preparation methods may vary.
 
 
-### F045 – Sambar
+# F045 – Sambar
 
 - **Food ID:** F045
 - **Category:** Main course
@@ -1494,7 +1464,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Preparation details:** Lentils and vegetables are cooked with tamarind and spices, then finished with a tempering.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 
-#### Values observed per 100 g
+## Values observed per 100 g
 - Energy (kcal): Not available
 - Energy (kJ): Not available
 - Carbohydrates: Not available
@@ -1502,7 +1472,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - Fat: Not available
 - Fibre: Not available
 
-#### Values observed per serving
+## Values observed per serving
 - Serving description: 1 serving
 - Energy (kcal): 249.32 kcal
 - Energy (kJ): 1040.57 kJ
@@ -1515,7 +1485,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 
 - **Confidence and limitations:** Per-serving values are recorded from the selected Anuvaad INDB Sambar entry. Dal-to-vegetable proportions, tamarind and tempering quantities may vary across recipes.
 
-### F046 – Rasam
+# F046 – Rasam
 
 - **Food ID:** F046
 - **Category:** Main course
@@ -1524,7 +1494,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Preparation details:** A thin, spiced broth is prepared by simmering tamarind, tomato and spices, then finished with a tempering.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB), using the Tamarind Rasam variant.
 
-#### Values observed per 100 g
+## Values observed per 100 g
 - Energy (kcal): Not available
 - Energy (kJ): Not available
 - Carbohydrates: Not available
@@ -1532,7 +1502,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - Fat: Not available
 - Fibre: Not available
 
-#### Values observed per serving
+## Values observed per serving
 - Serving description: 1 serving
 - Energy (kcal): 104.25 kcal
 - Energy (kJ): 434.9 kJ
@@ -1546,7 +1516,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Confidence and limitations:** Values are recorded from the Tamarind Rasam variant. Tomato content, tamarind concentration and preparation methods may vary across recipes.
 
 
-### F047 – Aloo Gobi
+# F047 – Aloo Gobi
 
 - **Food ID:** F047
 - **Category:** Main course
@@ -1555,7 +1525,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Preparation details:** Potato and cauliflower are cooked together with spices, either as a dry preparation or a semi-dry curry.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 
-#### Values observed per 100 g
+## Values observed per 100 g
 - Energy (kcal): Not available
 - Energy (kJ): Not available
 - Carbohydrates: Not available
@@ -1563,7 +1533,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - Fat: Not available
 - Fibre: Not available
 
-#### Values observed per serving
+## Values observed per serving
 - Serving description: 1 serving
 - Energy (kcal): 186.61 kcal
 - Energy (kJ): 771.97 kJ
@@ -1577,7 +1547,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Aloo Gobi entry. The potato-to-cauliflower ratio and quantity of oil may vary across recipes.
 
 
-### F048 – Chana Dal
+# F048 – Chana Dal
 
 - **Food ID:** F048
 - **Category:** Main course
@@ -1586,7 +1556,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Preparation details:** Split Bengal gram is cooked until soft and seasoned with spices or a tempering.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 
-#### Values observed per 100 g
+## Values observed per 100 g
 - Energy (kcal): Not available
 - Energy (kJ): Not available
 - Carbohydrates: Not available
@@ -1594,7 +1564,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - Fat: Not available
 - Fibre: Not available
 
-#### Values observed per serving
+## Values observed per serving
 - Serving description: 1 serving
 - Energy (kcal): 291.2 kcal
 - Energy (kJ): 1212.73 kJ
@@ -1608,7 +1578,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Chana Dal entry. The source preparation basis (cooked or uncooked) should be confirmed, as this can substantially affect nutritional values. Water content and tempering ingredients may also vary.
 
 
-### F049 – Mysore Pak
+# F049 – Mysore Pak
 
 - **Food ID:** F049
 - **Category:** Dessert
@@ -1617,7 +1587,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Preparation details:** Gram flour is cooked with hot ghee and sugar syrup until it forms a rich, dense sweet.
 - **Nutrition source:** TUMUL / Nandini branded product nutrition information.
 
-#### Values observed per 100 g
+## Values observed per 100 g
 - Energy (kcal): Not available
 - Energy (kJ): Not available
 - Carbohydrates: Not available
@@ -1625,7 +1595,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - Fat: Not available
 - Fibre: Not available
 
-#### Values observed per serving
+## Values observed per serving
 - Serving description: Not available
 - Energy (kcal): Not available
 - Energy (kJ): Not available
@@ -1639,7 +1609,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Confidence and limitations:** The source lists pack weights of 25 g, 100 g, 250 g and 500 g, but its nutrition heading states per 100 ml. Since the basis is unclear for this solid food, the values are excluded from the dataset pending verification.
 
 
-### F050 – Shrikhand
+# F050 – Shrikhand
 
 - **Food ID:** F050
 - **Category:** Dessert
@@ -1648,7 +1618,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Preparation details:** Strained yogurt is whisked with sugar and flavourings until smooth and creamy.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 
-#### Values observed per 100 g
+## Values observed per 100 g
 - Energy (kcal): Not available
 - Energy (kJ): Not available
 - Carbohydrates: Not available
@@ -1656,7 +1626,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - Fat: Not available
 - Fibre: Not available
 
-#### Values observed per serving
+## Values observed per serving
 - Serving description: 1 serving
 - Energy (kcal): 326.5 kcal
 - Energy (kJ): 1381.46 kJ
