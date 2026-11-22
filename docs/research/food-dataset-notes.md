@@ -559,6 +559,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Wheat flour, water, salt and oil for frying.
 - **Preparation details:** A wheat-flour dough is rolled into small discs and deep-fried until puffed.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/poori/
 
 ## Nutrition values per 100 g
 
@@ -591,6 +592,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Refined wheat flour (maida), yogurt, oil, salt and leavening ingredients.
 - **Preparation details:** A fermented or leavened dough is rolled into discs and deep-fried.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/bhatura/
 
 ## Nutrition values per 100 g
 
@@ -623,6 +625,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Spinach, paneer, onion, tomato, ginger, garlic, spices and oil or butter.
 - **Preparation details:** Spinach is cooked and blended into a gravy, then combined with paneer and spices.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/spinach-paneer-palak-paneer/
 
 ## Nutrition values per 100 g
 
@@ -688,6 +691,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Rice, urad dal, potato, onion, mustard seeds, curry leaves, spices and oil.
 - **Preparation details:** A fermented rice-and-lentil batter is spread on a hot griddle, filled with spiced potato masala and folded.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/masala-dosa/
 
 ## Nutrition values per 100 g
 
@@ -753,6 +757,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Urad dal, black pepper, green chilli, ginger, curry leaves, salt and oil.
 - **Preparation details:** Soaked urad dal is ground into a thick batter, shaped into rings and deep-fried.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/plain-urad-dal-vada-uzunne-vada-minapa-garelu-ulundu-vadai-medu-vada/
 
 ## Nutrition values per 100 g
 
@@ -786,6 +791,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Gram flour (besan), water, lemon juice, green chilli, ginger, salt and a leavening agent.
 - **Preparation details:** A fermented or leavened gram-flour batter is steamed until soft and spongy.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/khaman-dhokla/
 
 ## Nutrition values per 100 g
 
@@ -818,6 +824,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Wheat flour, lentils or other filling ingredients, spices and oil.
 - **Preparation details:** A filling is enclosed in a wheat-flour dough shell and deep-fried until crisp.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/khasta-kachori/
 
 ## Nutrition values per 100 g
 
@@ -851,6 +858,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Mixed vegetables, potatoes, tomatoes, onion, butter, pav bhaji masala and bread rolls.
 - **Preparation details:** Vegetables are cooked and mashed with spices to make a thick bhaji, served with butter-toasted pav.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/pav-bhaji/
 
 ## Nutrition values per 100 g
 
@@ -916,6 +924,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Whole wheat flour, fenugreek leaves, yogurt, spices, oil and salt.
 - **Preparation details:** A spiced wheat-flour dough, often mixed with fenugreek leaves, is rolled into flatbreads and cooked on a griddle.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB), using the Methi Thepla variant.
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/methi-thepla/
 
 ## Nutrition values per 100 g
 
@@ -981,6 +990,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Eggplant (brinjal), onion, tomato, garlic, green chilli, spices and oil.
 - **Preparation details:** Eggplant is roasted, mashed and cooked with onion, tomato and spices.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/brinjal-bhartha-baingan-ka-bhartha/
 
 ## Nutrition values per 100 g
 
@@ -1014,6 +1024,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Basmati rice, mixed vegetables, onion, yogurt, ginger, garlic, herbs and biryani spices.
 - **Preparation details:** Rice and spiced vegetables are cooked together or layered and cooked using the dum method.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/vegetable-biryani-biriyani/
 
 ## Nutrition values per 100 g
 
@@ -1046,6 +1057,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Chicken, basmati rice, onion, yogurt, ginger, garlic, herbs and biryani spices.
 - **Preparation details:** Marinated chicken and rice are layered or cooked together with spices, often using the dum method.
 - **Nutrition source:** Barbeque Nation restaurant nutrition PDF (branded restaurant data).
+- **Source URL:** https://bn.barbequenation.com/sites/default/files/2024-12/BNHL%20NV%20New%20%281%29.pdf
 
 ## Nutrition values per 100 g
 
@@ -1078,6 +1090,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Water, milk, black tea, sugar, ginger, cardamom, cloves, cinnamon and other spices.
 - **Preparation details:** Tea leaves and spices are simmered with water and milk, then sweetened according to preference.
 - **Nutrition source:** Healthify Nutrifacts.
+- ** Source URL:** https://www.healthifyme.com/web/nutrifacts/masala-chai-0cdff33d93
 
 ## Nutrition values per 100 g
 
@@ -1110,6 +1123,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Cooked rice, yogurt (curd), milk, mustard seeds, curry leaves, ginger and green chilli.
 - **Preparation details:** Cooked rice is mixed with yogurt and sometimes milk, then seasoned with a tempering of spices and curry leaves.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/curd-rice-dahi-bhaat-dahi-chawal-perugu-annam-daddojanam-thayir-saadam/
 
 ## Nutrition values per 100 g
 
@@ -1142,6 +1156,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Bread, mixed vegetables, mayonnaise, cucumber, tomato, onion and seasonings.
 - **Preparation details:** Sliced vegetables and mayonnaise are layered between bread slices.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB), using the mayonnaise-based variant.
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/vegetable-and-mayonnaise-sandwich/ 
 
 ## Nutrition values per 100 g
 
@@ -1208,6 +1223,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Khoya, flour, milk solids, sugar, cardamom, ghee or oil and sugar syrup.
 - **Preparation details:** Soft dough balls are shaped, deep-fried and soaked in flavoured sugar syrup.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB), using the Khoya Gulab Jamun variant.
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/gulab-jamun-with-khoya/
 
 ## Nutrition values per 100 g
 
@@ -1240,6 +1256,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Refined wheat flour, yogurt, sugar, water, oil or ghee and sometimes saffron.
 - **Preparation details:** A fermented or prepared batter is piped into spiral shapes, deep-fried and soaked in sugar syrup.
 - **Nutrition source:** Healthify Nutrifacts.
+- **Source URL:** https://www.healthifyme.com/web/nutrifacts/jalebi-fe489fd719
 
 ## Nutrition values per 100 g
 
@@ -1272,6 +1289,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Rice, milk, sugar, cardamom, nuts and sometimes raisins.
 - **Preparation details:** Rice is simmered in milk until soft and creamy, then sweetened and flavoured.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB), using the Rice Kheer variant.
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/rice-kheer-chawal-ki-kheer/
 
 ## Nutrition values per 100 g
 
@@ -1372,12 +1390,12 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Source URL:** https://www.healthifyme.com/web/nutrifacts/vada-pav-284e957a95
 
 ## Values observed per 100 g
-- Energy (kcal): Not available
-- Energy (kJ): Not available
-- Carbohydrates: Not available
-- Protein: Not available
-- Fat: Not available
-- Fibre: Not available
+- Energy (kcal): 227.9
+- Energy (kJ): 953.83
+- Carbohydrates: 33.21	
+- Protein: 3.91	
+- Fat: 8.99	
+- Fibre: 1.64
 
 ## Values observed per serving
 - Serving description: 1 serving
@@ -1401,14 +1419,15 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Semolina (rava), rice flour, yogurt or water, cumin seeds, green chilli, ginger, curry leaves and oil.
 - **Preparation details:** A thin batter made with semolina and other ingredients is spread on a hot griddle and cooked until crisp.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/semolina-dosa-suji-rava-dosa/
 
 ## Values observed per 100 g
-- Energy (kcal): Not available
-- Energy (kJ): Not available
-- Carbohydrates: Not available
-- Protein: Not available
-- Fat: Not available
-- Fibre: Not available
+- Energy (kcal): 227.05
+- Energy (kJ): 947.56	
+- Carbohydrates: 32.84	
+- Protein: 7.30	
+- Fat: 7.12	
+- Fibre: 4.04
 
 ## Values observed per serving
 - Serving description: 1 serving
@@ -1432,14 +1451,15 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Rice, coconut milk, yeast, sugar, salt and water.
 - **Preparation details:** A fermented rice-based batter is spread in an appam pan and cooked into a soft-centred pancake with crisp edges.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/appam/
 
 ## Values observed per 100 g
-- Energy (kcal): Not available
-- Energy (kJ): Not available
-- Carbohydrates: Not available
-- Protein: Not available
-- Fat: Not available
-- Fibre: Not available
+- Energy (kcal): 267.7
+- Energy (kJ): 1120.32
+- Carbohydrates: 13.28
+- Protein: 3.12
+- Fat: 22.63
+- Fibre: 6.19
 
 ## Values observed per serving
 - Serving description: 1 serving
@@ -1463,14 +1483,15 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Toor dal, tamarind, mixed vegetables, sambar powder, mustard seeds, curry leaves and spices.
 - **Preparation details:** Lentils and vegetables are cooked with tamarind and spices, then finished with a tempering.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/sambar/
 
 ## Values observed per 100 g
-- Energy (kcal): Not available
-- Energy (kJ): Not available
-- Carbohydrates: Not available
-- Protein: Not available
-- Fat: Not available
-- Fibre: Not available
+- Energy (kcal): 96.92
+- Energy (kJ): 404.5
+- Carbohydrates: 10.57
+- Protein: 3.35
+- Fat: 4.38
+- Fibre: 3.52
 
 ## Values observed per serving
 - Serving description: 1 serving
@@ -1493,14 +1514,15 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Tamarind, tomato, black pepper, cumin, garlic, curry leaves, mustard seeds and spices.
 - **Preparation details:** A thin, spiced broth is prepared by simmering tamarind, tomato and spices, then finished with a tempering.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB), using the Tamarind Rasam variant.
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/rasam-with-tamarind-puli-rasam-chintapandu-rasam-charu-saaru/
 
 ## Values observed per 100 g
-- Energy (kcal): Not available
-- Energy (kJ): Not available
-- Carbohydrates: Not available
-- Protein: Not available
-- Fat: Not available
-- Fibre: Not available
+- Energy (kcal): 26.74	
+- Energy (kJ): 111.55
+- Carbohydrates: 3.37
+- Protein: 1.13
+- Fat: 0.88
+- Fibre: 1.60
 
 ## Values observed per serving
 - Serving description: 1 serving
@@ -1524,14 +1546,15 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Potato, cauliflower, onion, tomato, ginger, garlic, turmeric and spices.
 - **Preparation details:** Potato and cauliflower are cooked together with spices, either as a dry preparation or a semi-dry curry.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/potato-cauliflower-aloo-gobhi/
 
 ## Values observed per 100 g
-- Energy (kcal): Not available
-- Energy (kJ): Not available
-- Carbohydrates: Not available
-- Protein: Not available
-- Fat: Not available
-- Fibre: Not available
+- Energy (kcal): 106.18	
+- Energy (kJ): 439.24
+- Carbohydrates: 5.99
+- Protein: 1.90
+- Fat: 8.13
+- Fibre: 3.20
 
 ## Values observed per serving
 - Serving description: 1 serving
@@ -1555,14 +1578,15 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Split Bengal gram (chana dal), water, onion, tomato, turmeric, cumin, garlic and spices.
 - **Preparation details:** Split Bengal gram is cooked until soft and seasoned with spices or a tempering.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/split-bengal-gram-dal-channa-dal/
 
 ## Values observed per 100 g
-- Energy (kcal): Not available
-- Energy (kJ): Not available
-- Carbohydrates: Not available
-- Protein: Not available
-- Fat: Not available
-- Fibre: Not available
+- Energy (kcal): 99.67	
+- Energy (kJ): 415.08
+- Carbohydrates: 9.99
+- Protein: 4.15
+- Fat: 4.62
+- Fibre: 3.72
 
 ## Values observed per serving
 - Serving description: 1 serving
@@ -1586,6 +1610,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Gram flour (besan), ghee, sugar and water.
 - **Preparation details:** Gram flour is cooked with hot ghee and sugar syrup until it forms a rich, dense sweet.
 - **Nutrition source:** TUMUL / Nandini branded product nutrition information.
+- **Source URL:** https://www.tumul.coop/mysore-pak
 
 ## Values observed per 100 g
 - Energy (kcal): Not available
@@ -1617,14 +1642,15 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Common ingredients:** Hung curd, sugar, cardamom, saffron and sometimes nuts.
 - **Preparation details:** Strained yogurt is whisked with sugar and flavourings until smooth and creamy.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
+- **Source URL:** https://www.anuvaad.org.in/nutrition-fact/sweetened-yogurt-shrikhand/
 
 ## Values observed per 100 g
-- Energy (kcal): Not available
-- Energy (kJ): Not available
-- Carbohydrates: Not available
-- Protein: Not available
-- Fat: Not available
-- Fibre: Not available
+- Energy (kcal): 107.18	
+- Energy (kJ): 453.48
+- Carbohydrates: 16.02
+- Protein: 5.27
+- Fat: 2.89
+- Fibre: 0.08
 
 ## Values observed per serving
 - Serving description: 1 serving
