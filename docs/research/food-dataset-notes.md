@@ -1,4 +1,4 @@
-## Poha — Food Dataset Research Notes
+# Poha — Food Dataset Research Notes
 
 ## Food identification
 - Food name: Poha
@@ -42,7 +42,7 @@ Ingredients and oil quantity vary by recipe.
 - Per-serving provenance: recorded from the Anuvaad INDB per-serving value.
 - The source provides both per-100-g and per-serving values. This record uses the per-100-g reference values; the bowl serving weight has not been confirmed.
 
-## Idli — Food Dataset Research Notes
+# Idli — Food Dataset Research Notes
 
 ## Food identification
 - Food name: Idli
@@ -83,7 +83,7 @@ The batter is fermented and steamed.
 - Nutritional values may vary depending on ingredients and preparation methods.
 
 
-## Roti / Chapati — Food Dataset Research Notes
+# Roti / Chapati — Food Dataset Research Notes
 
 ## Food identification
 - Food name: Roti / Chapati
@@ -125,7 +125,7 @@ The dough is rolled into a flat shape and cooked on a flat griddle. Preparation 
 - The kcal and kJ values show a small conversion difference and should be retained as listed by the source until verified.
 
 
-## Moong Dal — Food Dataset Research Notes
+# Moong Dal — Food Dataset Research Notes
 
 ## Food identification
 - Food name: Moong Dal
@@ -166,7 +166,7 @@ Dal is prepared by cooking moong dal with water and seasonings. Consistency and 
 - Ingredients and preparation methods may affect nutritional values.
 - The record uses the per-100-g reference values; serving weight has not been confirmed.
 
-## Rajma Curry — Food Dataset Research Notes
+# Rajma Curry — Food Dataset Research Notes
 
 ## Food identification
 - Food name: Rajma Curry
