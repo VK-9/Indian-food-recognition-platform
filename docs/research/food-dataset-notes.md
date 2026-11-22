@@ -1,4 +1,4 @@
-# Poha — Food Dataset Research Notes
+## Poha — Food Dataset Research Notes
 
 ## Food identification
 - Food name: Poha
@@ -42,7 +42,7 @@ Ingredients and oil quantity vary by recipe.
 - Per-serving provenance: recorded from the Anuvaad INDB per-serving value.
 - The source provides both per-100-g and per-serving values. This record uses the per-100-g reference values; the bowl serving weight has not been confirmed.
 
-# Idli — Food Dataset Research Notes
+## Idli — Food Dataset Research Notes
 
 ## Food identification
 - Food name: Idli
@@ -83,7 +83,7 @@ The batter is fermented and steamed.
 - Nutritional values may vary depending on ingredients and preparation methods.
 
 
-# Roti / Chapati — Food Dataset Research Notes
+## Roti / Chapati — Food Dataset Research Notes
 
 ## Food identification
 - Food name: Roti / Chapati
@@ -125,7 +125,7 @@ The dough is rolled into a flat shape and cooked on a flat griddle. Preparation 
 - The kcal and kJ values show a small conversion difference and should be retained as listed by the source until verified.
 
 
-# Moong Dal — Food Dataset Research Notes
+## Moong Dal — Food Dataset Research Notes
 
 ## Food identification
 - Food name: Moong Dal
@@ -166,7 +166,7 @@ Dal is prepared by cooking moong dal with water and seasonings. Consistency and 
 - Ingredients and preparation methods may affect nutritional values.
 - The record uses the per-100-g reference values; serving weight has not been confirmed.
 
-# Rajma Curry — Food Dataset Research Notes
+## Rajma Curry — Food Dataset Research Notes
 
 ## Food identification
 - Food name: Rajma Curry
@@ -214,7 +214,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 
 ## Additional Food Entries (F006–F010)
 
-### F006 – Dal Tadka
+## F006 – Dal Tadka
 
 - **Food ID:** F006
 - **Category:** Lentil dish
@@ -239,7 +239,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 
 - **Confidence and limitations:** Values are from a secondary nutrition reference, not Anuvaad INDB. Recipe and tempering quantities may vary.
 
-### F007 – Chole
+## F007 – Chole
 
 - **Food ID:** F007
 - **Category:** Legume dish / Chickpea curry
@@ -251,7 +251,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 - **Source URL:** https://www.anuvaad.org.in/nutrition-fact/chickpeas-curry-safed-channa-curry/
 
-### Values observed per 100 g
+## Values observed per 100 g
 - Energy: 163.43 kcal
 - Energy: 680.17 kJ
 - Carbohydrates: 19.98 g
@@ -271,7 +271,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 - Per-serving values were recorded from the Anuvaad INDB per-serving entry.
 - **Confidence and limitations:** Nutrition values are recorded from the matching Anuvaad INDB Chickpeas Curry (Safed Channa Curry) entry per 100 g. The recipe may differ from homemade Chole preparations.
 
-### F008 – Aloo Paratha
+## F008 – Aloo Paratha
 
 - **Food ID:** F008
 - **Category:** Bread / Stuffed flatbread
@@ -283,7 +283,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 - **Source URL:** https://www.anuvaad.org.in/nutrition-fact/potato-parantha-paratha-aloo-ka-parantha-paratha/
 
-### Values observed per 100 g
+## Values observed per 100 g
 - Energy: 205.04 kcal
 - Energy: 851.61 kJ
 - Carbohydrates: 23.92 g
@@ -303,7 +303,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 - Per-serving values were recorded from the Anuvaad INDB per-serving entry.
 - **Confidence and limitations:** Nutrition values are recorded from the matching Anuvaad INDB Potato Paratha entry per 100 g. Values may vary with the potato filling and the quantity of oil or ghee used.
 
-### F009 – Mixed Vegetable Pulao
+## F009 – Mixed Vegetable Pulao
 
 - **Food ID:** F009
 - **Category:** Rice dish
@@ -315,7 +315,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 - **Source URL:** https://www.anuvaad.org.in/nutrition-fact/mixed-vegetable-pulao/
 
-### Values observed per 100 g
+## Values observed per 100 g
 - Energy: 113.05 kcal
 - Energy: 471 kJ
 - Carbohydrates: 17.49 g
@@ -335,7 +335,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 - Per-serving values were recorded from the Anuvaad INDB per-serving entry.
 - **Confidence and limitations:** Nutrition values are recorded from the matching Anuvaad INDB Mixed Vegetable Pulao entry per 100 g. Vegetable proportions and cooking oil or ghee quantities may vary.
 
-### F010 – Plain Dosa
+## F010 – Plain Dosa
 
 - **Food ID:** F010
 - **Category:** South Indian dish
@@ -347,7 +347,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 - **Source URL:** https://www.anuvaad.org.in/nutrition-fact/plain-dosa/
 
-### Values observed per 100 g
+## Values observed per 100 g
 - Energy: 380.91 kcal
 - Energy: 1588.71 kJ
 - Carbohydrates: 64.08 g
@@ -367,7 +367,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 - Per-serving values were recorded from the Anuvaad INDB per-serving entry.
 - **Confidence and limitations:** Nutrition values are recorded from the matching Anuvaad INDB Plain Dosa entry per 100 g. Masala Dosa is a separate preparation and is not included in this record.
 
-### F011 – Samosa
+## F011 – Samosa
 
 - **Food ID:** F011
 - **Category:** Snack
@@ -377,7 +377,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 - **Source URL:** https://www.anuvaad.org.in/nutrition-fact/potato-samosa-aloo-ka-samosa/
 
-### Values observed per 100 g
+## Values observed per 100 g
 - Energy: 577.39 kcal
 - Energy: 2377.14 kJ
 - Carbohydrates: 9.21 g
@@ -385,7 +385,7 @@ Kidney beans are cooked and prepared with spices and gravy.
 - Fat: 59.19 g
 - Fibre: 1.19 g
 
-### Values observed per serving
+## Values observed per serving
 - Serving description: 1 samosa
 - Energy: 813.76 kcal
 - Energy: 3350.3 kJ
@@ -394,11 +394,11 @@ Kidney beans are cooked and prepared with spices and gravy.
 - Fat: 83.42 g
 - Fibre: 1.68 g
 
-### Confidence and limitations
+## Confidence and limitations
 The per-serving value of 813.76 kcal was recorded from the Anuvaad INDB per-serving value. It is substantially higher than the recorded per-100-g value of 577.39 kcal and requires source or portion-size verification.
 - Per-serving provenance: recorded from the Anuvaad INDB per-serving value.
 
-### F012 – Vegetable Pakora
+## F012 – Vegetable Pakora
 
 - **Food ID:** F012
 - **Category:** Snack
@@ -408,7 +408,7 @@ The per-serving value of 813.76 kcal was recorded from the Anuvaad INDB per-serv
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 - **Source URL:** https://www.anuvaad.org.in/nutrition-fact/mixed-vegetable-pakora-pakoda/
 
-### Values observed per 100 g
+## Values observed per 100 g
 - Energy: 673.81 kcal
 - Energy: 2774.04 kJ
 - Carbohydrates: 5.12 g
@@ -416,7 +416,7 @@ The per-serving value of 813.76 kcal was recorded from the Anuvaad INDB per-serv
 - Fat: 71.86 g
 - Fibre: 1.13 g
 
-### Values observed per serving
+## Values observed per serving
 - Serving description: Not used
 - Energy: Not available
 - Energy (kJ): Not available
@@ -425,10 +425,10 @@ The per-serving value of 813.76 kcal was recorded from the Anuvaad INDB per-serv
 - Fat: Not available
 - Fibre: Not available
 
-### Confidence and limitations
+## Confidence and limitations
 Values are recorded from the Mixed Vegetable Pakora/Pakoda entry per 100 g. The reported energy and fat values should be independently rechecked against the source. Vegetable mix and oil absorption may vary. Anuvaad predefined per-serving values appear internally inconsistent; per-serving nutrition values were excluded pending verification.
 
-### F013 – Upma
+## F013 – Upma
 
 - **Food ID:** F013
 - **Category:** Breakfast
@@ -438,7 +438,7 @@ Values are recorded from the Mixed Vegetable Pakora/Pakoda entry per 100 g. The 
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 - **Source URL:** https://www.anuvaad.org.in/nutrition-fact/semolina-upma-suji-rava-upma/
 
-### Values observed per 100 g
+## Values observed per 100 g
 - Energy: 147.89 kcal
 - Energy: 614.18 kJ
 - Carbohydrates: 16.31 g
@@ -446,7 +446,7 @@ Values are recorded from the Mixed Vegetable Pakora/Pakoda entry per 100 g. The 
 - Fat: 7.49 g
 - Fibre: 3.24 g
 
-### Values observed per serving
+## Values observed per serving
 - Serving description: 1 bowl
 - Energy: 157.14 kcal
 - Energy: 652.6 kJ
@@ -455,10 +455,10 @@ Values are recorded from the Mixed Vegetable Pakora/Pakoda entry per 100 g. The 
 - Fat: 7.96 g
 - Fibre: 3.45 g
 
-### Confidence and limitations
+## Confidence and limitations
 Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values are recorded from the Semolina Upma (Suji/Rava Upma) entry per 100 g. Vegetable mix and oil quantity may vary.
 
-### F014 – Khichdi
+## F014 – Khichdi
 
 - **Food ID:** F014
 - **Category:** Main course
@@ -468,7 +468,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 - **Source URL:** https://www.anuvaad.org.in/nutrition-fact/rice-dal-porridge-chawal-dal-ki-khichdi-khichri/
 
-### Values observed per 100 g
+## Values observed per 100 g
 - Energy: 383.33 kcal
 - Energy: 1603.90 kJ
 - Carbohydrates: 65.04 g
@@ -476,7 +476,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - Fat: 8.33 g
 - Fibre: 4.51 g
 
-### Values observed per serving
+## Values observed per serving
 - Serving description: Not available (Custom portion only)
 - Energy: Not available
 - Energy (kJ): Not available
@@ -485,10 +485,10 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - Fat: Not available
 - Fibre: Not available
 
-### Confidence and limitations
+## Confidence and limitations
 No predefined serving was available in Anuvaad INDB; only the Custom portion option was found, so per-serving values were left blank. Values are recorded from the Rice Dal Porridge (Chawal Dal ki Khichdi/Khichri) entry per 100 g. The energy value is unusually high for a cooked khichdi preparation and should be rechecked against the source. Rice-to-dal ratio and recipe may vary.
 
-### F015 – Lemon Rice
+## F015 – Lemon Rice
 
 - **Food ID:** F015
 - **Category:** Main course
@@ -498,7 +498,7 @@ No predefined serving was available in Anuvaad INDB; only the Custom portion opt
 - **Nutrition source:** Anuvaad Indian Nutrient Databank (INDB).
 - **Source URL:** https://www.anuvaad.org.in/nutrition-fact/lemon-rice-pulihora-elumichai-sadam-chitranna/
 
-### Values observed per 100 g
+## Values observed per 100 g
 - Energy: 176.3 kcal
 - Energy: 734.93 kJ
 - Carbohydrates: 21.62 g
@@ -506,7 +506,7 @@ No predefined serving was available in Anuvaad INDB; only the Custom portion opt
 - Fat: 7.88 g
 - Fibre: 2.52 g
 
-### Values observed per serving
+## Values observed per serving
 - Serving description: 1 plate
 - Energy: 562.69 kcal
 - Energy: 2345.6 kJ
@@ -515,10 +515,10 @@ No predefined serving was available in Anuvaad INDB; only the Custom portion opt
 - Fat: 25.15 g
 - Fibre: 8.05 g
 
-### Confidence and limitations
+## Confidence and limitations
 Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values are recorded from the matching Anuvaad INDB Lemon Rice entry per 100 g. Nutrition may vary depending on the amount of oil, peanuts and lemon used.
 
-# F016 – Jeera Rice
+## F016 – Jeera Rice
 
 - **Food ID:** F016
 - **Category:** Main course
@@ -551,7 +551,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 
 - **Confidence and limitations:** Values are recorded from the matching Anuvaad INDB Cumin Pulao (Jeera/Zeera Pulao) entry per 100 g. Nutrition may vary depending on the rice variety and the quantity of oil or ghee used.
 
-# F017 – Puri
+## F017 – Puri
 
 - **Food ID:** F017
 - **Category:** Main course
@@ -583,7 +583,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Puri entry per 100 g. The reported energy and fat values are unusually high, while the carbohydrate value appears low for a wheat-based food. These figures should be independently rechecked against the source before being treated as reliable. Oil absorption and preparation methods may also vary.
 
-# F018 – Bhatura
+## F018 – Bhatura
 
 - **Food ID:** F018
 - **Category:** Main course
@@ -615,7 +615,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Bhatura entry per 100 g. The reported energy and fat values are unusually high, while carbohydrate values appear low for a flour-based food. The kcal-to-kJ conversion should also be rechecked. These figures need independent verification before being treated as reliable.
 
-# F019 – Palak Paneer
+## F019 – Palak Paneer
 
 - **Food ID:** F019
 - **Category:** Main course
@@ -647,7 +647,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Palak Paneer entry per 100 g. The exact proportion of spinach, paneer and added fat may differ between recipes, affecting the nutritional composition.
 
-# F020 – Paneer Butter Masala
+## F020 – Paneer Butter Masala
 
 - **Food ID:** F020
 - **Category:** Main course
@@ -680,7 +680,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 
 - **Confidence and limitations:** The source entry is Paneer in Butter Sauce, which is a close match rather than an exact match for every Paneer Butter Masala recipe. Nutrition may vary with the amount of paneer, butter and cream used.
 
-# F021 – Masala Dosa
+## F021 – Masala Dosa
 
 - **Food ID:** F021
 - **Category:** Main course
@@ -712,7 +712,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Masala Dosa entry per 100 g. Nutrition may vary with the dosa size, potato filling and quantity of oil used. This is a filled Masala Dosa record, not the plain dosa preparation.
 
-# F022 – Uttapam
+## F022 – Uttapam
 
 - **Food ID:** F022
 - **Category:** Main course
@@ -745,7 +745,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 
 - **Confidence and limitations:** Values are based on the INDB standard Uttapam recipe hosted by RealCalorieTracker. Toppings, batter proportions and cooking oil may vary across preparations.
 
-# F023 – Medu Vada
+## F023 – Medu Vada
 
 - **Food ID:** F023
 - **Category:** Snack
@@ -778,7 +778,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Medu Vada entry per 100 g. The reported energy and fat values are unusually high, while carbohydrate values appear low for a lentil-based preparation. These figures should be independently rechecked against the source. Oil absorption and preparation methods may vary.
 
 
-# F024 – Dhokla
+## F024 – Dhokla
 
 - **Food ID:** F024
 - **Category:** Snack
@@ -810,7 +810,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Khaman variant per 100 g. Khaman is a specific type of Dhokla, so these values should not be assumed to represent every Dhokla recipe. Preparation and tempering may vary.
 
-# F025 – Kachori
+## F025 – Kachori
 
 - **Food ID:** F025
 - **Category:** Snack
@@ -843,7 +843,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Kachori entry per 100 g. The reported energy and fat values are unusually high, while carbohydrate values appear low for a flour-based preparation. These figures should be independently rechecked against the source. Filling type and oil absorption may vary.
 
 
-# F026 – Pav Bhaji
+## F026 – Pav Bhaji
 
 - **Food ID:** F026
 - **Category:** Main course
@@ -875,7 +875,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Pav Bhaji entry per 100 g. The proportions of vegetables, butter and pav may differ across recipes and serving styles.
 
-# F027 – Misal Pav
+## F027 – Misal Pav
 
 - **Food ID:** F027
 - **Category:** Main course
@@ -908,7 +908,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 
 - **Confidence and limitations:** Values are ingredient-based estimates rather than laboratory measurements. The amount of farsan, curry, oil and pav included in the serving can affect the nutritional composition.
 
-# F028 – Methi Thepla
+## F028 – Methi Thepla
 
 - **Food ID:** F028
 - **Category:** Main course
@@ -940,7 +940,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 
 - **Confidence and limitations:** Values are recorded from the Methi Thepla variant per 100 g. They may not represent plain Thepla or recipes with different amounts of fenugreek, yogurt and oil.
 
-# F029 – Litti Chokha
+## F029 – Litti Chokha
 
 - **Food ID:** F029
 - **Category:** Main course
@@ -973,7 +973,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 
 - **Confidence and limitations:** These values are approximate recipe-based estimates, not laboratory-tested measurements. The proportions of litti, chokha and added ghee or oil can vary, affecting the nutritional composition. The reported 580 g serving and its estimated 1068 kcal should be treated as recipe-specific rather than universal values.
 
-# F030 – Baingan Bharta
+## F030 – Baingan Bharta
 
 - **Food ID:** F030
 - **Category:** Main course
@@ -1006,7 +1006,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Baingan Bharta entry per 100 g. The amount of oil and the proportions of eggplant and other vegetables may vary across recipes.
 
 
-# F031 – Vegetable Biryani
+## F031 – Vegetable Biryani
 
 - **Food ID:** F031
 - **Category:** Main course
@@ -1038,7 +1038,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Vegetable Biryani entry per 100 g. Vegetable proportions, rice quantity, cooking fat and preparation methods may vary.
 
-# F032 – Chicken Biryani
+## F032 – Chicken Biryani
 
 - **Food ID:** F032
 - **Category:** Main course
@@ -1070,7 +1070,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 
 - **Confidence and limitations:** Values are taken from Barbeque Nation's published nutrition information and represent a branded restaurant preparation. They may not reflect homemade Chicken Biryani or other restaurant recipes. Serving composition and preparation methods can vary.
 
-# F033 – Masala Chai
+## F033 – Masala Chai
 
 - **Food ID:** F033
 - **Category:** Beverage
@@ -1102,7 +1102,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 
 - **Confidence and limitations:** Per-serving nutrition values are recorded from Healthify Nutrifacts. Energy in kJ was not provided by the source. Nutrition may vary with milk type, sugar quantity and spice proportions. The values should not be assumed to represent unsweetened tea.
 
-# F034 – Curd Rice
+## F034 – Curd Rice
 
 - **Food ID:** F034
 - **Category:** Main course
@@ -1134,7 +1134,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Curd Rice entry per 100 g. Nutrition may vary with the rice-to-curd ratio, milk addition and tempering ingredients.
 
-# F035 – Vegetable Sandwich
+## F035 – Vegetable Sandwich
 
 - **Food ID:** F035
 - **Category:** Snack
@@ -1167,7 +1167,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Confidence and limitations:** Values are recorded from the mayonnaise-based Vegetable Sandwich variant per 100 g. They should not be treated as representative of a plain vegetable sandwich. Mayonnaise quantity, bread type and vegetable proportions may vary.
 
 
-# F036 – Paneer Tikka
+## F036 – Paneer Tikka
 
 - **Food ID:** F036
 - **Category:** Starter
@@ -1200,7 +1200,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 
 - **Confidence and limitations:** Values are recipe-based estimates from the selected RecipeDB entry, not laboratory-tested measurements. Paneer type, marinade ingredients and cooking method may affect the nutritional composition.
 
-# F037 – Gulab Jamun
+## F037 – Gulab Jamun
 
 - **Food ID:** F037
 - **Category:** Dessert
@@ -1232,7 +1232,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 
 - **Confidence and limitations:** Values are recorded from the Khoya Gulab Jamun variant per 100 g. They may not represent other recipes or versions made with different ingredients. Sugar syrup absorption and frying fat can affect the nutritional composition. The predefined serving value could not be verified and was excluded.
 
-# F038 – Jalebi
+## F038 – Jalebi
 
 - **Food ID:** F038
 - **Category:** Dessert
@@ -1264,7 +1264,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 
 - **Confidence and limitations:** Per-serving nutrition values are recorded from Healthify Nutrifacts. Energy in kJ was not provided by the source. Nutrition may vary with batter composition, frying method and sugar syrup absorption.
 
-# F039 – Kheer
+## F039 – Kheer
 
 - **Food ID:** F039
 - **Category:** Dessert
@@ -1296,7 +1296,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 
 - **Confidence and limitations:** Values are recorded from the Rice Kheer variant per 100 g. They may not represent other types of Kheer, such as vermicelli or millet-based preparations. Milk type, sugar quantity and cooking method may vary.
 
-# F040 – Poha Jalebi
+## F040 – Poha Jalebi
 
 - **Food ID:** F040
 - **Category:** Main course
@@ -1330,7 +1330,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 
 
 
-# F041 – Dal Baati Churma
+## F041 – Dal Baati Churma
 
 - **Food ID:** F041
 - **Category:** Main course
@@ -1361,7 +1361,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Confidence and limitations:** Nutrition values are intentionally left blank because a reliable source for the exact combined Dal Baati Churma serving was not identified. The proportions of dal, baati, churma and ghee vary considerably. Separate component values should not be presented as verified combined values.
 
 
-# F042 – Vada Pav
+## F042 – Vada Pav
 
 - **Food ID:** F042
 - **Category:** Snack
@@ -1393,7 +1393,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Confidence and limitations:** Per-serving nutrition values are recorded from Healthify Nutrifacts. Energy in kJ was not provided by the source. Nutrition may vary with pav size, potato filling, chutneys and oil absorption.
 
 
-# F043 – Rava Dosa
+## F043 – Rava Dosa
 
 - **Food ID:** F043
 - **Category:** Main course
@@ -1424,7 +1424,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Confidence and limitations:** Per-serving values are recorded from the selected Anuvaad INDB Rava Dosa entry. Batter ingredients, thickness and cooking oil may vary across preparations.
 
 
-# F044 – Appam
+## F044 – Appam
 
 - **Food ID:** F044
 - **Category:** Main course
@@ -1455,7 +1455,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Confidence and limitations:** Per-serving values are recorded from the selected Anuvaad INDB Appam entry. The reported fat content is relatively high for a rice-based preparation and should be rechecked against the source. Coconut milk quantity and preparation methods may vary.
 
 
-# F045 – Sambar
+## F045 – Sambar
 
 - **Food ID:** F045
 - **Category:** Main course
@@ -1485,7 +1485,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 
 - **Confidence and limitations:** Per-serving values are recorded from the selected Anuvaad INDB Sambar entry. Dal-to-vegetable proportions, tamarind and tempering quantities may vary across recipes.
 
-# F046 – Rasam
+## F046 – Rasam
 
 - **Food ID:** F046
 - **Category:** Main course
@@ -1516,7 +1516,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Confidence and limitations:** Values are recorded from the Tamarind Rasam variant. Tomato content, tamarind concentration and preparation methods may vary across recipes.
 
 
-# F047 – Aloo Gobi
+## F047 – Aloo Gobi
 
 - **Food ID:** F047
 - **Category:** Main course
@@ -1547,7 +1547,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Aloo Gobi entry. The potato-to-cauliflower ratio and quantity of oil may vary across recipes.
 
 
-# F048 – Chana Dal
+## F048 – Chana Dal
 
 - **Food ID:** F048
 - **Category:** Main course
@@ -1578,7 +1578,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Confidence and limitations:** Values are recorded from the selected Anuvaad INDB Chana Dal entry. The source preparation basis (cooked or uncooked) should be confirmed, as this can substantially affect nutritional values. Water content and tempering ingredients may also vary.
 
 
-# F049 – Mysore Pak
+## F049 – Mysore Pak
 
 - **Food ID:** F049
 - **Category:** Dessert
@@ -1609,7 +1609,7 @@ Per-serving values were recorded from the Anuvaad INDB per-serving entry. Values
 - **Confidence and limitations:** The source lists pack weights of 25 g, 100 g, 250 g and 500 g, but its nutrition heading states per 100 ml. Since the basis is unclear for this solid food, the values are excluded from the dataset pending verification.
 
 
-# F050 – Shrikhand
+## F050 – Shrikhand
 
 - **Food ID:** F050
 - **Category:** Dessert
