@@ -8,7 +8,7 @@ This document explains the fields used in `data/food/foods.csv`. It defines the 
 
 - **File:** `data/food/foods.csv`
 - **Format:** CSV (Comma-Separated Values)
-- **Measurement basis:** Nutrition values are recorded per 100 grams wherever reliable source data is available.
+- **Measurement basis:** Nutrition values are recorded per 100 grams wherever reliable source data is available. Per-serving values are recorded separately when the source provides them.
 - **Missing values:** Fields may remain empty when verified information is unavailable. Missing values must not be replaced with invented data.
 
 ## 3. Field Definitions
@@ -21,8 +21,8 @@ This document explains the fields used in `data/food/foods.csv`. It defines the 
 | 4 | `food_category` | Category used to group the food, such as snack, bread, rice dish, or lentil dish. |
 | 5 | `common_ingredients` | Main ingredients commonly used to prepare the food. |
 | 6 | `preparation_notes` | Important preparation details, recipe variations, or differences that may affect identification or nutrition. |
-| 7 | `serving_size` | Serving quantity recorded for the food, where available. |
-| 8 | `serving_unit` | Unit used for the serving size, such as grams (g). |
+| 7 | `reference_quantity` | Reference quantity used as the basis for per-100-g nutrition values (100 in the current dataset). |
+| 8 | `reference_unit` | Unit used for the reference quantity, such as grams (g). |
 | 9 | `nutrition_source` | Name of the source used to obtain or estimate the nutrition information. |
 | 10 | `nutrition_source_url` | Direct web reference or URL for the nutrition source, where available. |
 | 11 | `energy_kcal_per_100g` | Energy value in kilocalories (kcal) per 100 grams. |
@@ -33,8 +33,13 @@ This document explains the fields used in `data/food/foods.csv`. It defines the 
 | 16 | `fibre_g_per_100g` | Dietary fibre content in grams per 100 grams. |
 | 17 | `confidence_or_notes` | Confidence information, source limitations, assumptions, unusual values, or other relevant data-quality notes. |
 | 18 | `similar_dishes` | Names of visually or contextually similar dishes that may help distinguish the food entry. |
-| 19 | `serving_description` | Describes the serving quantity or portion, such as 1 bowl or 1 piece. |
+| 19 | `serving_description` | Describes the source-reported serving portion, such as 1 bowl or 1 piece. It does not guarantee a standardized serving weight. |
 | 20 | `energy_kcal_per_serving` | Energy value in kilocalories for the documented serving portion, when available. |
+| 21 | `energy_kj_per_serving` | Energy value in kilojoules for the documented serving portion, when available. |
+| 22 | `carbohydrates_g_per_serving` | Carbohydrate content in grams for the documented serving portion, when available. |
+| 23 | `protein_g_per_serving` | Protein content in grams for the documented serving portion, when available. |
+| 24 | `fat_g_per_serving` | Fat content in grams for the documented serving portion, when available. |
+| 25 | `fibre_g_per_serving` | Fibre content in grams for the documented serving portion, when available. |
 
 ## 4. Data Consistency Rules
 
@@ -57,4 +62,4 @@ This data dictionary should be read together with:
 
 ## 6. Conclusion
 
-The data dictionary provides a common understanding of all 20 fields in the Indian food dataset. It helps maintain consistent records, supports future integration with the food-recognition prototype, and makes the dataset easier to review and maintain.
+The data dictionary provides a common understanding of all 25 fields in the Indian food dataset. It helps maintain consistent records, supports future integration with the food-recognition prototype, and makes the dataset easier to review and maintain.
